@@ -1,0 +1,18 @@
+{
+  "job": "myMicrobyte_v08_trials_black",
+  "status": "printing",
+  "started_observed_at": "2026-10-17T21:45:25.456417+08:00",
+  "progress_percent": 3,
+  "layer": 1,
+  "total_layers": 109,
+  "filament": "black PLA A4",
+  "grams": 54.14,
+  "eta_local": "2026-10-18 01:27 Asia/Shanghai",
+  "sent_once": true,
+  "do_not_resend": true,
+  "project": "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_black_PLA_v08_trials/myMicrobyte_v08_trials_black.3mf",
+  "sliced_file": "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_black_PLA_v08_trials/myMicrobyte_v08_trials_black.gcode.3mf",
+  "last_observed_at": "2026-10-17T21:50:04.132970+08:00",
+  "first_layer_observed": true,
+  "evidence": "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/reports/v08_trials/A1_first_layer.png"
+}

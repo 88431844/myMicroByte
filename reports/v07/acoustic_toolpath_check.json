@@ -1,0 +1,10 @@
+{
+  "sampled_layers_mm": [
+    2.12,
+    3.56,
+    5.32,
+    7.24
+  ],
+  "acoustic_support_segments_above_floor": 4,
+  "note": "Toolpath widths shown at nominal extrusion width, not a print accuracy guarantee."
+}

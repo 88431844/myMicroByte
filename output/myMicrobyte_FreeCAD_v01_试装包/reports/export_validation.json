@@ -1,0 +1,63 @@
+{
+  "reopen_valid": true,
+  "invalid_objects": [],
+  "stl": [
+    {
+      "file": "Cap_LEFT_print.stl",
+      "closed": true,
+      "facets": 1508
+    },
+    {
+      "file": "RearShell_print.stl",
+      "closed": true,
+      "facets": 4984
+    },
+    {
+      "file": "Cap_DOWN_print.stl",
+      "closed": true,
+      "facets": 1508
+    },
+    {
+      "file": "Cap_MENU_print.stl",
+      "closed": true,
+      "facets": 1508
+    },
+    {
+      "file": "Cap_START_print.stl",
+      "closed": true,
+      "facets": 1508
+    },
+    {
+      "file": "Cap_A_print.stl",
+      "closed": true,
+      "facets": 1508
+    },
+    {
+      "file": "Cap_UP_print.stl",
+      "closed": true,
+      "facets": 1508
+    },
+    {
+      "file": "Cap_SELECT_print.stl",
+      "closed": true,
+      "facets": 1508
+    },
+    {
+      "file": "Cap_RIGHT_print.stl",
+      "closed": true,
+      "facets": 1508
+    },
+    {
+      "file": "FrontShell_print.stl",
+      "closed": true,
+      "facets": 6660
+    },
+    {
+      "file": "Cap_B_print.stl",
+      "closed": true,
+      "facets": 1508
+    }
+  ],
+  "parameter_change_valid": true,
+  "speaker_slot_empty": true
+}

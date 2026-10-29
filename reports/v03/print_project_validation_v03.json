@@ -1,0 +1,117 @@
+{
+  "file": "printing/A1_black_PLA_v03/myMicrobyte_v03_A1_black_PLA_sliced.3mf",
+  "sha256": "afbe2021f879c4701a34e02e1c48ebed22499b2a08cef5abcc2ef4a38a7c404f",
+  "plate_count": 1,
+  "objects": [
+    {
+      "identify_id": "242",
+      "name": "FrontShell_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "231",
+      "name": "RearShell_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "253",
+      "name": "Cap_A_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "264",
+      "name": "Cap_B_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "275",
+      "name": "Cap_DOWN_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "286",
+      "name": "Cap_LEFT_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "297",
+      "name": "Cap_MENU_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "308",
+      "name": "Cap_RIGHT_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "319",
+      "name": "Cap_SELECT_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "330",
+      "name": "Cap_START_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "341",
+      "name": "Cap_UP_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "352",
+      "name": "PowerSlider_print.stl",
+      "skipped": "false"
+    }
+  ],
+  "slice_metadata": {
+    "index": "1",
+    "extruder_type": "0",
+    "nozzle_volume_type": "0",
+    "printer_model_id": "",
+    "nozzle_diameters": "0.4",
+    "timelapse_type": "0",
+    "prediction": "3892",
+    "weight": "26.92",
+    "pause_count": "0",
+    "first_layer_time": "0.000000",
+    "outside": "false",
+    "support_used": "true",
+    "label_object_enabled": "true",
+    "support_material_on_wipe_tower": "false",
+    "enable_filament_dynamic_map": "false",
+    "has_filament_switcher": "false",
+    "filament_maps": "1",
+    "limit_filament_maps": "0"
+  },
+  "settings": {
+    "printer_model": "Bambu Lab A1",
+    "nozzle_diameter": [
+      "0.4"
+    ],
+    "layer_height": "0.2",
+    "wall_loops": "4",
+    "sparse_infill_density": "20%",
+    "sparse_infill_pattern": "gyroid",
+    "enable_support": "1",
+    "support_type": "normal(auto)",
+    "support_on_build_plate_only": "1",
+    "different_settings_to_system": [
+      "brim_type;brim_width;enable_support;sparse_infill_density;sparse_infill_pattern;support_on_build_plate_only;support_type;wall_loops",
+      "filament_colour",
+      ""
+    ]
+  },
+  "job_sent": true,
+  "job_status": "completed",
+  "device_acknowledged_at_utc": "2026-10-15T19:40:00.150858+00:00",
+  "device_job_name": "myMicrobyte_v03_A1_black_PLA_sliced",
+  "filament_slot": "A4 black PLA",
+  "gui_estimate_grams": 26.9,
+  "gui_estimate_seconds": 4451,
+  "job_evidence": "reports/v03/A1_v03_completed.png",
+  "last_verified_at_utc": "2026-10-15T21:02:25.043331+00:00",
+  "progress_percent": 100,
+  "layer": "122/122",
+  "completed_verified_at_utc": "2026-10-15T21:02:25.043331+00:00"
+}

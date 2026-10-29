@@ -1,0 +1,213 @@
+{
+  "revision": "v0.8 controlled trials",
+  "parts": {
+    "F1": {
+      "kind": "front",
+      "style": "flat",
+      "face_z": 14.2,
+      "bezel_z": 14.2,
+      "hole": 6.6,
+      "hole_A": 6.8,
+      "button_exposure": 1.4,
+      "glass_recess": 0.7,
+      "variable": "baseline"
+    },
+    "F2": {
+      "kind": "front",
+      "style": "flat",
+      "face_z": 13.9,
+      "bezel_z": 13.9,
+      "hole": 6.6,
+      "hole_A": 6.8,
+      "button_exposure": 1.7,
+      "glass_recess": 0.4,
+      "variable": "front surface -0.3 mm"
+    },
+    "F3": {
+      "kind": "front",
+      "style": "raised",
+      "face_z": 14.2,
+      "bezel_z": 15.4,
+      "hole": 6.6,
+      "hole_A": 6.8,
+      "button_exposure": 1.4,
+      "glass_recess": 1.9,
+      "variable": "screen surround +1.2 mm"
+    },
+    "F4": {
+      "kind": "front",
+      "style": "flat",
+      "face_z": 14.2,
+      "bezel_z": 14.2,
+      "hole": 6.4,
+      "hole_A": 6.6,
+      "button_exposure": 1.4,
+      "glass_recess": 0.7,
+      "variable": "button holes -0.2 mm"
+    },
+    "R1": {
+      "kind": "rear",
+      "guide_width": 1.7,
+      "total_guide_clearance": 0.4,
+      "variable": "baseline"
+    },
+    "R2": {
+      "kind": "rear",
+      "guide_width": 1.55,
+      "total_guide_clearance": 0.25,
+      "variable": "guide width -0.15 mm"
+    },
+    "S1": {
+      "kind": "slider",
+      "socket": 1.65,
+      "dots": 1,
+      "variable": "baseline"
+    },
+    "S2": {
+      "kind": "slider",
+      "socket": 1.5,
+      "dots": 2,
+      "variable": "socket -0.15 mm"
+    },
+    "S3": {
+      "kind": "slider",
+      "socket": 1.85,
+      "dots": 3,
+      "variable": "socket +0.20 mm"
+    },
+    "L1": {
+      "kind": "lid",
+      "variable": "identical open frame"
+    },
+    "L2": {
+      "kind": "lid",
+      "variable": "identical spare open frame"
+    }
+  },
+  "collisions": [],
+  "meshes": [
+    {
+      "id": "F1",
+      "volume_mm3": 4285.741467319357,
+      "relative_error": 8.095123609359294e-05,
+      "bounds": [
+        85.0,
+        45.0,
+        4.949999809265137
+      ],
+      "sha256": "800de6de7bb6aa21b47e8e56c15ccca36b3105eb65ab591b411f8b42461fbe6b"
+    },
+    {
+      "id": "F2",
+      "volume_mm3": 3612.83770358077,
+      "relative_error": 8.725624263646484e-05,
+      "bounds": [
+        85.0,
+        45.0,
+        4.649999618530273
+      ],
+      "sha256": "84f66f4e7ed8dd3bfedbcd3a95d76e74472d9e79703aa18b85912305f547b5a7"
+    },
+    {
+      "id": "F3",
+      "volume_mm3": 4646.805887242473,
+      "relative_error": 6.540710433097042e-05,
+      "bounds": [
+        85.0,
+        45.0,
+        6.149999618530273
+      ],
+      "sha256": "6eaff2eee0773432ae992f1a26ce9ebde6a71437c93b82c33c8e9bb787b600a8"
+    },
+    {
+      "id": "F4",
+      "volume_mm3": 4313.866705702402,
+      "relative_error": 7.900726179176632e-05,
+      "bounds": [
+        85.0,
+        45.0,
+        4.949999809265137
+      ],
+      "sha256": "bb9b719b411fa03df2ecaf0a8101f027dadd510cfe48a26e880d5599f56a5ddb"
+    },
+    {
+      "id": "L1",
+      "volume_mm3": 100.07612343763856,
+      "relative_error": 2.299665569696491e-05,
+      "bounds": [
+        13.200000762939453,
+        19.700000762939453,
+        1.700000286102295
+      ],
+      "sha256": "3070bc51fad6fbe63d4513c2c3bc02ac0e67ef8d5161bac14db667f12ec26794"
+    },
+    {
+      "id": "L2",
+      "volume_mm3": 100.07612343763856,
+      "relative_error": 2.299665569696491e-05,
+      "bounds": [
+        13.200000762939453,
+        19.700000762939453,
+        1.700000286102295
+      ],
+      "sha256": "3070bc51fad6fbe63d4513c2c3bc02ac0e67ef8d5161bac14db667f12ec26794"
+    },
+    {
+      "id": "R1",
+      "volume_mm3": 9985.855456412524,
+      "relative_error": 6.943291343948407e-05,
+      "bounds": [
+        85.0,
+        45.0,
+        11.84999942779541
+      ],
+      "sha256": "e8868f73113e899d9021a97aef2dc0fcd35c19f979c035ee13f3edc6eca7ad85"
+    },
+    {
+      "id": "R2",
+      "volume_mm3": 9988.857599593759,
+      "relative_error": 6.796459449843544e-05,
+      "bounds": [
+        85.0,
+        45.0,
+        11.84999942779541
+      ],
+      "sha256": "a37c4ef6af0792d6606d4e0e4e2ec64e3fec89e71dc12d34b6900d5e8e08fe74"
+    },
+    {
+      "id": "S1",
+      "volume_mm3": 92.36373329511166,
+      "relative_error": 1.579759866484158e-05,
+      "bounds": [
+        3.999999523162842,
+        10.40000057220459,
+        4.75
+      ],
+      "sha256": "2caf3ea2a21fe3637f48d71cc5640ff553f6ea0a59aa186138ebc18bd4f157fb"
+    },
+    {
+      "id": "S2",
+      "volume_mm3": 93.09191029346485,
+      "relative_error": 1.539665169870422e-05,
+      "bounds": [
+        3.999999523162842,
+        10.40000057220459,
+        4.75
+      ],
+      "sha256": "404580106b18d4d425a7d62e5ea27069c3eeebb0e8493e181603b1fe4ec5f61d"
+    },
+    {
+      "id": "S3",
+      "volume_mm3": 91.11008729181778,
+      "relative_error": 1.920631980542785e-05,
+      "bounds": [
+        3.999999523162842,
+        10.40000057220459,
+        4.75
+      ],
+      "sha256": "1bb6bdee8d5efc9a2cbac2d9ac54e6c5fb68dfc33c8275acec91cfa88b5d5a99"
+    }
+  ],
+  "front_marks": "recessed F1-F4 beneath screen, 0.32 mm",
+  "rear_marks": "recessed R1/R2 inside battery frame, 0.32 mm"
+}

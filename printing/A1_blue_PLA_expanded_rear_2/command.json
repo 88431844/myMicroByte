@@ -1,0 +1,21 @@
+[
+  "/Applications/BambuStudio.app/Contents/MacOS/BambuStudio",
+  "--debug",
+  "2",
+  "--load-settings",
+  "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_blue_PLA_expanded_rear_2/machine.json;/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_blue_PLA_expanded_rear_2/process.json",
+  "--load-filaments",
+  "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_blue_PLA_expanded_rear_2/filament.json",
+  "--load-defaultfila=1",
+  "--arrange=1",
+  "--orient=0",
+  "--slice=0",
+  "--export-3mf",
+  "myMicrobyte_expanded_rear_2_blue.3mf",
+  "--outputdir",
+  "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_blue_PLA_expanded_rear_2",
+  "--export-settings",
+  "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_blue_PLA_expanded_rear_2/resolved_settings.json",
+  "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_blue_PLA_expanded_rear_2/RearExpanded_1.stl",
+  "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_blue_PLA_expanded_rear_2/RearExpanded_2.stl"
+]

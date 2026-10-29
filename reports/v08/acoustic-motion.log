@@ -1,0 +1,122 @@
+{
+  "revision": "0.8",
+  "lid_sampled_poses": [
+    {
+      "angle_deg": -6,
+      "dy_mm": -2.0
+    },
+    {
+      "angle_deg": -6,
+      "dy_mm": -1.8
+    },
+    {
+      "angle_deg": -6,
+      "dy_mm": -1.6
+    },
+    {
+      "angle_deg": -6,
+      "dy_mm": -1.4
+    },
+    {
+      "angle_deg": -6,
+      "dy_mm": -1.2
+    },
+    {
+      "angle_deg": -6,
+      "dy_mm": -1.0
+    },
+    {
+      "angle_deg": -6,
+      "dy_mm": -0.7999999999999998
+    },
+    {
+      "angle_deg": -6,
+      "dy_mm": -0.5999999999999999
+    },
+    {
+      "angle_deg": -6,
+      "dy_mm": -0.3999999999999999
+    },
+    {
+      "angle_deg": -6,
+      "dy_mm": -0.19999999999999996
+    },
+    {
+      "angle_deg": -6,
+      "dy_mm": 0.0
+    },
+    {
+      "angle_deg": -6.0,
+      "dy_mm": 0
+    },
+    {
+      "angle_deg": -5.5,
+      "dy_mm": 0
+    },
+    {
+      "angle_deg": -5.0,
+      "dy_mm": 0
+    },
+    {
+      "angle_deg": -4.5,
+      "dy_mm": 0
+    },
+    {
+      "angle_deg": -4.0,
+      "dy_mm": 0
+    },
+    {
+      "angle_deg": -3.5,
+      "dy_mm": 0
+    },
+    {
+      "angle_deg": -3.0,
+      "dy_mm": 0
+    },
+    {
+      "angle_deg": -2.5,
+      "dy_mm": 0
+    },
+    {
+      "angle_deg": -2.0,
+      "dy_mm": 0
+    },
+    {
+      "angle_deg": -1.5,
+      "dy_mm": 0
+    },
+    {
+      "angle_deg": -1.0,
+      "dy_mm": 0
+    },
+    {
+      "angle_deg": -0.5,
+      "dy_mm": 0
+    },
+    {
+      "angle_deg": 0.0,
+      "dy_mm": 0
+    }
+  ],
+  "latch_release_mm": 0.25,
+  "speaker_spring_deflection": [
+    {
+      "spring": "SpeakerSideSpringL",
+      "assumed_tip_spread_mm": 0.3,
+      "speaker_intersection_mm3": 0.0,
+      "active_wall_clearance_mm": 0.12876178616322764
+    },
+    {
+      "spring": "SpeakerSideSpringR",
+      "assumed_tip_spread_mm": 0.3,
+      "speaker_intersection_mm3": 0.0,
+      "active_wall_clearance_mm": 0.12876178616322986
+    }
+  ],
+  "failures": [],
+  "limitations": [
+    "Lid motion sampled at 0.2 mm slide / 0.5 degree rotation; not a continuous swept-volume proof.",
+    "Spring deformation is a geometric approximation, not FEA or measured force/fatigue. FDM tolerances and material strength need a physical trial.",
+    "Speaker contact is on the assumed rigid side frame; verify actual driver frame and vent layout before applying force."
+  ]
+}

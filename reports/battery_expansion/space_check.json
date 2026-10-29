@@ -1,0 +1,385 @@
+{
+  "frame_intersections": [],
+  "frame_inner_mm": [
+    57,
+    32
+  ],
+  "rear_valid": true,
+  "rear_solids": 1,
+  "cases": [
+    {
+      "name": "existing",
+      "pack_mm": [
+        51,
+        29,
+        3.3
+      ],
+      "min_corner": [
+        -29.5,
+        -18.4,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.4,
+          "USB_Envelope"
+        ],
+        [
+          0.68,
+          "Ref_U1"
+        ],
+        [
+          1.033,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          1.833,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          1.849,
+          "Ref_CARD1"
+        ],
+        [
+          2.499,
+          "Ref_U17"
+        ],
+        [
+          2.7,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "larger_target",
+      "pack_mm": [
+        56,
+        31,
+        3.3
+      ],
+      "min_corner": [
+        -33.5,
+        -19.8,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.4,
+          "USB_Envelope"
+        ],
+        [
+          0.433,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.68,
+          "Ref_U1"
+        ],
+        [
+          1.233,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          1.849,
+          "Ref_CARD1"
+        ],
+        [
+          2.499,
+          "Ref_U17"
+        ],
+        [
+          2.7,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "length_edge",
+      "pack_mm": [
+        57,
+        30,
+        3.3
+      ],
+      "min_corner": [
+        -34,
+        -19,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.4,
+          "USB_Envelope"
+        ],
+        [
+          0.633,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.68,
+          "Ref_U1"
+        ],
+        [
+          1.433,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          1.849,
+          "Ref_CARD1"
+        ],
+        [
+          2.3,
+          "Speaker_ToleranceEnvelope"
+        ],
+        [
+          2.4,
+          "Speaker_1510"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "width_edge",
+      "pack_mm": [
+        56,
+        32,
+        3.3
+      ],
+      "min_corner": [
+        -33.5,
+        -20.3,
+        1.7
+      ],
+      "reference_intersections": [
+        [
+          "SPEAKER_ConnectorEnvelope",
+          0.45225000000000115
+        ]
+      ],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.0,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.4,
+          "USB_Envelope"
+        ],
+        [
+          0.68,
+          "Ref_U1"
+        ],
+        [
+          0.733,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          1.849,
+          "Ref_CARD1"
+        ],
+        [
+          2.499,
+          "Ref_U17"
+        ],
+        [
+          2.7,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "303050_nominal",
+      "pack_mm": [
+        50,
+        30,
+        3
+      ],
+      "min_corner": [
+        -30,
+        -19,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.633,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.7,
+          "USB_Envelope"
+        ],
+        [
+          0.98,
+          "Ref_U1"
+        ],
+        [
+          1.433,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          2.149,
+          "Ref_CARD1"
+        ],
+        [
+          2.799,
+          "Ref_U17"
+        ],
+        [
+          3.0,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "303055_nominal",
+      "pack_mm": [
+        55,
+        30,
+        3
+      ],
+      "min_corner": [
+        -33,
+        -19,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.633,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.7,
+          "USB_Envelope"
+        ],
+        [
+          0.98,
+          "Ref_U1"
+        ],
+        [
+          1.433,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          2.149,
+          "Ref_CARD1"
+        ],
+        [
+          2.799,
+          "Ref_U17"
+        ],
+        [
+          3.0,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "thicker_pack",
+      "pack_mm": [
+        56,
+        31,
+        3.5
+      ],
+      "min_corner": [
+        -33.5,
+        -19.8,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.2,
+          "USB_Envelope"
+        ],
+        [
+          0.433,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.48,
+          "Ref_U1"
+        ],
+        [
+          1.233,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          1.649,
+          "Ref_CARD1"
+        ],
+        [
+          2.299,
+          "Ref_U17"
+        ],
+        [
+          2.5,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "merchant_measured",
+      "pack_mm": [
+        47.36,
+        30.61,
+        2.97
+      ],
+      "min_corner": [
+        -30,
+        -19.6,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.623,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.73,
+          "USB_Envelope"
+        ],
+        [
+          1.01,
+          "Ref_U1"
+        ],
+        [
+          1.423,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          2.179,
+          "Ref_CARD1"
+        ],
+        [
+          2.829,
+          "Ref_U17"
+        ],
+        [
+          3.03,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    }
+  ],
+  "not_applied_to_printing_job": true
+}

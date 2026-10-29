@@ -1,0 +1,40 @@
+{
+  "project": "/Users/luckmiracle/Documents/ChatGPT/myMicroBye\u5916\u58f3\u8bbe\u8ba1/printing/A1_black_PLA/myMicrobyte_A1_black_PLA_sliced.3mf",
+  "objects": 11,
+  "settings": {
+    "wall_loops": "4",
+    "sparse_infill_density": "20%",
+    "sparse_infill_pattern": "gyroid",
+    "enable_support": "1",
+    "support_type": "normal(auto)",
+    "support_on_build_plate_only": "1",
+    "layer_height": "0.2"
+  },
+  "metadata": {
+    "index": "1",
+    "extruder_type": "0",
+    "nozzle_volume_type": "0",
+    "printer_model_id": "",
+    "nozzle_diameters": "0.4",
+    "timelapse_type": "0",
+    "prediction": "3851",
+    "weight": "28.95",
+    "pause_count": "0",
+    "first_layer_time": "0.000000",
+    "outside": "false",
+    "support_used": "true",
+    "label_object_enabled": "true",
+    "support_material_on_wipe_tower": "false",
+    "enable_filament_dynamic_map": "false",
+    "has_filament_switcher": "false",
+    "filament_maps": "1",
+    "limit_filament_maps": "0"
+  },
+  "printer_job_sent": false,
+  "gui_estimate": {
+    "total_minutes": 72,
+    "weight_g": 28.93,
+    "support_g": 1.0
+  },
+  "gui_reload_verified": true
+}

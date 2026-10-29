@@ -1,0 +1,302 @@
+- link "欢迎进入 302535/402535/502535/602535/702535/802535/102535锂电池3.7V5V-tmall.com天猫,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。":
+  - /url: javascript:void(0)
+- list:
+  - link "tb505894_2012":
+    - /url: //i.taobao.com/my_itaobao?ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739
+  - generic: 
+  - link "网页无障碍":
+    - /url: javascript:void(0)
+    - generic: 网页无障碍
+- list:
+  - link "淘宝网首页":
+    - /url: //www.taobao.com/
+  - link "已买到的宝贝":
+    - /url: //buyertrade.taobao.com/trade/itemlist/list_bought_items.htm
+    - generic: 已买到的宝贝
+  - link "我的淘宝":
+    - /url: //i.taobao.com/my_itaobao
+    - generic: 我的淘宝
+  - generic: 
+  - link " 购物车 36":
+    - /url: //cart.taobao.com/cart.htm?from=mini&ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739
+    - generic: 
+    - generic: 购物车
+    - generic: "36"
+  - link " 收藏夹":
+    - /url: //i.taobao.com/my_itaobao/itao-tool/collect
+    - generic: 
+    - generic: 收藏夹
+  - generic: 
+  - link "免费开店":
+    - /url: //ishop.taobao.com/openshop/tb_open_shop_landing.htm?source=tbweb1st
+    - generic: 免费开店
+  - generic: 
+  - link "千牛卖家中心":
+    - /url: //myseller.taobao.com/home.htm/QnworkbenchHome/
+    - generic: 千牛卖家中心
+  - generic: 
+  - link "帮助中心":
+    - /url: https://consumerservice.taobao.com
+    - generic: 帮助中心
+  - generic: 
+- link:
+  - /url: https://www.tmall.com
+- search:
+  - generic: 倍思wm02电池
+  - textbox
+  - generic: 搜索
+  - generic: 搜本店
+- link "云芯达科祥威专卖店  4.8 88VIP好评率99% 平均16小时发货 客服满意度92%":
+  - /url: https://shop103109548.taobao.com/category.htm?topIds=1014787417174
+  - generic "云芯达科祥威专卖店"
+  - generic: 
+  - generic: "4.8"
+  - generic: 88VIP好评率99%
+  - generic: 平均16小时发货
+  - generic: 客服满意度92%
+- generic: 
+- generic: 客服
+- link " 进店":
+  - /url: https://shop103109548.taobao.com/category.htm?topIds=1014787417174
+  - generic: 
+  - generic: 进店
+- generic: 
+- generic: 参数
+- text:  
+- generic: 图集
+- generic: 参数
+- generic: 用户评价
+- generic: 参数信息
+- generic: 图文详情
+- generic: 本店推荐
+- generic: 看了又看
+- text: 用户评价
+- generic: ·
+- text: "30"
+- generic: 使用体验好4
+- generic: 使用体验准确4
+- generic: 客服回答满意4
+- generic: 客服回答细心4
+- generic: 购物体验舒适2
+- generic: 充电速度很快2
+- generic: 产品做工精细2
+- generic: 用户_12271674
+- generic: 2026-09-29
+- generic "一个mp3电池鼓包了，买来更换的；空间局促，换起来挺费劲，线又细，得小心翼翼的；换好后功能没有任何问题，满血复活"
+- generic: 用户_91962389
+- generic: 2026-08-21
+- generic "电池拿在手里不觉得沉，携带很轻松。很好用！！！"
+- generic: 查看全部评价
+- paragraph: 参数信息
+- generic "云芯达"
+- generic "品牌"
+- generic "1000mAh"
+- generic "电池容量"
+- generic "生产企业"
+- generic "深圳市科祥威电子科技有限公司"
+- generic "颜色分类"
+- generic "302535-240毫安 402535-350毫安 502535-450毫安 602535-600毫安 702535-700毫安 802535-800毫安 902535-900毫安 102535-1000毫安 402535-350毫安（耐高温） 502535-450毫安（耐高温） 602535-600毫安（耐高温）"
+- generic "3C证书编号"
+- generic "2024200915001863"
+- paragraph: 图文详情
+- link:
+  - /url: https://pages-fast.m.taobao.com/wow/z/tmtjb/town/home?x-ssr=true&disableNav=YES&x-sec=wua&asac=2A21B017LSI0KGN210C6D7&status_bar_transparent=true&largescreenstyle=fullscreen&hd_from=itemdetail1&detailTag=descArea&tjbTag=tjbDetail&actionArg=openHalfDetail&topIds=1014787417174&spm=a2141.7631564.1999060322.hot_area2
+- text: 302535/402535/502535/602535/702535/802535/102535锂电池3.7V5V
+- generic: 已售 900+
+- generic: 可开发票
+- generic: 多人评价"使用体验好"
+- generic: 平台加补后
+- generic: ￥
+- generic: "9.4"
+- generic: 优惠前
+- generic: ￥
+- generic: "9.8"
+- generic: "已享受:"
+- generic: "可再享:"
+- generic: 
+- generic: 预计今天发货，明天18点前送达
+- generic: "快递: 免运费"
+- text: 广东深圳 至 深圳市 坪山区
+- generic: 
+- generic: 
+- generic: 7天无理由退换
+- generic: 假一赔四
+- generic: 极速退款
+- generic: 
+- generic: 
+- generic: 信用卡支付
+- generic: 
+- generic "颜色分类"
+- generic: 
+- generic: 切换大图模式
+- generic "302535-240毫安"
+- generic "402535-350毫安"
+- generic "502535-450毫安"
+- generic "602535-600毫安"
+- generic "702535-700毫安"
+- generic "802535-800毫安"
+- generic "902535-900毫安"
+- generic "推荐"
+- generic "102535-1000毫安"
+- generic "402535-350毫安（耐高温）"
+- generic "502535-450毫安（耐高温）"
+- generic "602535-600毫安（耐高温）"
+- generic "数量"
+- generic: 
+- textbox: "1"
+- generic: 
+- generic: 有货
+- button "加入购物车"
+- button "领券购买"
+- generic: 
+- generic: 收藏
+- paragraph:
+  - strong: 规则协议
+  - link "淘宝规则":
+    - /url: https://rulechannel.taobao.com
+  - link "平台服务协议":
+    - /url: https://terms.alicdn.com/legal-agreement/terms/TD/TD201609301342_19559.html
+  - strong: 新手上路
+  - link "0元开店":
+    - /url: https://ishop.taobao.com/openshop/tb_open_shop_landing.htm?
+  - link "天猫开店":
+    - /url: https://zhaoshang.tmall.com/
+  - link "商家服务":
+    - /url: https://helpcenter.taobao.com/servicehall/home
+  - strong: 付款方式
+  - link "快捷支付":
+    - /url: https://cshall.alipay.com/lab/cateQuestion.htm?cateId=237708&pcateId=237707
+  - link "余额宝":
+    - /url: https://cshall.alipay.com/lab/cateQuestion.htm?cateId=237760&pcateId=237707
+  - link "蚂蚁花呗":
+    - /url: https://cshall.alipay.com/lab/cateQuestion.htm?cateId=237761&pcateId=237707
+  - strong: 淘宝特色
+  - link "阿里旺旺":
+    - /url: https://pages.tmall.com/wow/qnww/act/index
+  - link "官方客服":
+    - /url: https://ai.alimebot.taobao.com/intl/index.htm?from=WgevAY26kl
+- paragraph:
+  - link "阿里巴巴集团":
+    - /url: https://www.alibabagroup.com/
+  - link "淘宝":
+    - /url: https://www.taobao.com/
+  - link "天猫":
+    - /url: https://www.tmall.com/
+  - link "1688":
+    - /url: https://www.1688.com/
+  - link "一淘":
+    - /url: https://www.etao.com/
+  - link "阿里健康":
+    - /url: https://www.alihealth.cn/
+  - link "全球速卖通":
+    - /url: https://www.aliexpress.com/
+  - link "阿里巴巴国际站":
+    - /url: https://www.alibaba.com/
+  - link "高德":
+    - /url: https://mobile.amap.com/
+  - link "飞猪":
+    - /url: https://www.fliggy.com/
+  - link "优酷":
+    - /url: https://www.youku.com/
+  - link "大麦":
+    - /url: https://www.damai.cn/
+  - link "阿里影业":
+    - /url: https://www.alibabapictures.com/
+  - link "钉钉":
+    - /url: https://www.dingtalk.com/
+  - link "支付宝":
+    - /url: https://www.alipay.com/
+  - link "阿里妈妈":
+    - /url: https://www.alimama.com/
+  - link "阿里云":
+    - /url: https://www.aliyun.com/
+  - link "TAO":
+    - /url: https://jp.tao.co
+- paragraph:
+  - link "关于淘宝":
+    - /url: https://huodong.taobao.com/wow/tbhome/act/about-home
+  - link "营销中心":
+    - /url: https://pro.taobao.com/index.htm
+  - link "廉政举报":
+    - /url: https://taotian.jubao.alibaba.com?site=8_JTYWGW_XS_ENWOAMCA
+  - link "开放平台":
+    - /url: https://open.taobao.com
+  - link "诚征英才":
+    - /url: https://talent.taotian.com
+  - link "隐私权政策":
+    - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao201703241622_61002.html?
+  - link "法律声明":
+    - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao201811121436_80276.html?
+  - link "知识产权":
+    - /url: https://ipp.taobao.com/
+  - generic: © 2003-现在 Taobao.com 版权所有
+  - link "增值电信业务经营许可证：浙B2-20080224":
+    - /url: https://img.alicdn.com/imgextra/i3/O1CN0178Muk81Wh9f9h3O7M_!!6000000002819-2-tps-958-1380.png
+  - generic: 增值电信业务经营许可证（跨地区）： B2-20150210
+  - link "浙网文〔2025〕0051-019号":
+    - /url: https://img.alicdn.com/imgextra/i2/O1CN01841dyq287qWs4Li2i_!!6000000007886-2-tps-802-1178.png
+  - link "浙江省网络食品销售第三方平台提供者备案：浙网食A33010001":
+    - /url: https://img.alicdn.com/imgextra/i1/O1CN01QMwxVp245mHFpyBY7_!!6000000007340-2-tps-1112-702.png
+  - link "网络餐饮服务第三方平台备案：浙网餐备2024A330000020":
+    - /url: https://img.alicdn.com/imgextra/i3/O1CN01kvP6OG1Y3QXYA38YX_!!6000000003003-2-tps-1032-686.png
+  - link "互联网药品信息服务资格证书（浙）-经营性-2023-0008":
+    - /url: https://img.alicdn.com/imgextra/i2/O1CN01Kyy5nh1pR6U0Z1UL5_!!6000000005356-2-tps-1412-992.png
+  - link "电信网码号资源使用证书：号[2020]00396-A02":
+    - /url: https://img.alicdn.com/imgextra/i1/O1CN01k29GFa1IYzzTawrKL_!!6000000000906-2-tps-840-1226.png
+  - link "信息网络传播视听许可证：1109364号":
+    - /url: https://img.alicdn.com/imgextra/i1/O1CN01S8OClN1DuST8B7ZUf_!!6000000000276-2-tps-1396-1202.png
+  - link "出版物网络交易平台服务经营备案号：新出发浙备字第2024004号":
+    - /url: https://img.alicdn.com/imgextra/i2/O1CN01YLll0U1hR5XlWHZAE_!!6000000004273-2-tps-1804-1242.png
+  - link "营业性演出许可证：330101120994":
+    - /url: https://img.alicdn.com/imgextra/i4/O1CN01qI0HEV24GlmbbOla1_!!6000000007364-2-tps-994-1412.png
+  - link "广播电视节目制作经营许可证：（浙）字第01012号":
+    - /url: https://img.alicdn.com/imgextra/i4/O1CN014w2pps24xp0tu1ZqY_!!6000000007458-2-tps-1394-970.png
+  - link "药品网络交易第三方平台备案：（浙）网药平台备字〔2023〕第000016-001号":
+    - /url: https://img.alicdn.com/imgextra/i4/O1CN01m1j2sp1tVSiPJILGr_!!6000000005907-2-tps-956-1154.png
+  - link "医疗器械网络交易服务第三方平台备案凭证：（浙）网械平台备字[2018]第00004号":
+    - /url: https://img.alicdn.com/imgextra/i3/O1CN013YP98t1kbZSFitX5L_!!6000000004702-2-tps-928-1210.png
+  - link "浙公网安备 33010002000078号":
+    - /url: https://beian.mps.gov.cn/#/query/webSearch
+  - link "全国12315平台":
+    - /url: https://www.12315.cn/
+  - link "浙B2-20080224-1":
+    - /url: https://beian.miit.gov.cn/
+  - link "浙江省互联网违法和不良信息举报中心":
+    - /url: https://www.zjjubao.com/
+  - link "全网举报":
+    - /url: https://jubao.taobao.com/
+  - link "不当竞争举报":
+    - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao202105131215_57739.html
+  - link "涉企举报专区":
+    - /url: https://huodong.taobao.com/wow/z/tbhome/default/pjGH8EtShSbzGN5wkrXm?spm=a21bo.jianhua.1997523009.61.50192a89ylYQFf
+  - link:
+    - /url: https://img.alicdn.com/imgextra/i2/O1CN01mYpkoM1iP5QDr8xjC_!!6000000004404-0-tps-4964-3510.jpg
+  - link:
+    - /url: https://ss.knet.cn/verifyseal.dll?sn=2010062300100001357&pa=20100701
+  - link:
+    - /url: https://www.12377.cn/
+  - link:
+    - /url: https://www.mee.gov.cn/ywgz/fgbz/fl/202004/t20200430_777580.shtml?
+  - link:
+    - /url: https://ggfw.cnipa.gov.cn/home
+  - link:
+    - /url: https://www.shdf.gov.cn/
+- link:
+  - /url: https://survey.taobao.com/apps/zhiliao/GUShqv-xp
+- generic: "6"
+- link "36":
+  - /url: //cart.taobao.com
+  - generic: "36"
+- link:
+  - /url: https://pc.taobao.com?channel=item
+- generic: 
+- generic: 问问
+- generic: AI
+- button "关闭":
+  - generic: 
+- generic: 有什么想了解的，问我吧
+- textbox "关于这款商品，你还想知道什么？"
+- button "发送消息" [disabled]:
+  - generic: 
+- generic: 合并下单等情况，可能会导致部分支付方式不可用，请以最终下单页展示为准
+- generic: prev next

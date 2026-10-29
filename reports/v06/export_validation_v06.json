@@ -1,0 +1,58 @@
+{
+  "native_reopen_recompute": "passed",
+  "print_parts": [
+    {
+      "part": "RearShell",
+      "solid": true,
+      "non_manifold": false,
+      "self_intersection": false,
+      "volume_relative_error": 6.359254587568687e-05,
+      "bounds_mm": [
+        85.0,
+        45.0,
+        10.949999809265137
+      ],
+      "sha256": "74571377ecedf23a23e30e4bb4c9a425819ea6575a02cbbdc08dc87856f6e278"
+    },
+    {
+      "part": "FrontShell",
+      "solid": true,
+      "non_manifold": false,
+      "self_intersection": false,
+      "volume_relative_error": 7.958419331757065e-05,
+      "bounds_mm": [
+        85.0,
+        45.0,
+        5.150000095367432
+      ],
+      "sha256": "6b151ef86420a654810101afa009da06e0e091623e70f2be09889afefba572e2"
+    },
+    {
+      "part": "PowerSlider",
+      "solid": true,
+      "non_manifold": false,
+      "self_intersection": false,
+      "volume_relative_error": 3.282658122901852e-05,
+      "bounds_mm": [
+        3.9000000953674316,
+        6.800000190734863,
+        4.599999904632568
+      ],
+      "sha256": "160fcf198326d34cc62178c9b8c86da6bbc8cb0ecd4cda9c8c78bd0b5a4026d9"
+    },
+    {
+      "part": "AcousticLid",
+      "solid": true,
+      "non_manifold": false,
+      "self_intersection": false,
+      "volume_relative_error": 1.5097792722056933e-05,
+      "bounds_mm": [
+        13.199999809265137,
+        20.100000381469727,
+        1.600000023841858
+      ],
+      "sha256": "da01a12dd3ec870f5d74566cac1d2583399516c994c41f53335dd3423b356a23"
+    }
+  ],
+  "native_sha256": "e5ee7e791acf4470b33e973af84cf2da63427928b918e58d53a94f6439910bfe"
+}

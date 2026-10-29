@@ -1,0 +1,289 @@
+{
+  "date": "2026-10-22",
+  "moved_files": [
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v03-装配视图.png",
+      "destination": "reports/assembly_exports/v03/myMicrobyte-v03-装配视图.png",
+      "bytes": 47723,
+      "sha256": "d18d4cfd4b79e8ee451cc22a47609eb542b785be4fd80bd05b6c21d463f00c2d"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v03-装配调整.json",
+      "destination": "reports/assembly_exports/v03/myMicrobyte-v03-装配调整.json",
+      "bytes": 893,
+      "sha256": "e94c7db774ed5d69187c86af9194f45f715e1c5d1f57457b13d37a86bc581546"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v06-装配视图 (1).png",
+      "destination": "reports/assembly_exports/v06/myMicrobyte-v06-装配视图 (1).png",
+      "bytes": 72796,
+      "sha256": "33fa63e0497c65ed26a588f4b315bc8be91fb2601452a2b5d4bd3cf8a1d1ab52"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v06-装配视图 (2).png",
+      "destination": "reports/assembly_exports/v06/myMicrobyte-v06-装配视图 (2).png",
+      "bytes": 71197,
+      "sha256": "13ef5a00927a6d21a221c0b36174854f8741fb7e0676348c5d766eb745a34402"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v06-装配视图 (3).png",
+      "destination": "reports/assembly_exports/v06/myMicrobyte-v06-装配视图 (3).png",
+      "bytes": 70453,
+      "sha256": "fc5c28ec6904e85fde80ca10de073fa25686468e55b1a5fd10a1805eb7b4776f"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v06-装配视图 (4).png",
+      "destination": "reports/assembly_exports/v06/myMicrobyte-v06-装配视图 (4).png",
+      "bytes": 71908,
+      "sha256": "e1ad800523f8c3d34612d2bb456eb4a37bc09b7881a73e57ad6a34c994a081e5"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v06-装配视图.png",
+      "destination": "reports/assembly_exports/v06/myMicrobyte-v06-装配视图.png",
+      "bytes": 69955,
+      "sha256": "808cbb8ed7289fb32f2096704b97ad5352656e7ca469d5eb7f6d35c85953bb70"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v07-装配视图 (1).png",
+      "destination": "reports/assembly_exports/v07/myMicrobyte-v07-装配视图 (1).png",
+      "bytes": 75110,
+      "sha256": "1440e9ec1437eaeae184e91f86bf6fbab7cddfdf4ad7dec599332d18226d6658"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v07-装配视图 (2).png",
+      "destination": "reports/assembly_exports/v07/myMicrobyte-v07-装配视图 (2).png",
+      "bytes": 72498,
+      "sha256": "5ca47c379ba63e4552716293ded138f3682ec3c272d2738b90057b0f8644c863"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v07-装配视图 (3).png",
+      "destination": "reports/assembly_exports/v07/myMicrobyte-v07-装配视图 (3).png",
+      "bytes": 72108,
+      "sha256": "fa9c223cdf7c95fda19d4d8d794a34110b3e6eb63b523acca8364d430b181e7c"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v07-装配视图 (4).png",
+      "destination": "reports/assembly_exports/v07/myMicrobyte-v07-装配视图 (4).png",
+      "bytes": 74373,
+      "sha256": "91f3ed0ec8fbe7f1790b77ccb4768ad27a570ca1660ddc00255de1e194600cd5"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v07-装配视图 (5).png",
+      "destination": "reports/assembly_exports/v07/myMicrobyte-v07-装配视图 (5).png",
+      "bytes": 75222,
+      "sha256": "d67cc49d234a57341092755ace6d01b0c24ec181c2973036b408f543208ac89e"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v07-装配视图 (6).png",
+      "destination": "reports/assembly_exports/v07/myMicrobyte-v07-装配视图 (6).png",
+      "bytes": 69972,
+      "sha256": "fe00a22c501615b5071855ca0153758264e3e3d8dc1c97eb5aebdb61bfb5febb"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v07-装配视图 (7).png",
+      "destination": "reports/assembly_exports/v07/myMicrobyte-v07-装配视图 (7).png",
+      "bytes": 72931,
+      "sha256": "15e248eb7c2e86008da73926d12e79b1f5f011ab4497b47d391361ed74e42918"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v07-装配视图 (8).png",
+      "destination": "reports/assembly_exports/v07/myMicrobyte-v07-装配视图 (8).png",
+      "bytes": 81283,
+      "sha256": "3ded56e967a317f74a1023f8bdeb1276b84bd1cd0f0e31977f70557d68eb66dc"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v07-装配视图 (9).png",
+      "destination": "reports/assembly_exports/v07/myMicrobyte-v07-装配视图 (9).png",
+      "bytes": 77543,
+      "sha256": "d8e2ef744c8d8db8d7828ce725526549a7950f11fee2fbf0e7e0518ae8de9588"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v07-装配视图.png",
+      "destination": "reports/assembly_exports/v07/myMicrobyte-v07-装配视图.png",
+      "bytes": 77365,
+      "sha256": "dca435a8a44544de47cf3802cfcf56a2c95a67992ba9595cbc8b60f47d0b4f5b"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v08-装配视图 (1).png",
+      "destination": "reports/assembly_exports/v08/myMicrobyte-v08-装配视图 (1).png",
+      "bytes": 72472,
+      "sha256": "046f04d49258b6986d3eb10e430508fcaaf36efa37241546efc65bda4b1bca10"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v08-装配视图 (2).png",
+      "destination": "reports/assembly_exports/v08/myMicrobyte-v08-装配视图 (2).png",
+      "bytes": 45623,
+      "sha256": "1414082b9961a2fc66dae49a0ecbe4df173e495eb82a181ae33b841f931f3c0f"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v08-装配视图 (3).png",
+      "destination": "reports/assembly_exports/v08/myMicrobyte-v08-装配视图 (3).png",
+      "bytes": 47200,
+      "sha256": "3507c930c7911bc3daaeb4ff0e3d73d5a8bddd30385e753edd33ec9bb1f824e2"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v08-装配视图 (4).png",
+      "destination": "reports/assembly_exports/v08/myMicrobyte-v08-装配视图 (4).png",
+      "bytes": 82082,
+      "sha256": "78d6b234ee0cc07298fb48a92c431e4145685989186e9c282c20ed1342cf1a94"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v08-装配视图 (5).png",
+      "destination": "reports/assembly_exports/v08/myMicrobyte-v08-装配视图 (5).png",
+      "bytes": 78337,
+      "sha256": "97b768b84a02f85a210840b428bcae9b8c0add62b913dc5d7d8c7ab617761cca"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v08-装配视图 (6).png",
+      "destination": "reports/assembly_exports/v08/myMicrobyte-v08-装配视图 (6).png",
+      "bytes": 70334,
+      "sha256": "407ca3781252e0de3c381dcb30529e2c67890c5bd9735f82a2cb26a50adb3c7d"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v08-装配视图 (7).png",
+      "destination": "reports/assembly_exports/v08/myMicrobyte-v08-装配视图 (7).png",
+      "bytes": 76479,
+      "sha256": "ba680918d89677aa25b20d79feb131e4478fee2eae3a3edbd84ab37da722bb98"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v08-装配视图 (8).png",
+      "destination": "reports/assembly_exports/v08/myMicrobyte-v08-装配视图 (8).png",
+      "bytes": 128022,
+      "sha256": "53fd17aadf538367e40328603d740e28120ab74807c70955c11663d8110ffa59"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v08-装配视图.png",
+      "destination": "reports/assembly_exports/v08/myMicrobyte-v08-装配视图.png",
+      "bytes": 78408,
+      "sha256": "cbf2218fbfcb55828193241625ced2afd83a1cf8d01c8f8990cdf7788b1ad852"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v09-装配视图 (1).png",
+      "destination": "reports/assembly_exports/v09/myMicrobyte-v09-装配视图 (1).png",
+      "bytes": 80983,
+      "sha256": "281363c8a33e38b8ab49733ae6512a57e5ba0b982b8b4213d4a0891159f246d0"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v09-装配视图 (2).png",
+      "destination": "reports/assembly_exports/v09/myMicrobyte-v09-装配视图 (2).png",
+      "bytes": 77127,
+      "sha256": "a82cbe62a87e1a5bc3ae40435034dd947c2128b199fcb52b91ed53beb65301e0"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v09-装配视图 (3).png",
+      "destination": "reports/assembly_exports/v09/myMicrobyte-v09-装配视图 (3).png",
+      "bytes": 83758,
+      "sha256": "bc1c7325d1b572d4f02479a7b2c94a9dc629ea2b787a0276f132c3eec163e6ac"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v09-装配视图 (4).png",
+      "destination": "reports/assembly_exports/v09/myMicrobyte-v09-装配视图 (4).png",
+      "bytes": 81054,
+      "sha256": "be5c343350af9d093950f5197702f5a83de89564dbfe09de481035bdb13850b3"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v09-装配视图 (5).png",
+      "destination": "reports/assembly_exports/v09/myMicrobyte-v09-装配视图 (5).png",
+      "bytes": 70507,
+      "sha256": "0a07b3ce4daa6df705fc9c1fb62a9085f97dd816e9c7f1a6308739e782f8a870"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v09-装配视图 (6).png",
+      "destination": "reports/assembly_exports/v09/myMicrobyte-v09-装配视图 (6).png",
+      "bytes": 75331,
+      "sha256": "bff655179173b96f7ea296117c316405051979f601addf5642d7993d214123e5"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v09-装配视图.png",
+      "destination": "reports/assembly_exports/v09/myMicrobyte-v09-装配视图.png",
+      "bytes": 81135,
+      "sha256": "4b875a69332254877e4fca23ca6f1bcd348300735cfa7dd948d21729e0e9ceb1"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v10-装配视图 (1).png",
+      "destination": "reports/assembly_exports/v10/myMicrobyte-v10-装配视图 (1).png",
+      "bytes": 36749,
+      "sha256": "b95d095d4f0648b8a7b08fa417806a7af1489386f3c64f18e221f80b79892605"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v10-装配视图 (10).png",
+      "destination": "reports/assembly_exports/v10/myMicrobyte-v10-装配视图 (10).png",
+      "bytes": 81434,
+      "sha256": "174f62b10474cf7f7e3b3d9202cd354157ea1430094d319703d8e1bd0aa203af"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v10-装配视图 (11).png",
+      "destination": "reports/assembly_exports/v10/myMicrobyte-v10-装配视图 (11).png",
+      "bytes": 48856,
+      "sha256": "a7aa0a2c99397f85d559ae07b873bdf1d6745bb8c867da12b57aac7847bc8591"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v10-装配视图 (2).png",
+      "destination": "reports/assembly_exports/v10/myMicrobyte-v10-装配视图 (2).png",
+      "bytes": 39390,
+      "sha256": "8f595c23f1c76aad32c4f0b61237f438e4d3593ea3a6b9578351f44ebbb1986b"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v10-装配视图 (3).png",
+      "destination": "reports/assembly_exports/v10/myMicrobyte-v10-装配视图 (3).png",
+      "bytes": 37740,
+      "sha256": "67c77d578d7d63ddb90817fe0ac100e343ca91e56b69eadfafce61de9e5e117f"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v10-装配视图 (4).png",
+      "destination": "reports/assembly_exports/v10/myMicrobyte-v10-装配视图 (4).png",
+      "bytes": 47374,
+      "sha256": "0ab83d9a8dbf2eb0b090309080feac0ab4f3c9e8f6b0c7a6db123f615edb59e4"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v10-装配视图 (5).png",
+      "destination": "reports/assembly_exports/v10/myMicrobyte-v10-装配视图 (5).png",
+      "bytes": 60983,
+      "sha256": "abc1dcbb49a87c26e5b318ee27f0bd0433bf1f2195ba545f87a056edcec4a815"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v10-装配视图 (6).png",
+      "destination": "reports/assembly_exports/v10/myMicrobyte-v10-装配视图 (6).png",
+      "bytes": 67243,
+      "sha256": "b03752469ed04358dbf1d0f4e101c3f29a8422602eb97b3c84adb5c83db52999"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v10-装配视图 (7).png",
+      "destination": "reports/assembly_exports/v10/myMicrobyte-v10-装配视图 (7).png",
+      "bytes": 66872,
+      "sha256": "00fc0858cf3de4a580a600b618534152fc71c1ddaa199160cefb9b013c76c4b1"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v10-装配视图 (8).png",
+      "destination": "reports/assembly_exports/v10/myMicrobyte-v10-装配视图 (8).png",
+      "bytes": 67309,
+      "sha256": "c10ceddddd0a41ffb685e3e65f5be2ecab9dce1e358fadc1b264eb113f56654e"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v10-装配视图 (9).png",
+      "destination": "reports/assembly_exports/v10/myMicrobyte-v10-装配视图 (9).png",
+      "bytes": 82697,
+      "sha256": "cd51f97007ed4a84e4c419b23716f7a2e0e98fd6be7ca4cb0d3596184399fa8b"
+    },
+    {
+      "source": "/Users/luckmiracle/Downloads/myMicrobyte-v10-装配视图.png",
+      "destination": "reports/assembly_exports/v10/myMicrobyte-v10-装配视图.png",
+      "bytes": 47929,
+      "sha256": "8ca0e8a9c913f8204b0521809d894fac809143be983370f1a0a585c9156f83e2"
+    },
+    {
+      "source": "/Users/luckmiracle/.codex/visualizations/2026/10/14/01a13a7f-6902-7111-8be9-d1a9fbe6a612/microbyte-v03-assembly.html",
+      "destination": "output/assembly-guide-v03-legacy/index.html",
+      "bytes": 715113,
+      "sha256": "c27a1a38c3152192d33af64ec28ae54a62ee0c930cc8f465d390fb5bd4345cb2"
+    }
+  ],
+  "updated_references": [
+    "printing/A1_black_PLA_v03/print_followup_state.json"
+  ],
+  "legacy_link": {
+    "path": "/Users/luckmiracle/.codex/visualizations/2026/10/14/01a13a7f-6902-7111-8be9-d1a9fbe6a612/microbyte-v03-assembly.html",
+    "target": "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/output/assembly-guide-v03-legacy/index.html"
+  },
+  "verification": "SHA-256 verified for every moved file; originals removed except compatibility symlink"
+}

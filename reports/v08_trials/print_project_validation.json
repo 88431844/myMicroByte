@@ -1,0 +1,91 @@
+{
+  "status": "printing_first_layer",
+  "file": "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_black_PLA_v08_trials/myMicrobyte_v08_trials_black.gcode.3mf",
+  "sha256": "d05f7683c97b45f0fc9bc6896ad56c51e194448ba15a9ca4353046f174baaaca",
+  "printer": "Bambu Lab A1",
+  "count": 11,
+  "names": [
+    "F1_print.stl",
+    "F2_print.stl",
+    "F3_print.stl",
+    "F4_print.stl",
+    "R1_print.stl",
+    "R2_print.stl",
+    "L1_print.stl",
+    "L2_print.stl",
+    "S1_print.stl",
+    "S2_print.stl",
+    "S3_print.stl"
+  ],
+  "estimated_seconds": 13536,
+  "estimated_grams": 54.14,
+  "bed_bbox_xy": [
+    25.94301,
+    35.899980000000006,
+    229.95633,
+    222.85666
+  ],
+  "layer_height": "0.16",
+  "filaments": [
+    {
+      "id": "1",
+      "tray_info_idx": "GFL99",
+      "type": "PLA",
+      "color": "#171717",
+      "used_m": "18.15",
+      "used_g": "54.14",
+      "group_id": "0",
+      "nozzle_diameter": "0.40",
+      "volume_type": "Standard",
+      "used_for_object": "true",
+      "used_for_support": "true",
+      "total_load_time": "25.00",
+      "total_unload_time": "0.00"
+    }
+  ],
+  "all_object_tool_indices": {
+    "F1_print.stl": [
+      0
+    ],
+    "F2_print.stl": [
+      0
+    ],
+    "F3_print.stl": [
+      0
+    ],
+    "F4_print.stl": [
+      0
+    ],
+    "R1_print.stl": [
+      0
+    ],
+    "R2_print.stl": [
+      0
+    ],
+    "L1_print.stl": [
+      0
+    ],
+    "L2_print.stl": [
+      0
+    ],
+    "S1_print.stl": [
+      0
+    ],
+    "S2_print.stl": [
+      0
+    ],
+    "S3_print.stl": [
+      0
+    ]
+  },
+  "job_sent": true,
+  "ams_mapping": {
+    "black_PLA": "A4"
+  },
+  "camera_bed_empty": true,
+  "actual_print_seconds": 13536,
+  "reported_status": "3%, layer 1/109, printing",
+  "reported_eta_local": "2026-10-18 01:27 Asia/Shanghai",
+  "first_layer_observed": true,
+  "observed_at": "2026-10-17T21:50:04.133314+08:00"
+}

@@ -1,0 +1,37 @@
+{
+  "revision": "0.8",
+  "insertion": {
+    "direction": "vertical, rest Y, keepers spread outward",
+    "sample_spacing_mm": 0.1,
+    "range_mm": [
+      0,
+      12
+    ],
+    "keeper_tip_spread_mm": 0.3,
+    "max_overlap_volume_mm3": 0
+  },
+  "retention": {
+    "sampled_y_range_mm": [
+      -0.55,
+      3.05
+    ],
+    "sampled_x_play_mm": [
+      -0.15,
+      0,
+      0.25
+    ],
+    "nominal_vertical_play_mm": 0.15,
+    "vertical_retention_probe_mm": 0.2,
+    "minimum_hook_overlap_mm3": 0.002750000000000141
+  },
+  "flexed_keeper_vs_wall_overlap_mm3": [
+    0.0,
+    0.0
+  ],
+  "failures": [],
+  "limitations": [
+    "Affine shear is only a clearance approximation, not finite element analysis.",
+    "Printed tab strength, PLA flex fatigue, actual switch end positions and actuation must be tested.",
+    "Guide animation does not animate tab deformation."
+  ]
+}

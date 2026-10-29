@@ -1,0 +1,101 @@
+{
+  "status": "printer_accepted_preparing",
+  "file": "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_black_PLA_v10_4sets/myMicrobyte_v10_4sets_black.gcode.3mf",
+  "sha256": "eeb84d6293ef40b64297f2180368be4bf091860660d83e63fee993679a8c7652",
+  "printer": "Bambu Lab A1",
+  "count": 12,
+  "names": [
+    "FrontShell_set1.stl",
+    "RearShell_set1.stl",
+    "FrontShell_set2.stl",
+    "RearShell_set2.stl",
+    "FrontShell_set3.stl",
+    "RearShell_set3.stl",
+    "FrontShell_set4.stl",
+    "RearShell_set4.stl",
+    "PowerSlider_set1.stl",
+    "PowerSlider_set2.stl",
+    "PowerSlider_set3.stl",
+    "PowerSlider_set4.stl"
+  ],
+  "estimated_seconds": 21325,
+  "estimated_grams": 92.52,
+  "bed_bbox_xy": [
+    25.39299,
+    19.22603,
+    228.28761000000003,
+    238.75667
+  ],
+  "layer_height": "0.16",
+  "filaments": [
+    {
+      "id": "1",
+      "tray_info_idx": "GFL99",
+      "type": "PLA",
+      "color": "#171717",
+      "used_m": "31.02",
+      "used_g": "92.52",
+      "group_id": "0",
+      "nozzle_diameter": "0.40",
+      "volume_type": "Standard",
+      "used_for_object": "true",
+      "used_for_support": "true",
+      "total_load_time": "25.00",
+      "total_unload_time": "0.00"
+    }
+  ],
+  "all_object_tool_indices": {
+    "FrontShell_set1.stl": [
+      0
+    ],
+    "RearShell_set1.stl": [
+      0
+    ],
+    "FrontShell_set2.stl": [
+      0
+    ],
+    "RearShell_set2.stl": [
+      0
+    ],
+    "FrontShell_set3.stl": [
+      0
+    ],
+    "RearShell_set3.stl": [
+      0
+    ],
+    "FrontShell_set4.stl": [
+      0
+    ],
+    "RearShell_set4.stl": [
+      0
+    ],
+    "PowerSlider_set1.stl": [
+      0
+    ],
+    "PowerSlider_set2.stl": [
+      0
+    ],
+    "PowerSlider_set3.stl": [
+      0
+    ],
+    "PowerSlider_set4.stl": [
+      0
+    ]
+  },
+  "job_sent": true,
+  "sent_at": "2026-10-20T01:02:04.713942+08:00",
+  "job": "myMicrobyte_v10_4sets_black",
+  "sent_once": true,
+  "do_not_resend": true,
+  "primary_slot": "A3",
+  "backup_slot": "A4",
+  "auto_refill_group_verified": true,
+  "bed_clear_verified": true,
+  "printer_accepted": true,
+  "printer_stage": "换料",
+  "progress_percent": 0,
+  "layer": "0/105",
+  "estimated_completion_local": "2026-10-20 06:58 Asia/Shanghai",
+  "observed_at": "2026-10-20T01:03:38.608873+08:00",
+  "first_layer_verified": false
+}

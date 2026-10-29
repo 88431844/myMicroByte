@@ -1,0 +1,130 @@
+{
+  "revision": "0.9",
+  "units": "mm",
+  "status": "review only, no print authorization for this revision",
+  "parts": [
+    {
+      "name": "FrontShell_v09",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4940.756212501693
+    },
+    {
+      "name": "RearShell_v09",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 10037.735931306866
+    },
+    {
+      "name": "PowerSlider_v09",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 92.44855629675862
+    },
+    {
+      "name": "SliderKeeper_v09",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 72.29399999999998
+    }
+  ],
+  "collisions": [],
+  "front": {
+    "basis": "F3 from v08 trials",
+    "button_holes_mm": [
+      6.6,
+      6.8
+    ],
+    "button_surface_z": 14.2,
+    "bezel_top_z": 15.4,
+    "button_exposure_nominal_mm": 1.4,
+    "display_window_mm": [
+      29.72,
+      29.72
+    ],
+    "active_display_mm": [
+      27.72,
+      27.72
+    ],
+    "glass_mm": [
+      31.52,
+      33.72,
+      1.9
+    ],
+    "adhesive_nominal_mm": 1.0,
+    "locator_inner_mm": [
+      32.52,
+      34.72
+    ],
+    "locator_side_gap_nominal_mm": 0.5,
+    "glass_top_z": 13.50005,
+    "over_glass_ceiling_z": 14.55,
+    "nominal_glass_roof_gap_mm": 1.0499500000000008,
+    "flex_relief_mm": [
+      12,
+      3,
+      0.65
+    ],
+    "print_orientation": "outside/front face UP",
+    "worst_checked_glass_gap_mm": 0.1999999999999993,
+    "nominal_glass_min_distance_mm": 0.4999999999999982
+  },
+  "slider": {
+    "retention": "separate rigid bar captured by closed front",
+    "bar_mm": [
+      1.8,
+      21.3,
+      1.5
+    ],
+    "key_mm": [
+      1.2,
+      2.8,
+      2.25
+    ],
+    "socket_side_clearance_mm": 0.15,
+    "top_capture_clearance_mm": 0.15,
+    "guide_total_side_clearance_mm": 0.4,
+    "travel_mm": [
+      -0.55,
+      3.05
+    ],
+    "socket_width_mm": 1.65,
+    "minimum_retention_overlap_at_0_4mm_lift_mm3": 0.8531249999999997
+  },
+  "speaker": {
+    "attachment": "speaker supplied annular double-sided adhesive",
+    "adhesive_assumed_mm": 0.2,
+    "oval_inner_mm": [
+      10.6,
+      15.6
+    ],
+    "oval_top_z": 4.2,
+    "outer_rect_top_z": 6,
+    "open_back": true,
+    "no_lid_no_latches_no_side_springs": true,
+    "grille_open_area_mm2": 47.699196819828956,
+    "max_body_to_outer_wall_mm": 0.5
+  },
+  "rear": {
+    "smooth_exterior": true,
+    "feet_removed": true,
+    "outer_sound_relief_removed": true,
+    "battery_frame_mm": [
+      52,
+      30
+    ],
+    "recommended_pack_max_mm": [
+      51,
+      29,
+      3.3
+    ]
+  },
+  "limitations": [
+    "Geometry does not prove no pressure under finger/screw loads. Glass clearance is based on 1 mm adhesive; physical pressure test still needed.",
+    "A four-sided locator limits lateral drift but must not clamp the glass. Existing adhesive holds the display to PCB.",
+    "The rectangular surrounding wall is open at the back, not a sealed/tuned chamber. Oval seat and adhesive separate the front outlet from rear leakage; gain is unmeasured.",
+    "Restoring the smooth rear sacrifices the 0.9 mm desk gap: a flat table may block the rear grille again.",
+    "Keeper should be installed with rear flat on the desk; it becomes positively captive only after front closure. No clip flex is required.",
+    "Existing flex cable is not fully modeled; lower frame relief requires physical routing check."
+  ]
+}

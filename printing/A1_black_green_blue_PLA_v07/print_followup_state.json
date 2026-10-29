@@ -1,0 +1,37 @@
+{
+  "revision": "v0.7",
+  "user_approved": true,
+  "approval_text": "3D设计好后，直接发到拓竹进行打印；绿色和蓝色和黑色各打印两个",
+  "file": "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_black_green_blue_PLA_v07/myMicrobyte_v07_A1_black_green_blue.gcode.3mf",
+  "sha256": "ab1f277a06a053617cb88609cdac415000f5a9ac0839fc279f1a705dfb664dbf",
+  "printer": "拓竹 A1",
+  "material": "PLA",
+  "parts": {
+    "FrontShell_black": 1,
+    "RearShell_black": 1,
+    "AcousticLid_black": 1,
+    "PowerSlider_green": 2,
+    "PowerSlider_blue": 2,
+    "PowerSlider_black": 2
+  },
+  "ams_mapping": {
+    "black": "A4",
+    "green": "A2",
+    "blue": "A1"
+  },
+  "bed_observed_empty": true,
+  "status": "preparing",
+  "send_attempted": true,
+  "job_sent": true,
+  "send_clicked_at": "2026-10-17T14:46:18.713201+08:00",
+  "gui_estimate_seconds": 11812,
+  "gui_estimate_grams": 41.33,
+  "job_confirmed_at": "2026-10-17T14:47:49.022743+08:00",
+  "observed_job": "myMicrobyte_v07_A1_black_green_blue",
+  "observed_stage": "清理喷嘴",
+  "observed_progress": 3,
+  "observed_layers": "0/68",
+  "device_estimated_completion_local": "2026-10-17 18:00 Asia/Shanghai",
+  "evidence": "reports/v07/A1_v07_started.png",
+  "last_observed_at": "2026-10-17T14:52:03.200525+08:00"
+}

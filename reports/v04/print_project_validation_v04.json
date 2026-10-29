@@ -1,0 +1,29 @@
+{
+  "status": "validated",
+  "file": "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_black_PLA_v04/myMicrobyte_v04_A1_black_PLA_sliced.3mf",
+  "sha256": "9aa64b7944e646a7d2252c3bd8c553f09c243f9379d688e9653565342ac9fcce",
+  "printer": "Bambu Lab A1",
+  "nozzle_mm": 0.4,
+  "plate_count": 1,
+  "objects": [
+    "RearShell_print.stl",
+    "FrontShell_print.stl",
+    "PowerSlider_print.stl"
+  ],
+  "layer_height_mm": "0.2",
+  "walls": 4,
+  "infill": "20%",
+  "pattern": "gyroid",
+  "support": "1",
+  "estimated_seconds": 2845,
+  "estimated_grams": 19.93,
+  "filament": "black PLA",
+  "bed_type": "Textured PEI Plate",
+  "plate_bbox_xy": [
+    73.70449,
+    78.20939000000001,
+    177.05404000000001,
+    177.79059
+  ],
+  "job_sent": false
+}

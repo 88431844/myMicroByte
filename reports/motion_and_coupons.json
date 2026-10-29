@@ -1,0 +1,91 @@
+{
+  "units": "mm",
+  "cap_travel_checked_mm": 0.8,
+  "scope": "Continuous cap sweep against shells, other caps, LCD and all retained fixed PCB models. The associated deforming switch is excluded; its real actuation travel remains unverified.",
+  "caps": [
+    {
+      "name": "Cap_UP",
+      "rest_gap_to_switch_tip_mm": 0.34995000000000687,
+      "collisions": []
+    },
+    {
+      "name": "Cap_DOWN",
+      "rest_gap_to_switch_tip_mm": 0.34995000000000687,
+      "collisions": []
+    },
+    {
+      "name": "Cap_LEFT",
+      "rest_gap_to_switch_tip_mm": 0.3499500000000104,
+      "collisions": []
+    },
+    {
+      "name": "Cap_RIGHT",
+      "rest_gap_to_switch_tip_mm": 0.34995000000000687,
+      "collisions": []
+    },
+    {
+      "name": "Cap_START",
+      "rest_gap_to_switch_tip_mm": 0.3499500000000033,
+      "collisions": []
+    },
+    {
+      "name": "Cap_SELECT",
+      "rest_gap_to_switch_tip_mm": 0.34995000000000687,
+      "collisions": []
+    },
+    {
+      "name": "Cap_MENU",
+      "rest_gap_to_switch_tip_mm": 0.3499500000000033,
+      "collisions": []
+    },
+    {
+      "name": "Cap_A",
+      "rest_gap_to_switch_tip_mm": 0.15984999999999872,
+      "collisions": []
+    },
+    {
+      "name": "Cap_B",
+      "rest_gap_to_switch_tip_mm": 0.34994999999999976,
+      "collisions": []
+    }
+  ],
+  "battery_clearance": {
+    "assumed_battery_mm": [
+      50.0,
+      30.0,
+      6.0
+    ],
+    "lowest_overhead_reference": "USB 保守占位（绑定模型异常）",
+    "overhead_min_z_mm": 11.4,
+    "battery_top_z_mm": 9.0,
+    "reference_vertical_gap_mm": 2.4000000000000004,
+    "max_thickness_at_same_position_with_0_5mm_gap_mm": 7.9,
+    "scope": "Bounding-box conservative estimate for retained models and provisional envelopes; excludes wires, solder and invalid omitted models."
+  },
+  "coupons": [
+    {
+      "name": "ButtonGuide",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 116.25646389141588
+    },
+    {
+      "name": "ScrewPilot",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 163.82725887090444
+    },
+    {
+      "name": "RearTongue",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 75.60000000000011
+    },
+    {
+      "name": "FrontReceiver",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 62.250000000000014
+    }
+  ]
+}

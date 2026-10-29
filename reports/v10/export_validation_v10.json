@@ -1,0 +1,37 @@
+{
+  "parts": [
+    {
+      "name": "FrontShell",
+      "closed": true,
+      "self_intersections": false,
+      "volume_error_fraction": 7.149932666368075e-05,
+      "bounds_mm": [
+        85.55000147223473,
+        44.99999922513962,
+        6.150000095367432
+      ]
+    },
+    {
+      "name": "RearShell",
+      "closed": true,
+      "self_intersections": false,
+      "volume_error_fraction": 6.984551074749469e-05,
+      "bounds_mm": [
+        85.55000147223473,
+        44.99999922513962,
+        10.949999809265137
+      ]
+    },
+    {
+      "name": "PowerSlider",
+      "closed": true,
+      "self_intersections": false,
+      "volume_error_fraction": 6.8963974521100535e-06,
+      "bounds_mm": [
+        4.199999809265137,
+        14.0,
+        5.099999904632568
+      ]
+    }
+  ]
+}

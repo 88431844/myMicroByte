@@ -1,0 +1,160 @@
+- link "欢迎进入 KND3.7V聚合物锂电池302545 303045 304050 304045 MP3 MP4锂电池-淘宝网,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。":
+  - /url: javascript:void(0)
+- list:
+  - link "tb505894_2012":
+    - /url: //i.taobao.com/my_itaobao?ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739
+  - generic: 
+  - link "网页无障碍":
+    - /url: javascript:void(0)
+    - generic: 网页无障碍
+- list:
+  - link "淘宝网首页":
+    - /url: //www.taobao.com/
+  - link "已买到的宝贝":
+    - /url: //buyertrade.taobao.com/trade/itemlist/list_bought_items.htm
+    - generic: 已买到的宝贝
+  - link "我的淘宝":
+    - /url: //i.taobao.com/my_itaobao
+    - generic: 我的淘宝
+  - generic: 
+  - link " 购物车 36":
+    - /url: //cart.taobao.com/cart.htm?from=mini&ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739
+    - generic: 
+    - generic: 购物车
+    - generic: "36"
+  - link " 收藏夹":
+    - /url: //i.taobao.com/my_itaobao/itao-tool/collect
+    - generic: 
+    - generic: 收藏夹
+  - generic: 
+  - link "免费开店":
+    - /url: //ishop.taobao.com/openshop/tb_open_shop_landing.htm?source=tbweb1st
+    - generic: 免费开店
+  - generic: 
+  - link "千牛卖家中心":
+    - /url: //myseller.taobao.com/home.htm/QnworkbenchHome/
+    - generic: 千牛卖家中心
+  - generic: 
+  - link "帮助中心":
+    - /url: https://consumerservice.taobao.com
+    - generic: 帮助中心
+  - generic: 
+- link:
+  - /url: https://www.taobao.com
+- search:
+  - generic: 苹果扬声器
+  - textbox
+  - generic: 搜索
+  - generic: 搜本店
+- link "科能达电子  暂无评分":
+  - /url: https://shop255030032.taobao.com/category.htm?topIds=607992859684
+  - generic "科能达电子"
+  - generic: 
+  - generic: 暂无评分
+- generic: 
+- generic: 客服
+- link " 进店":
+  - /url: https://shop255030032.taobao.com/category.htm?topIds=607992859684
+  - generic: 
+  - generic: 进店
+- generic: 
+- generic: 参数
+- text:  
+- generic: 图集
+- generic: 参数
+- generic: 用户评价
+- generic: 参数信息
+- generic: 图文详情
+- generic: 本店推荐
+- generic: 看了又看
+- text: 用户评价
+- generic: ·
+- text: "2"
+- generic: 查看全部评价
+- paragraph: 参数信息
+- generic "科能达电子"
+- generic "品牌"
+- generic "型号"
+- generic "302545"
+- generic "售后服务"
+- generic "店铺三包"
+- paragraph: 图文详情
+- paragraph:
+  - generic: 本公司承诺所有销售产品均为A品电芯，七天包换，一年保修，质保无忧！我们承诺：每一个电芯，成品都是全检测试出货。真正的电池生产厂家。让你买的放心，用的安心。欢迎前来实地考察！
+- paragraph:
+  - text: 产品实拍：
+- paragraph: 产品参数：
+- paragraph:
+  - generic: 温馨提示：此款电池为带保护板成品电池
+  - text: ，具有防止过充、过放、过流、短路保护等功能。下单后请联系客服，确认具体的产品要求（如线长是多少，是否加端子线，是否需用喷码）以及交货时间等！
+- paragraph: 产品型号：302545
+- paragraph: 标称容量：320MAH
+- paragraph: 产品尺寸：厚3.0MM（±0.2MM）宽25MM（±0.5MM）*长45MM（±0.5MM）
+- paragraph: 额定电压：3.7V
+- paragraph: 充电电压：4.2V
+- paragraph: 充电温度：-30°C ~ 40°C
+- paragraph: 放电温度： -30°C ~ +60°C
+- paragraph: 存储温度：-20°C ~ +30°C
+- paragraph:
+  - text: 充电电流：标准充电：0.5C、快速充电：1.0C
+  - text: 标准充电方法：0.5C CC（恒流）充电至4.25V，再CV（恒压4.2V）充电直至充电电流≤0.05C
+  - text: 最大充电电流：1C
+  - text: 最大放电电流：1C
+- paragraph:
+  - text: "保护IC参数: 过充电保护电压4.20V±0.05V ，过放电保护电压2.7V±0.1V,充许最大电流3A。"
+  - text: 厂家直销3.7V和7.2V聚合物锂电池，可以定做串连7.4V,富晶保护板，MP3 MP4 MP5 GPS 导航仪，蓝牙耳机，小音响，小玩具，安防产品，掌上电脑，电子书 ，录音笔，移动电源 ，手电音响等。厂家直销，可根据客户的尺寸定做，量大从优 网上的价格只参考
+- paragraph: 电池建议使用原装充电器充电,充电时间不要超过5小时,使用劣质充电器或者充电时间太长,都容易使电池损坏.
+- paragraph
+- paragraph: 头3次充电应放至10%再充电以彻底激活电池！，别只用了少量电就再次充电以避免缩短了电池的寿命和容量.
+- paragraph: 如机子长时间不用请至少要一个月为机子充一次电,以免电池性能下降（严重会损坏电池）!
+- paragraph: "锂聚合物电池知识:"
+- paragraph: 聚合物电池为第三代锂电池!此类电池采用强化的镀膜铝泊包装,真空密封性能好,可适当的弯曲变形也不会损坏!电池的标准电压是3.7V,只要尺寸合适能装的下机子都可以使用!如果你的机子电池坏了找不到一样的电池可以选择尺寸相近的电池只要能装的下机子就可以正常使用!
+- paragraph: 门店地址：深圳市福田区华强北国际电子城A089。联系人陈先生，电话：13662283360
+- paragraph: 厂家直销可定做各种3.7V，7.2V，12v.锂电池，保护板采用全新台湾富晶保护板也可以根据客户要求使用日本精工保护板，带识别端三线保护板，带温控三线保护板，，可根据客户的尺寸定做，量大从优
+- paragraph
+- paragraph
+- paragraph
+- generic: KND3.7V聚合物锂电池302545 303045 304050 304045 MP3 MP4锂电池
+- generic: 已售 3
+- generic: ￥
+- generic: "4.5"
+- generic: 
+- generic: 48小时内发货
+- generic: "快递: 6.00"
+- text: 广东深圳 至 深圳 坪山
+- generic: 
+- generic: 
+- generic: 7天无理由退货
+- generic: 极速退款
+- generic: 
+- generic: 
+- generic: 信用卡支付
+- generic: 
+- generic "数量"
+- generic: 
+- textbox: "1"
+- generic: 
+- generic: 有货
+- button "加入购物车"
+- button "立即购买"
+- generic: 
+- generic: 收藏
+- link:
+  - /url: https://survey.taobao.com/apps/zhiliao/GUShqv-xp
+- generic: "6"
+- link "36":
+  - /url: //cart.taobao.com
+  - generic: "36"
+- link:
+  - /url: https://pc.taobao.com?channel=item
+- generic: 
+- generic: 问问
+- generic: AI
+- button "关闭":
+  - generic: 
+- generic: 有什么想了解的，问我吧
+- textbox "关于这款商品，你还想知道什么？"
+- button "发送消息" [disabled]:
+  - generic: 
+- generic: 合并下单等情况，可能会导致部分支付方式不可用，请以最终下单页展示为准
+- generic: prev next

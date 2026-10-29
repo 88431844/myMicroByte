@@ -1,0 +1,210 @@
+{
+    "error_string": "Success.",
+    "export_time": 1084,
+    "layer_height": 0.1599999964237213,
+    "plate_index": 0,
+    "prepare_time": 430,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 491.1492919921875,
+                "Bridge": 324.4123229980469,
+                "Custom": 385.110595703125,
+                "Flush": 25.0,
+                "Gap infill": 19.779865264892578,
+                "Inner wall": 5640.091796875,
+                "Internal solid infill": 2434.848388671875,
+                "Outer wall": 5201.1904296875,
+                "Overhang wall": 1001.3291015625,
+                "Support": 1390.0115966796875,
+                "Support interface": 1337.267578125,
+                "Support transition": 431.9671936035156,
+                "Top surface": 793.8248291015625,
+                "Travel": 2063.4697265625,
+                "Undefined": 2046.94287109375
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 92.51036834716797,
+                    "total_used_g": 92.51036834716797
+                }
+            ],
+            "generate_support_material_time": 319,
+            "id": 1,
+            "infill_time": 529,
+            "layer_filament_change": 0,
+            "main_predication": 21110.314453125,
+            "make_perimeters_time": 1003,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 44.999996185302734,
+                        "height": 6.150000095367432,
+                        "width": 85.55000305175781,
+                        "x": 142.0991973876953,
+                        "y": 191.00001525878906,
+                        "z": 0.0
+                    },
+                    "id": 222,
+                    "name": "FrontShell_set1.stl",
+                    "triangle_count": 30472
+                },
+                {
+                    "bbox": {
+                        "depth": 44.999996185302734,
+                        "height": 10.949999809265137,
+                        "width": 85.55000305175781,
+                        "x": 142.0991973876953,
+                        "y": 134.00001525878906,
+                        "z": 0.0
+                    },
+                    "id": 233,
+                    "name": "RearShell_set1.stl",
+                    "triangle_count": 19346
+                },
+                {
+                    "bbox": {
+                        "depth": 44.999996185302734,
+                        "height": 6.150000095367432,
+                        "width": 85.55000305175781,
+                        "x": 44.549198150634766,
+                        "y": 191.00001525878906,
+                        "z": 0.0
+                    },
+                    "id": 255,
+                    "name": "FrontShell_set2.stl",
+                    "triangle_count": 30472
+                },
+                {
+                    "bbox": {
+                        "depth": 45.0,
+                        "height": 10.949999809265137,
+                        "width": 85.55000305175781,
+                        "x": 44.549198150634766,
+                        "y": 134.0,
+                        "z": 0.0
+                    },
+                    "id": 266,
+                    "name": "RearShell_set2.stl",
+                    "triangle_count": 19346
+                },
+                {
+                    "bbox": {
+                        "depth": 45.000003814697266,
+                        "height": 6.150000095367432,
+                        "width": 85.55000305175781,
+                        "x": 142.0991973876953,
+                        "y": 77.00000762939453,
+                        "z": 0.0
+                    },
+                    "id": 288,
+                    "name": "FrontShell_set3.stl",
+                    "triangle_count": 30472
+                },
+                {
+                    "bbox": {
+                        "depth": 45.0,
+                        "height": 10.949999809265137,
+                        "width": 85.55000305175781,
+                        "x": 44.54918670654297,
+                        "y": 77.0,
+                        "z": 0.0
+                    },
+                    "id": 299,
+                    "name": "RearShell_set3.stl",
+                    "triangle_count": 19346
+                },
+                {
+                    "bbox": {
+                        "depth": 45.0,
+                        "height": 6.150000095367432,
+                        "width": 85.55000305175781,
+                        "x": 142.0991973876953,
+                        "y": 20.000009536743164,
+                        "z": 0.0
+                    },
+                    "id": 321,
+                    "name": "FrontShell_set4.stl",
+                    "triangle_count": 30472
+                },
+                {
+                    "bbox": {
+                        "depth": 45.0,
+                        "height": 10.949999809265137,
+                        "width": 85.55000305175781,
+                        "x": 44.54918670654297,
+                        "y": 20.0,
+                        "z": 0.0
+                    },
+                    "id": 332,
+                    "name": "RearShell_set4.stl",
+                    "triangle_count": 19346
+                },
+                {
+                    "bbox": {
+                        "depth": 14.00000286102295,
+                        "height": 5.099999904632568,
+                        "width": 4.19999885559082,
+                        "x": 28.970340728759766,
+                        "y": 121.01870727539063,
+                        "z": 0.0
+                    },
+                    "id": 244,
+                    "name": "PowerSlider_set1.stl",
+                    "triangle_count": 44428
+                },
+                {
+                    "bbox": {
+                        "depth": 14.00049877166748,
+                        "height": 5.099999904632568,
+                        "width": 4.201656341552734,
+                        "x": 28.349180221557617,
+                        "y": 147.01686096191406,
+                        "z": 0.0
+                    },
+                    "id": 277,
+                    "name": "PowerSlider_set2.stl",
+                    "triangle_count": 44428
+                },
+                {
+                    "bbox": {
+                        "depth": 14.000494003295898,
+                        "height": 5.099999904632568,
+                        "width": 4.201657295227051,
+                        "x": 28.349159240722656,
+                        "y": 95.01964569091797,
+                        "z": 0.0
+                    },
+                    "id": 310,
+                    "name": "PowerSlider_set3.stl",
+                    "triangle_count": 44428
+                },
+                {
+                    "bbox": {
+                        "depth": 14.000495910644531,
+                        "height": 5.099999904632568,
+                        "width": 4.201656341552734,
+                        "x": 28.349180221557617,
+                        "y": 173.01524353027344,
+                        "z": 0.0
+                    },
+                    "id": 343,
+                    "name": "PowerSlider_set4.stl",
+                    "triangle_count": 44428
+                }
+            ],
+            "sliced_time": 4300,
+            "sliced_time_with_cache": 2125,
+            "total_predication": 21528.8984375,
+            "triangle_count": 376984,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 20.0,
+    "wall_loops": 4
+}

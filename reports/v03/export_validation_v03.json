@@ -1,0 +1,393 @@
+{
+  "native_reopen_recompute": "passed",
+  "print_stl_count": 12,
+  "stl_checks": [
+    {
+      "name": "RearShell",
+      "solid": true,
+      "volume_relative_error": 5.4047848894161046e-05,
+      "print_bounds_mm": [
+        85.0,
+        45.00000077486038,
+        14.300000190734863
+      ],
+      "bed_z_min": 0.0,
+      "sha256": "c7fb2a10ae8b8e674b55ebe1b0060d71d4b4918994c9ccba9cb578f0b36b08a7"
+    },
+    {
+      "name": "FrontShell",
+      "solid": true,
+      "volume_relative_error": 1.2081989062637323e-05,
+      "print_bounds_mm": [
+        85.0,
+        45.0,
+        8.70005035400391
+      ],
+      "bed_z_min": -3.552713678800501e-15,
+      "sha256": "69633a8b6b4968fe797badd6e7641c7240013b6aa1ee137529d93877c561ecc4"
+    },
+    {
+      "name": "PowerSlider",
+      "solid": true,
+      "volume_relative_error": 4.6634037387704994e-08,
+      "print_bounds_mm": [
+        4.199999809265137,
+        6.800000190734863,
+        4.650000095367432
+      ],
+      "bed_z_min": 0.0,
+      "sha256": "e7097794418a587e3abc1becb815b267515c301089216931f3bfe49e74c8dc46"
+    },
+    {
+      "name": "Cap_UP",
+      "solid": true,
+      "volume_relative_error": 0.0008147081972485166,
+      "print_bounds_mm": [
+        6.800000190734863,
+        9.199999809265137,
+        4.070000171661377
+      ],
+      "bed_z_min": 0.0,
+      "sha256": "34931eade235f47c8725dd13a4c7b860d61654c8d5695f8cc3e01aff611ba64a"
+    },
+    {
+      "name": "Cap_DOWN",
+      "solid": true,
+      "volume_relative_error": 0.0008147081972470497,
+      "print_bounds_mm": [
+        6.800000190734863,
+        9.199999809265137,
+        4.070000171661377
+      ],
+      "bed_z_min": 0.0,
+      "sha256": "06ea4d5dc12a5355f3d27dc769b385aa75e433e92feaa4a5c263e6517807be5b"
+    },
+    {
+      "name": "Cap_LEFT",
+      "solid": true,
+      "volume_relative_error": 0.0008147957732996605,
+      "print_bounds_mm": [
+        6.800000190734863,
+        9.199999809265137,
+        4.070000171661377
+      ],
+      "bed_z_min": 0.0,
+      "sha256": "7cf2d74caeb198b5e4e7f08548eaeda5bab482b22fd1295c41c7e7b39172c061"
+    },
+    {
+      "name": "Cap_RIGHT",
+      "solid": true,
+      "volume_relative_error": 0.0008147081972485166,
+      "print_bounds_mm": [
+        6.800000190734863,
+        9.199999809265137,
+        4.070000171661377
+      ],
+      "bed_z_min": 0.0,
+      "sha256": "a101918283edca01faa71a76b6a70d648771e4b8faa47545ba3ce1696ddd4c9d"
+    },
+    {
+      "name": "Cap_START",
+      "solid": true,
+      "volume_relative_error": 0.0008147081972457458,
+      "print_bounds_mm": [
+        6.800000190734863,
+        9.199999809265137,
+        4.070000171661377
+      ],
+      "bed_z_min": 0.0,
+      "sha256": "ca4d20abbcbbfe14c2d5031ec965e00a579f97e5b61a3d8e41d11c693496ff98"
+    },
+    {
+      "name": "Cap_SELECT",
+      "solid": true,
+      "volume_relative_error": 0.0008147081972470497,
+      "print_bounds_mm": [
+        6.800000190734863,
+        9.199999809265137,
+        4.070000171661377
+      ],
+      "bed_z_min": 0.0,
+      "sha256": "de2d1445536a5efec222fb73fa8b3cc1d15bfe4b2277ef6e95802be821880c80"
+    },
+    {
+      "name": "Cap_MENU",
+      "solid": true,
+      "volume_relative_error": 0.0008147081972488426,
+      "print_bounds_mm": [
+        6.800000190734863,
+        9.199999809265137,
+        4.070000171661377
+      ],
+      "bed_z_min": 0.0,
+      "sha256": "6a171295895237ad7393e04981cfe21112579d8124250af8d75c863462a88141"
+    },
+    {
+      "name": "Cap_A",
+      "solid": true,
+      "volume_relative_error": 0.000820629423179877,
+      "print_bounds_mm": [
+        6.800000190734863,
+        9.199999809265137,
+        3.8798999786376953
+      ],
+      "bed_z_min": 0.0,
+      "sha256": "0ff83aa0579b7583ed92578d8d9be4202e4795a462ea319a48aa8163be67c9d1"
+    },
+    {
+      "name": "Cap_B",
+      "solid": true,
+      "volume_relative_error": 0.0008147081972478647,
+      "print_bounds_mm": [
+        6.800000190734863,
+        9.199999809265137,
+        4.070000171661377
+      ],
+      "bed_z_min": 0.0,
+      "sha256": "f05d216bb5b6474160d09a324efb933ee34d0ba3614a96f82349f5ab5cb083b5"
+    }
+  ],
+  "native_sha256": "09f9ac6848caefd3df1aacd5b1de89c26c485f02fb133e17868e14c6f59b144b",
+  "finished_pack_envelope_mm": [
+    56,
+    36,
+    5
+  ],
+  "finished_pack_checks": [
+    {
+      "name": "RearShell_v03",
+      "clearance_mm": 0.30000000000000027,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "FrontShell_v03",
+      "clearance_mm": 7.206941098690906,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_Board",
+      "clearance_mm": 6.099999199897999,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_U9",
+      "clearance_mm": 5.469925552267517,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_A",
+      "clearance_mm": 10.522023881280003,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_B",
+      "clearance_mm": 7.700049999999999,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_DOWN",
+      "clearance_mm": 7.700049999999992,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_LEFT",
+      "clearance_mm": 7.7000499999999885,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_MENU",
+      "clearance_mm": 7.700049999999996,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_RIGHT",
+      "clearance_mm": 7.700049999999992,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_SELECT",
+      "clearance_mm": 7.700049999999992,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_START",
+      "clearance_mm": 7.700049999999996,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_UP",
+      "clearance_mm": 7.700049999999992,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_CARD1",
+      "clearance_mm": 3.9490001967589983,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_C1",
+      "clearance_mm": 4.799999223739999,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_C2",
+      "clearance_mm": 4.799999223739988,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_C3",
+      "clearance_mm": 4.799999223739988,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_C4",
+      "clearance_mm": 4.799999223739988,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_C5",
+      "clearance_mm": 4.799999223739988,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_C6",
+      "clearance_mm": 4.799999223739988,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_C7",
+      "clearance_mm": 4.799999223739988,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_C8",
+      "clearance_mm": 4.799999223739999,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_C9",
+      "clearance_mm": 4.799999223739999,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_C10",
+      "clearance_mm": 7.991247845013514,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_C11",
+      "clearance_mm": 7.991247845013514,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_C12",
+      "clearance_mm": 4.940531190291259,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_C13",
+      "clearance_mm": 9.443375435540561,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_RN1",
+      "clearance_mm": 5.599999199897999,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_RN2",
+      "clearance_mm": 5.599999199897999,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_Q1",
+      "clearance_mm": 4.999999199897989,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_Q4",
+      "clearance_mm": 4.999999199897989,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_Q5",
+      "clearance_mm": 4.999999199897989,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_SW3",
+      "clearance_mm": 12.88813981939925,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_LDO1",
+      "clearance_mm": 8.254445791371777,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_U4",
+      "clearance_mm": 5.239999200206999,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_U1",
+      "clearance_mm": 2.7799991801009885,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Ref_U17",
+      "clearance_mm": 4.5989991879769985,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "LCD_Assumed_5mm",
+      "clearance_mm": 7.700049999999999,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "USB_Envelope",
+      "clearance_mm": 2.5,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Speaker_1510",
+      "clearance_mm": 4.0,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "BAT_ConnectorEnvelope",
+      "clearance_mm": 7.65156088651198,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "BAT_PlugEnvelope",
+      "clearance_mm": 8.44933038766978,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "SPEAKER_ConnectorEnvelope",
+      "clearance_mm": 0.5999999999999996,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "SPEAKER_PlugEnvelope",
+      "clearance_mm": 0.5999999999999996,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Speaker_ToleranceEnvelope",
+      "clearance_mm": 3.8999999999999986,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "Speaker_TabEnvelope",
+      "clearance_mm": 7.5,
+      "overlap_mm3": 0
+    },
+    {
+      "name": "LCD_ToleranceEnvelope",
+      "clearance_mm": 7.700049999999999,
+      "overlap_mm3": 0
+    }
+  ]
+}

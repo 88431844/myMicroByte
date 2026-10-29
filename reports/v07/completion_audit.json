@@ -1,0 +1,38 @@
+{
+  "revision": "0.7",
+  "purpose": "stock-only filament palettes and adhesive-free speaker chamber preview",
+  "rigid_interference_check": "passed; intentional speaker spring preload reported separately",
+  "stl_check": "four closed, manifold, non-self-intersecting meshes",
+  "lid_motion": "passed sampled 0.2 mm translation / 0.5 degree rotation with front latches retracted .25 mm",
+  "speaker_spring_check": "geometric deformation approximation; not force or fatigue validation",
+  "unchanged_parts_with_identical_stl": [
+    "FrontShell",
+    "PowerSlider"
+  ],
+  "ui_checks": {
+    "nine_presets": "captured and visually checked as a contact sheet",
+    "individual_filament": "stock selection and mixed-material note checked",
+    "clear_PETG": "translucent preview checked",
+    "hook_animation": "100 percent completion observed",
+    "console_errors": [],
+    "native_meshes": "51 objects / 9 groups"
+  },
+  "preview_url": "http://127.0.0.1:55215/",
+  "printing": {
+    "status": "sent; device executing material preparation",
+    "parts_count": 9,
+    "sliders_each_color": 2,
+    "colors": [
+      "black PLA",
+      "green PLA",
+      "blue PLA"
+    ],
+    "estimated_seconds": 11812,
+    "estimated_grams": 41.33,
+    "validation_report": "print_project_validation_v07.json",
+    "state_file": "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_black_green_blue_PLA_v07/print_followup_state.json"
+  },
+  "sound_gain": "not measured; hard joints and wire exit remain leaky",
+  "native_sha256": "0abdac2b9ad0a0b2a76a1e10ab3e3b195900412024fc4798bab2fc2f358a6e92",
+  "html_sha256": "ee337d4175201ffa76dfb274bf33637409f939a0611483856b4df65931355956"
+}

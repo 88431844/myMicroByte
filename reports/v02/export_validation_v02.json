@@ -1,0 +1,65 @@
+{
+  "native_reopened_and_recomputed": true,
+  "battery_frame_parameter_edit_verified": true,
+  "parts": [
+    {
+      "file": "Cap_A_print.stl",
+      "closed": true,
+      "facets": 1256
+    },
+    {
+      "file": "Cap_B_print.stl",
+      "closed": true,
+      "facets": 1256
+    },
+    {
+      "file": "Cap_DOWN_print.stl",
+      "closed": true,
+      "facets": 1256
+    },
+    {
+      "file": "Cap_LEFT_print.stl",
+      "closed": true,
+      "facets": 1256
+    },
+    {
+      "file": "Cap_MENU_print.stl",
+      "closed": true,
+      "facets": 1256
+    },
+    {
+      "file": "Cap_RIGHT_print.stl",
+      "closed": true,
+      "facets": 1256
+    },
+    {
+      "file": "Cap_SELECT_print.stl",
+      "closed": true,
+      "facets": 1256
+    },
+    {
+      "file": "Cap_START_print.stl",
+      "closed": true,
+      "facets": 1256
+    },
+    {
+      "file": "Cap_UP_print.stl",
+      "closed": true,
+      "facets": 1256
+    },
+    {
+      "file": "FrontShell_print.stl",
+      "closed": true,
+      "facets": 8288
+    },
+    {
+      "file": "RearShell_print.stl",
+      "closed": true,
+      "facets": 7556
+    }
+  ],
+  "view_metadata": {
+    "providers": 229,
+    "native_metadata_refs_valid": true
+  }
+}

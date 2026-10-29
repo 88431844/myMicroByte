@@ -1,0 +1,4 @@
+[2026-10-17 21:11:27.069417] [0x0000000203362240] [trace]   Initializing StaticPrintConfigs
+[2026-10-17 21:11:27.121747] [0x0000000203362240] [warning] cli mode, Current BambuStudio Version 02.08.02.61
+[2026-10-17 21:11:27.569310] [0x000000016c1c3000] [error]   Reversing even wall line causes it to be printed CCW instead of CW!
+[2026-10-17 21:11:28.270897] [0x000000016da0b000] [warning] Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.

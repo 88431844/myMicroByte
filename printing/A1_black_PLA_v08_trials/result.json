@@ -1,0 +1,196 @@
+{
+    "error_string": "Success.",
+    "export_time": 797,
+    "layer_height": 0.1599999964237213,
+    "plate_index": 0,
+    "prepare_time": 361,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 182.7215118408203,
+                "Bridge": 372.5062561035156,
+                "Custom": 34.92900085449219,
+                "Gap infill": 16.68263816833496,
+                "Inner wall": 3626.72705078125,
+                "Internal solid infill": 1508.02880859375,
+                "Outer wall": 3448.064697265625,
+                "Overhang wall": 426.7749938964844,
+                "Support": 426.91998291015625,
+                "Support interface": 1152.1947021484375,
+                "Support transition": 117.25218200683594,
+                "Top surface": 557.1270751953125,
+                "Travel": 1208.7806396484375,
+                "Undefined": 1193.0924072265625
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 45.49045944213867,
+                    "total_used_g": 54.16777420043945
+                }
+            ],
+            "generate_support_material_time": 221,
+            "id": 1,
+            "infill_time": 608,
+            "layer_filament_change": 0,
+            "main_predication": 13044.099609375,
+            "make_perimeters_time": 627,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 44.99999237060547,
+                        "height": 4.949999809265137,
+                        "width": 85.00000762939453,
+                        "x": 141.99998474121094,
+                        "y": 175.10000610351563,
+                        "z": 0.0
+                    },
+                    "id": 205,
+                    "name": "F1_print.stl",
+                    "triangle_count": 22006
+                },
+                {
+                    "bbox": {
+                        "depth": 45.0,
+                        "height": 4.649999618530273,
+                        "width": 85.00000762939453,
+                        "x": 141.99998474121094,
+                        "y": 118.0999984741211,
+                        "z": 0.0
+                    },
+                    "id": 216,
+                    "name": "F2_print.stl",
+                    "triangle_count": 22072
+                },
+                {
+                    "bbox": {
+                        "depth": 44.99999237060547,
+                        "height": 6.149999618530273,
+                        "width": 85.0,
+                        "x": 44.9999885559082,
+                        "y": 175.10000610351563,
+                        "z": 0.0
+                    },
+                    "id": 227,
+                    "name": "F3_print.stl",
+                    "triangle_count": 31658
+                },
+                {
+                    "bbox": {
+                        "depth": 45.0,
+                        "height": 4.949999809265137,
+                        "width": 85.0,
+                        "x": 44.9999885559082,
+                        "y": 118.09999084472656,
+                        "z": 0.0
+                    },
+                    "id": 238,
+                    "name": "F4_print.stl",
+                    "triangle_count": 21970
+                },
+                {
+                    "bbox": {
+                        "depth": 45.0,
+                        "height": 11.84999942779541,
+                        "width": 85.00000762939453,
+                        "x": 141.99998474121094,
+                        "y": 61.099998474121094,
+                        "z": 0.0
+                    },
+                    "id": 249,
+                    "name": "R1_print.stl",
+                    "triangle_count": 56990
+                },
+                {
+                    "bbox": {
+                        "depth": 45.0,
+                        "height": 11.84999942779541,
+                        "width": 85.0,
+                        "x": 44.9999885559082,
+                        "y": 61.099979400634766,
+                        "z": 0.0
+                    },
+                    "id": 260,
+                    "name": "R2_print.stl",
+                    "triangle_count": 57020
+                },
+                {
+                    "bbox": {
+                        "depth": 13.200002670288086,
+                        "height": 1.700000286102295,
+                        "width": 19.69999885559082,
+                        "x": 136.62599182128906,
+                        "y": 35.89999771118164,
+                        "z": 0.0
+                    },
+                    "id": 304,
+                    "name": "L1_print.stl",
+                    "triangle_count": 1104
+                },
+                {
+                    "bbox": {
+                        "depth": 13.199999809265137,
+                        "height": 1.700000286102295,
+                        "width": 19.700002670288086,
+                        "x": 168.32598876953125,
+                        "y": 35.89999008178711,
+                        "z": 0.0
+                    },
+                    "id": 315,
+                    "name": "L2_print.stl",
+                    "triangle_count": 1104
+                },
+                {
+                    "bbox": {
+                        "depth": 3.9999983310699463,
+                        "height": 4.75,
+                        "width": 10.40000057220459,
+                        "x": 114.22599029541016,
+                        "y": 45.099971771240234,
+                        "z": 0.0
+                    },
+                    "id": 271,
+                    "name": "S1_print.stl",
+                    "triangle_count": 34980
+                },
+                {
+                    "bbox": {
+                        "depth": 3.9999983310699463,
+                        "height": 4.75,
+                        "width": 10.400001525878906,
+                        "x": 91.82598876953125,
+                        "y": 45.099971771240234,
+                        "z": 0.0
+                    },
+                    "id": 282,
+                    "name": "S2_print.stl",
+                    "triangle_count": 35484
+                },
+                {
+                    "bbox": {
+                        "depth": 10.399998664855957,
+                        "height": 4.75,
+                        "width": 4.0,
+                        "x": 29.000009536743164,
+                        "y": 144.69940185546875,
+                        "z": 0.0
+                    },
+                    "id": 293,
+                    "name": "S3_print.stl",
+                    "triangle_count": 35988
+                }
+            ],
+            "sliced_time": 2980,
+            "sliced_time_with_cache": 1365,
+            "total_predication": 13063.3095703125,
+            "triangle_count": 320376,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 20.0,
+    "wall_loops": 4
+}

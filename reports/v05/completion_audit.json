@@ -1,0 +1,17 @@
+{
+  "revision": "0.5",
+  "status": "preview_ready_awaiting_user_review",
+  "designed_with": "local FreeCAD",
+  "run_front_hole": "removed",
+  "native_and_export_hashes_match": true,
+  "solid_and_mesh_checks": "passed",
+  "nominal_assembly_collision_checks": "passed",
+  "slider_path_checks": "full travel and vertical installation passed",
+  "tolerance_scenarios": "passed before local RUN-hole closure; main part and port geometry unchanged by that closure; final nominal checks repeated",
+  "page": "output/assembly-guide-v05/index.html",
+  "browser_url": "http://127.0.0.1:8768/",
+  "browser_console_errors": [],
+  "print_sent": false,
+  "print_authorization": "await review of this revision; prior automatic fallback not reused",
+  "preview_sha256": "3f28ae42f633d59f15b3a806a1bece6782e294a2d461e263716a68d9d9cbe952"
+}

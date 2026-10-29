@@ -1,0 +1,213 @@
+{
+  "source": "user statement and supplied photos, 2026-10-17; approximate display colors",
+  "filaments": {
+    "pla_silver": {
+      "name": "银色 PLA",
+      "color": "#a6aaad",
+      "material": "PLA",
+      "stock": "备用 1 卷",
+      "metalness": 0.22
+    },
+    "pla_black": {
+      "name": "黑色 PLA",
+      "color": "#202329",
+      "material": "PLA",
+      "stock": "当前槽 4"
+    },
+    "pla_red": {
+      "name": "红色 PLA",
+      "color": "#c71f29",
+      "material": "PLA",
+      "stock": "备用 1 卷"
+    },
+    "pla_yellow": {
+      "name": "黄色 PLA",
+      "color": "#f0cb12",
+      "material": "PLA",
+      "stock": "备用 1 卷"
+    },
+    "pla_blue": {
+      "name": "蓝色 PLA",
+      "color": "#1743ac",
+      "material": "PLA",
+      "stock": "当前槽 1"
+    },
+    "pla_green": {
+      "name": "绿色 PLA",
+      "color": "#12a14c",
+      "material": "PLA",
+      "stock": "当前槽 2"
+    },
+    "petg_white": {
+      "name": "白色 PETG",
+      "color": "#eeeee8",
+      "material": "PETG",
+      "stock": "2 卷"
+    },
+    "petg_gray": {
+      "name": "灰色 PETG",
+      "color": "#8b8e91",
+      "material": "PETG",
+      "stock": "2 卷"
+    },
+    "petg_black": {
+      "name": "黑色 PETG",
+      "color": "#202329",
+      "material": "PETG",
+      "stock": "2 卷"
+    },
+    "petg_clear": {
+      "name": "透明 PETG",
+      "color": "#d9e6e8",
+      "material": "PETG",
+      "stock": "3 卷；当前槽 3",
+      "opacity": 0.38
+    }
+  },
+  "palettes": {
+    "silver_red": {
+      "name": "银黑红 · 推荐",
+      "filaments": {
+        "front": "pla_silver",
+        "rear": "pla_black",
+        "slider": "pla_red",
+        "lid": "pla_black"
+      },
+      "note": "需换入银色、红色 PLA；黑色沿用槽 4。",
+      "colors": {
+        "front": "#a6aaad",
+        "rear": "#202329",
+        "slider": "#c71f29",
+        "lid": "#202329"
+      }
+    },
+    "black_green": {
+      "name": "黑绿 · 无需换卷",
+      "filaments": {
+        "front": "pla_black",
+        "rear": "pla_black",
+        "slider": "pla_green",
+        "lid": "pla_black"
+      },
+      "note": "当前槽 2 绿色、槽 4 黑色 PLA 即可。",
+      "colors": {
+        "front": "#202329",
+        "rear": "#202329",
+        "slider": "#12a14c",
+        "lid": "#202329"
+      }
+    },
+    "blue_green": {
+      "name": "蓝黑绿 · 无需换卷",
+      "filaments": {
+        "front": "pla_blue",
+        "rear": "pla_black",
+        "slider": "pla_green",
+        "lid": "pla_black"
+      },
+      "note": "当前槽 1 蓝色、槽 2 绿色、槽 4 黑色 PLA 即可。",
+      "colors": {
+        "front": "#1743ac",
+        "rear": "#202329",
+        "slider": "#12a14c",
+        "lid": "#202329"
+      }
+    },
+    "yellow_red": {
+      "name": "黄黑红 · 明亮",
+      "filaments": {
+        "front": "pla_yellow",
+        "rear": "pla_black",
+        "slider": "pla_red",
+        "lid": "pla_black"
+      },
+      "note": "需换入黄色、红色 PLA；黑色沿用槽 4。",
+      "colors": {
+        "front": "#f0cb12",
+        "rear": "#202329",
+        "slider": "#c71f29",
+        "lid": "#202329"
+      }
+    },
+    "red_yellow": {
+      "name": "红黑黄 · 复古",
+      "filaments": {
+        "front": "pla_red",
+        "rear": "pla_black",
+        "slider": "pla_yellow",
+        "lid": "pla_black"
+      },
+      "note": "需换入红色、黄色 PLA；黑色沿用槽 4。",
+      "colors": {
+        "front": "#c71f29",
+        "rear": "#202329",
+        "slider": "#f0cb12",
+        "lid": "#202329"
+      }
+    },
+    "green_blue": {
+      "name": "绿黑蓝 · 无需换卷",
+      "filaments": {
+        "front": "pla_green",
+        "rear": "pla_black",
+        "slider": "pla_blue",
+        "lid": "pla_black"
+      },
+      "note": "当前槽 1 蓝色、槽 2 绿色、槽 4 黑色 PLA 即可。",
+      "colors": {
+        "front": "#12a14c",
+        "rear": "#202329",
+        "slider": "#1743ac",
+        "lid": "#202329"
+      }
+    },
+    "white_gray": {
+      "name": "白灰黑 · 全 PETG",
+      "filaments": {
+        "front": "petg_white",
+        "rear": "petg_gray",
+        "slider": "petg_black",
+        "lid": "petg_gray"
+      },
+      "note": "需换入白、灰、黑 PETG，并使用对应 PETG 配置。",
+      "colors": {
+        "front": "#eeeee8",
+        "rear": "#8b8e91",
+        "slider": "#202329",
+        "lid": "#8b8e91"
+      }
+    },
+    "gray_black": {
+      "name": "灰黑白 · 全 PETG",
+      "filaments": {
+        "front": "petg_gray",
+        "rear": "petg_black",
+        "slider": "petg_white",
+        "lid": "petg_black"
+      },
+      "note": "需换入灰、黑、白 PETG，并使用对应 PETG 配置。",
+      "colors": {
+        "front": "#8b8e91",
+        "rear": "#202329",
+        "slider": "#eeeee8",
+        "lid": "#202329"
+      }
+    },
+    "clear_back": {
+      "name": "黑透白 · 全 PETG",
+      "filaments": {
+        "front": "petg_black",
+        "rear": "petg_clear",
+        "slider": "petg_white",
+        "lid": "petg_clear"
+      },
+      "note": "透明 PETG 在槽 3；另需黑、白 PETG。后盖为磨砂透光示意。",
+      "colors": {
+        "front": "#202329",
+        "rear": "#d9e6e8",
+        "slider": "#eeeee8",
+        "lid": "#d9e6e8"
+      }
+    }
+  }
+}

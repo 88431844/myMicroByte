@@ -1,0 +1,20 @@
+{
+  "job": "myMicrobyte_v10_black",
+  "status": "printer_accepted_preparing",
+  "sent_once": true,
+  "do_not_resend": true,
+  "sent_at": "2026-10-19T01:13:33.471443+08:00",
+  "filament": "black PLA A4",
+  "grams": 23.18,
+  "estimated_seconds": 5805,
+  "project": "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_black_PLA_v10/myMicrobyte_v10_black.3mf",
+  "sliced_file": "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_black_PLA_v10/myMicrobyte_v10_black.gcode.3mf",
+  "updated_at": "2026-10-19T01:17:20.752035+08:00",
+  "printer_job": "myMicrobyte_v10_black",
+  "printer_stage": "动态流量校准",
+  "printer_progress_percent": 1,
+  "printer_layer": "0/105",
+  "estimated_completion_local": "2026-10-19 02:52 Asia/Shanghai",
+  "first_layer_verified": false,
+  "startup_screenshot": "reports/v10/A1_v10_started.png"
+}

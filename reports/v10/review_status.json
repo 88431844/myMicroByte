@@ -1,0 +1,35 @@
+{
+  "revision": "v0.10",
+  "updated_at": "2026-10-19T01:17:20.752035+08:00",
+  "status": "printer_accepted_preparing",
+  "print_sent": true,
+  "print_authorization": "用户明确要求：用拓竹A1打印吧",
+  "preview_url": "http://127.0.0.1:63047/",
+  "ui_checks": {
+    "loaded_real_meshes": 54,
+    "slider_separate_and_grip": true,
+    "slider_insertion_0_and_100_percent": true,
+    "front_closure_0_and_100_percent": true,
+    "clipped_guide_view": true,
+    "slider_endpoints_and_reset_zero": true,
+    "assembled_and_exploded": true,
+    "export_png": true,
+    "browser_errors": [],
+    "browser_warnings": [
+      "Three.js legacy bundle deprecation only"
+    ]
+  },
+  "sha256": {
+    "output/v10/myMicrobyte_enclosure_v10.FCStd": "26848db1e8e44125053838ed69389f9cb97d5088a038f5f76b6df314457164f3",
+    "output/v10/myMicrobyte_enclosure_v10.step": "6de701bdafa6111115b8630b6c34354121a4df7dda8a386c7748350458f9c071",
+    "output/assembly-guide-v10/index.html": "01c334c4ad7a12327ccc91d2202fb88052953f41bb960af0d06aa349cda1dab8"
+  },
+  "printer_job": "myMicrobyte_v10_black",
+  "printer_stage": "动态流量校准",
+  "printer_progress_percent": 1,
+  "printer_layer": "0/105",
+  "estimated_completion_local": "2026-10-19 02:52 Asia/Shanghai",
+  "first_layer_verified": false,
+  "startup_screenshot": "reports/v10/A1_v10_started.png",
+  "user_approved": true
+}

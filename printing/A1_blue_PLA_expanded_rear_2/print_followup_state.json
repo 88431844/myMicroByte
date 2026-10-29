@@ -1,0 +1,21 @@
+{
+  "job": "myMicrobyte_expanded_rear_2_blue",
+  "count": 2,
+  "part": "expanded rear shell",
+  "frame_inner_mm": [
+    57,
+    32
+  ],
+  "material": "PLA",
+  "ams_slot": "A1",
+  "color": "blue",
+  "send_attempts": 1,
+  "state": "accepted_preparing_toolhead_homing",
+  "estimated_seconds": 5883,
+  "estimated_grams": 25.35,
+  "recorded_at": "2026-10-22T07:50:29.775923+08:00",
+  "percent": 0,
+  "layer": "0/90",
+  "estimated_finish_local": "2026-10-22 09:29 Asia/Shanghai",
+  "first_layer_verified": false
+}

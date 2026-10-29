@@ -1,0 +1,172 @@
+{
+  "revision": "0.7",
+  "units": "mm",
+  "shell_size_mm": [
+    85,
+    45,
+    14.4
+  ],
+  "board_rear_z_mm": 9.0,
+  "board_thickness_CAD_mm": 1.60005,
+  "board_pocket_mm": 2.15,
+  "seam_gap_mm": 0.1,
+  "rear_depth_reduction_mm": 4.0,
+  "battery_nominal_placeholder_mm": [
+    50,
+    28,
+    3
+  ],
+  "battery_checked_finished_envelope_mm": [
+    51,
+    29,
+    3.3
+  ],
+  "battery_frame_clear_mm": [
+    52,
+    30
+  ],
+  "lcd_window_mm": [
+    29.72,
+    29.72
+  ],
+  "lcd_active_mm": [
+    27.72,
+    27.72
+  ],
+  "lcd_glass_recess_mm": 1.7999500000000008,
+  "button_nominal_protrusion_mm": 1.6000499999999995,
+  "button_face_z_mm": 14.0,
+  "lcd_locator_height_mm": 0.75,
+  "slider_mechanical_travel_mm": 3.6,
+  "slider_socket_play_mm": 0.65,
+  "minimum_insert_blind_roof_mm": 0.6899999999999995,
+  "tf_throat_mm": [
+    14.2,
+    3.8
+  ],
+  "usb_throat_mm": [
+    10.4,
+    4.6
+  ],
+  "exterior_edge_round_mm": [
+    1.8,
+    1.8
+  ],
+  "front_run_hole": false,
+  "speaker_center_mm": [
+    30.4,
+    -1.5
+  ],
+  "chamber_outer_xy_mm": [
+    13.2,
+    20.1
+  ],
+  "chamber_lid_thickness_mm": 0.8,
+  "chamber_wall_thickness_mm": 0.8,
+  "chamber_local_spring_relief_wall_mm": 0.6,
+  "acoustic_seal_compressed_thickness_mm": 0,
+  "parts": [
+    {
+      "name": "RearShell_v07",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 10051.274614902088
+    },
+    {
+      "name": "FrontShell_v07",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4398.047768990117
+    },
+    {
+      "name": "PowerSlider_v07",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 67.93655629675871
+    },
+    {
+      "name": "AcousticLid_v07",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 208.07398175455202
+    }
+  ],
+  "collisions": [],
+  "clearances_mm": {
+    "battery_ESP32": 0.6799991801009888,
+    "battery_USB": 0.40000000000000036,
+    "battery_speaker_plug": 1.8329999999999984,
+    "speaker_battery_connector": 1.959623786010131,
+    "glass_front": 0.4999500000000001,
+    "lid_to_switch": 0.5157737784049985,
+    "chamber_to_battery_frame": 0.5999999999999979,
+    "chamber_to_battery_connector": 0.5519999999999996,
+    "lid_to_speaker_max": 0.40000000000000036,
+    "chamber_to_charge_light_path": 0.4759999999999991
+  },
+  "assumptions": [
+    "Acoustic layout only: no measured SPL benefit. Rear vent details and speaker fs/Vas/Qts are unavailable. Compare the removable lid on/off using the same signal and volume.",
+    "Dry hard-plastic prototype: no gasket, glue, or tape. Bare seat, lid joint, spring roots and wire exit can leak; not a sealed or tuned acoustic enclosure. Sound gain is unverified.",
+    "Battery model not chosen; prioritize thin rear. Select finished pack within checked envelope including protection and wrap.",
+    "Connector and plug depth remains conservative 5.5 mm, not physically measured.",
+    "MSK slider mechanical travel3.6 mm; socket play about0.65 mm for the supplied1.3 mm actuator, leaving up to2.95 mm actuator motion. Electrical end positions still require physical trial. Guide play is not a measured printer calibration.",
+    "Speaker tab shape is a conservative allowance from image; cable bending and plug strain relief require physical trial.",
+    "Board pocket2.15 mm is a non-clamping trial clearance; actual solder, warp and proud inserts are not in the source STEP. Do not force the joint with screws.",
+    "TF brow retains at least0.35 mm above checked card path; a small part of the lower PCB edge remains visible to preserve insertion clearance.",
+    "M2×2×3 insert interference with 2.8 mm pilot is intentional. Heat insertion fit requires trial."
+  ],
+  "slider_retention_mm": {
+    "flange_height": 3.8,
+    "outer_slot_height": 3.450000000000001,
+    "minimum_vertical_capture": 0.34999999999999876
+  },
+  "slider_installation": "vertical +Z to seated position; front removed; open socket captures actuator",
+  "switch_front_clearances_mm": {
+    "UP": 0.6989469138939999,
+    "DOWN": 0.6990304800610012,
+    "LEFT": 0.6988516637030031,
+    "RIGHT": 0.6991262382520027,
+    "START": 0.6990320040639979,
+    "SELECT": 0.6991264922529972,
+    "MENU": 0.6990320040639979,
+    "A": 0.5849134100229989,
+    "B": 0.6990281940560017
+  },
+  "rear_air_volume_estimate_cm3": 0.455058008448658,
+  "grille_open_area_mm2": 41.600609432613865,
+  "acoustic_lid_attachment": "printed fixed hook + two releasable cantilever latches; no adhesive or gasket",
+  "speaker_retention": {
+    "type": "two printed side springs; contact only rigid side frame",
+    "opening_mm": 9.7,
+    "speaker_width_range_mm": [
+      9.8,
+      10.2
+    ],
+    "nominal_interference_per_side_mm": 0.15,
+    "maximum_interference_per_side_mm": 0.25,
+    "material_note": "PETG preferred for repeated disassembly; PLA trial allowed. Beam estimate is not fatigue/force validation.",
+    "approx_peak_strain_fraction": 0.013696128560993424,
+    "intentional_contact_volumes_mm3": {
+      "SpeakerSideSpringL": 0.599906250000001,
+      "SpeakerSideSpringR": 0.5999062500000012
+    }
+  },
+  "lid_latches": {
+    "hook_overlap_mm": 0.15,
+    "vertical_capture_clearance_mm": 0.15,
+    "release_deflection_mm": 0.25,
+    "approx_peak_strain_fraction": 0.007438016528925619
+  },
+  "wire_exit": "2.2 mm wide top-open notch; unsealed wire clearance; not a tuned port",
+  "acoustic_assembly_order": [
+    "spread side springs and seat speaker on hard perimeter",
+    "route wires through notch",
+    "tilt lid into fixed hook",
+    "lower opposite edge and snap two latches",
+    "check no rattle and no wire pinch",
+    "PCB",
+    "power slider",
+    "front shell",
+    "screws"
+  ]
+}

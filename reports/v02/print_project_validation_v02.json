@@ -1,0 +1,127 @@
+{
+  "revision": "v0.2",
+  "file": "myMicrobyte_v02_A1_black_PLA_sliced.3mf",
+  "slice_metadata": {
+    "index": "1",
+    "extruder_type": "0",
+    "nozzle_volume_type": "0",
+    "printer_model_id": "",
+    "nozzle_diameters": "0.4",
+    "timelapse_type": "0",
+    "prediction": "4116",
+    "weight": "30.84",
+    "pause_count": "0",
+    "first_layer_time": "2204660400128.000000",
+    "outside": "false",
+    "support_used": "true",
+    "label_object_enabled": "true",
+    "support_material_on_wipe_tower": "false",
+    "enable_filament_dynamic_map": "false",
+    "has_filament_switcher": "false",
+    "filament_maps": "1",
+    "limit_filament_maps": "0"
+  },
+  "objects": [
+    {
+      "identify_id": "214",
+      "name": "RearShell_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "225",
+      "name": "FrontShell_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "236",
+      "name": "Cap_A_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "247",
+      "name": "Cap_B_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "258",
+      "name": "Cap_DOWN_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "269",
+      "name": "Cap_LEFT_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "280",
+      "name": "Cap_MENU_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "291",
+      "name": "Cap_RIGHT_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "302",
+      "name": "Cap_SELECT_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "313",
+      "name": "Cap_START_print.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "324",
+      "name": "Cap_UP_print.stl",
+      "skipped": "false"
+    }
+  ],
+  "settings": {
+    "printer_model": "Bambu Lab A1",
+    "nozzle_diameter": [
+      "0.4"
+    ],
+    "layer_height": "0.2",
+    "wall_loops": "4",
+    "sparse_infill_density": "20%",
+    "sparse_infill_pattern": "gyroid",
+    "enable_support": "1",
+    "support_type": "normal(auto)",
+    "support_on_build_plate_only": "1"
+  },
+  "source_stl_sha256": {
+    "Cap_A_print.stl": "6c1c5ca9a899ac5dbc21b972d4de3e574597e5e1e05b93655f3fac65ea090aa4",
+    "Cap_B_print.stl": "552792d598650b45ddc71c756e284f0ff0179273a1ee69c75b5b74ee5c84305e",
+    "Cap_DOWN_print.stl": "b80d6e447592f3ecd2e61327954121092b1910dd8008f12ac4c21661ded9cdcc",
+    "Cap_LEFT_print.stl": "d338c5f9f891c1a37c8c5f94c104060ca57a4958f389d65bba66a468a03457e3",
+    "Cap_MENU_print.stl": "c01237fc61f1aeea408902f4f846617e663a5f69d46069b7db793b18df25bdee",
+    "Cap_RIGHT_print.stl": "eab0872ab2122416c86755deed32bbe84996de472f5a6bcd3b02ae86edd5a5f5",
+    "Cap_SELECT_print.stl": "ebeacd3ea7ec28068eb7255612117fd9687575d113e9ed58b0ee45208efd0145",
+    "Cap_START_print.stl": "ebeacd3ea7ec28068eb7255612117fd9687575d113e9ed58b0ee45208efd0145",
+    "Cap_UP_print.stl": "6538b77c8651cc714c7c516dfa5be7772ed1db6b7ac6ea9abc11842de370c5bd",
+    "FrontShell_print.stl": "0fec81acc9862addbc8e297b9f926a71f1a42c384b651553b65e3b73d295cd8c",
+    "RearShell_print.stl": "f498bee3b58eda43a62b7912c7e6ff89036d73b35aade6a862e5cd44a19fd220"
+  },
+  "job_sent": true,
+  "submission": {
+    "verified_at": "2026-10-15T12:17:24.432149+08:00",
+    "application": "Bambu Studio",
+    "printer": "拓竹 A1",
+    "job_name": "myMicrobyte_v02_A1_black_PLA_sliced",
+    "filament": "PLA black",
+    "ams_slot": "A4",
+    "plate_count": 1,
+    "object_count": 11,
+    "gui_weight_g": 30.82,
+    "gui_total_time": "1h16m42s",
+    "device_status_at_verification": "工具头回中，层 0/87，已开始加热",
+    "estimated_finish_local": "2026-10-15 13:29 Asia/Shanghai",
+    "physical_completion_verified": false,
+    "bed_clearance": "Live camera showed empty build plate before submission",
+    "bed_leveling": true,
+    "flow_calibration": true,
+    "timelapse": false
+  }
+}

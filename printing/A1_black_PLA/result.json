@@ -1,0 +1,197 @@
+{
+    "error_string": "Success.",
+    "export_time": 440,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 0,
+    "prepare_time": 293,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 219.0023956298828,
+                "Bridge": 148.49795532226563,
+                "Custom": 34.50096130371094,
+                "Gap infill": 305.17681884765625,
+                "Inner wall": 821.2568969726563,
+                "Internal solid infill": 677.5269775390625,
+                "Outer wall": 616.4660034179688,
+                "Overhang wall": 28.788911819458008,
+                "Sparse infill": 45.635780334472656,
+                "Support": 155.79266357421875,
+                "Support interface": 35.467430114746094,
+                "Support transition": 27.54015350341797,
+                "Top surface": 224.10171508789063,
+                "Travel": 527.4006958007813,
+                "Undefined": 512.1052856445313
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 27.94883918762207,
+                    "total_used_g": 28.952680587768555
+                }
+            ],
+            "generate_support_material_time": 68,
+            "id": 1,
+            "infill_time": 201,
+            "layer_filament_change": 0,
+            "main_predication": 3832.65673828125,
+            "make_perimeters_time": 333,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 45.000003814697266,
+                        "height": 16.299999237060547,
+                        "width": 85.0,
+                        "x": 102.03954315185547,
+                        "y": 143.39892578125,
+                        "z": 0.0
+                    },
+                    "id": 205,
+                    "name": "RearShell_print.stl",
+                    "triangle_count": 4984
+                },
+                {
+                    "bbox": {
+                        "depth": 44.999996185302734,
+                        "height": 9.300000190734863,
+                        "width": 85.0,
+                        "x": 102.03954315185547,
+                        "y": 86.39893341064453,
+                        "z": 0.0
+                    },
+                    "id": 216,
+                    "name": "FrontShell_print.stl",
+                    "triangle_count": 6660
+                },
+                {
+                    "bbox": {
+                        "depth": 8.813603401184082,
+                        "height": 3.1500000953674316,
+                        "width": 8.812413215637207,
+                        "x": 85.68282318115234,
+                        "y": 132.99212646484375,
+                        "z": 0.0
+                    },
+                    "id": 227,
+                    "name": "Cap_A_print.stl",
+                    "triangle_count": 1508
+                },
+                {
+                    "bbox": {
+                        "depth": 8.812409400939941,
+                        "height": 3.1500000953674316,
+                        "width": 8.81360149383545,
+                        "x": 82.23380279541016,
+                        "y": 151.4735870361328,
+                        "z": 0.0
+                    },
+                    "id": 238,
+                    "name": "Cap_B_print.stl",
+                    "triangle_count": 1508
+                },
+                {
+                    "bbox": {
+                        "depth": 8.812413215637207,
+                        "height": 3.1500000953674316,
+                        "width": 8.81360149383545,
+                        "x": 82.23380279541016,
+                        "y": 114.51183319091797,
+                        "z": 0.0
+                    },
+                    "id": 249,
+                    "name": "Cap_DOWN_print.stl",
+                    "triangle_count": 1508
+                },
+                {
+                    "bbox": {
+                        "depth": 8.812417030334473,
+                        "height": 3.1500000953674316,
+                        "width": 8.81360149383545,
+                        "x": 82.23380279541016,
+                        "y": 170.2735595703125,
+                        "z": 0.0
+                    },
+                    "id": 260,
+                    "name": "Cap_LEFT_print.stl",
+                    "triangle_count": 1508
+                },
+                {
+                    "bbox": {
+                        "depth": 8.813607215881348,
+                        "height": 3.1500000953674316,
+                        "width": 8.81241226196289,
+                        "x": 145.5875244140625,
+                        "y": 66.59319305419922,
+                        "z": 0.0
+                    },
+                    "id": 271,
+                    "name": "Cap_MENU_print.stl",
+                    "triangle_count": 1508
+                },
+                {
+                    "bbox": {
+                        "depth": 8.813605308532715,
+                        "height": 3.1500000953674316,
+                        "width": 8.812403678894043,
+                        "x": 164.38751220703125,
+                        "y": 66.59318542480469,
+                        "z": 0.0
+                    },
+                    "id": 282,
+                    "name": "Cap_RIGHT_print.stl",
+                    "triangle_count": 1508
+                },
+                {
+                    "bbox": {
+                        "depth": 8.813605308532715,
+                        "height": 3.1500000953674316,
+                        "width": 8.81241226196289,
+                        "x": 126.78754425048828,
+                        "y": 66.59318542480469,
+                        "z": 0.0
+                    },
+                    "id": 293,
+                    "name": "Cap_SELECT_print.stl",
+                    "triangle_count": 1508
+                },
+                {
+                    "bbox": {
+                        "depth": 8.812413215637207,
+                        "height": 3.1500000953674316,
+                        "width": 8.81360149383545,
+                        "x": 82.23380279541016,
+                        "y": 95.71185302734375,
+                        "z": 0.0
+                    },
+                    "id": 304,
+                    "name": "Cap_START_print.stl",
+                    "triangle_count": 1508
+                },
+                {
+                    "bbox": {
+                        "depth": 8.949851989746094,
+                        "height": 3.1500000953674316,
+                        "width": 8.950937271118164,
+                        "x": 67.88516998291016,
+                        "y": 139.1781463623047,
+                        "z": 9.860761315262648e-32
+                    },
+                    "id": 315,
+                    "name": "Cap_UP_print.stl",
+                    "triangle_count": 1508
+                }
+            ],
+            "sliced_time": 1574,
+            "sliced_time_with_cache": 855,
+            "total_predication": 3851.83154296875,
+            "triangle_count": 25216,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 20.0,
+    "wall_loops": 4
+}

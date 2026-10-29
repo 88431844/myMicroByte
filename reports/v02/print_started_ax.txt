@@ -1,0 +1,43 @@
+Window: "myMicrobyte_v02_A1_black_PLA_sliced", App: Bambu Studio.
+0 标准窗口 myMicrobyte_v02_A1_black_PLA_sliced, Secondary Actions: Raise
+	1 文本 摄像机
+	2 图像 Help: 存储介质, Value: <NSImage 0x6000032adea0 Size={34, 20} RepProvider=<NSImageArrayRepProvider: 0x6000180b64d0, reps:(
+    "<NSCGImageSnapshotRep:0x600006344050 cgImage=<CGImage 0x1363a18d0> (DP)\n\t<<CGColorSpace 0x6000027cc480> (kCGColorSpaceICCBased; kCGColorSpaceModelRGB; sRGB IEC61966-2.1)>\n\t\theadroom = 1.000000  \n\t\twidth = 68, height = 40, bpc = 8, bpp = 32, row bytes = 272 \n\t\tkCGImageAlphaPremultipliedFirst | 0 (default byte order)  | kCGImagePixelFormatPacked \n\t\tis mask? No, has masking color? No, has soft 
+	3 图像 Help: 延时摄影, Value: <NSImage 0x6000032ad220 Size={35.5, 20} RepProvider=<NSImageArrayRepProvider: 0x6000180b6940, reps:(
+    "<NSCGImageSnapshotRep:0x6000063440f0 cgImage=<CGImage 0x136393fb0> (DP)\n\t<<CGColorSpace 0x6000027cc480> (kCGColorSpaceICCBased; kCGColorSpaceModelRGB; sRGB IEC61966-2.1)>\n\t\theadroom = 1.000000  \n\t\twidth = 71, height = 40, bpc = 8, bpp = 32, row bytes = 288 \n\t\tkCGImageAlphaPremultipliedFirst | 0 (default byte order)  | kCGImagePixelFormatPacked \n\t\tis mask? No, has masking color? No, has sof
+	4 图像 Help: 录像, Value: <NSImage 0x6000032e7660 Size={35.5, 20} RepProvider=<NSImageArrayRepProvider: 0x60001c192c50, reps:(
+    "<NSCGImageSnapshotRep:0x600006548960 cgImage=<CGImage 0x3201fc4b0> (DP)\n\t<<CGColorSpace 0x6000027cc480> (kCGColorSpaceICCBased; kCGColorSpaceModelRGB; sRGB IEC61966-2.1)>\n\t\theadroom = 1.000000  \n\t\twidth = 71, height = 40, bpc = 8, bpp = 32, row bytes = 288 \n\t\tkCGImageAlphaPremultipliedFirst | 0 (default byte order)  | kCGImagePixelFormatPacked \n\t\tis mask? No, has masking color? No, has sof
+	5 图像 <NSImage 0x6000035d6bc0 Size={20, 20} RepProvider=<NSImageArrayRepProvider: 0x60001c1e17f0, reps:(
+    "<NSCGImageSnapshotRep:0x60000625e3f0 cgImage=<CGImage 0x115a6e2e0> (DP)\n\t<<CGColorSpace 0x6000027cc480> (kCGColorSpaceICCBased; kCGColorSpaceModelRGB; sRGB IEC61966-2.1)>\n\t\theadroom = 1.000000  \n\t\twidth = 40, height = 40, bpc = 8, bpp = 32, row bytes = 160 \n\t\tkCGImageAlphaPremultipliedFirst | 0 (default byte order)  | kCGImagePixelFormatPacked \n\t\tis mask? No, has masking color? No, has soft 
+	6 图像 <NSImage 0x6000035d5220 Size={40, 40} RepProvider=<NSImageArrayRepProvider: 0x600018064600, reps:(
+    "<NSCGImageSnapshotRep:0x60000222dc20 cgImage=<CGImage 0x133eb59f0> (DP)\n\t<<CGColorSpace 0x6000027cc480> (kCGColorSpaceICCBased; kCGColorSpaceModelRGB; sRGB IEC61966-2.1)>\n\t\theadroom = 1.000000  \n\t\twidth = 40, height = 40, bpc = 8, bpp = 32, row bytes = 160 \n\t\tkCGImageAlphaPremultipliedFirst | 0 (default byte order)  | kCGImagePixelFormatPacked \n\t\tis mask? No, has masking color? No, has soft 
+	7 text 打印进度
+	8 图像 <NSImage 0x600003210be0 Size={120, 120} RepProvider=<NSImageArrayRepProvider: 0x60001c1e7cc0, reps:(
+    "<NSCGImageSnapshotRep:0x6000065ace60 cgImage=<CGImage 0x1477abbf0> (DP)\n\t<<CGColorSpace 0x6000027cc480> (kCGColorSpaceICCBased; kCGColorSpaceModelRGB; sRGB IEC61966-2.1)>\n\t\theadroom = 1.000000  \n\t\twidth = 120, height = 120, bpc = 8, bpp = 32, row bytes = 480 \n\t\tkCGImageAlphaPremultipliedFirst | 0 (default byte order)  | kCGImagePixelFormatPacked \n\t\tis mask? No, has masking color? No, has s
+	9 文本 myMicrobyte_v02_A1_black_PLA_sliced
+	10 图像
+	11 文本 1小时16分42秒
+	12 图像
+	13 文本 30.82g
+	14 按钮 暂停
+	15 按钮 停止
+	16 text 1 % -1h15min 层： 0/87 动态流量校准 预估完成时间: 13:31 控制
+	17 文本栏 (settable) 220
+	18 文本栏 (settable) 65
+	19 文本栏 (settable) _
+	20 text Z 挤出机
+	21 图像 <NSImage 0x6000035d50e0 Size={25, 24} RepProvider=<NSImageArrayRepProvider: 0x600018064130, reps:(
+    "<NSCGImageSnapshotRep:0x60000222d9a0 cgImage=<CGImage 0x143f82e60> (DP)\n\t<<CGColorSpace 0x6000027cc480> (kCGColorSpaceICCBased; kCGColorSpaceModelRGB; sRGB IEC61966-2.1)>\n\t\theadroom = 1.000000  \n\t\twidth = 50, height = 48, bpc = 8, bpp = 32, row bytes = 208 \n\t\tkCGImageAlphaPremultipliedFirst | 0 (default byte order)  | kCGImagePixelFormatPacked \n\t\tis mask? No, has masking color? No, has soft 
+	22 关闭按钮
+	23 全屏幕按钮 Help: 此按钮也可以执行缩放窗口的操作, Secondary Actions: 缩放窗口
+	24 最小化按钮
+	25 文本 myMicrobyte_v02_A1_black_PLA_sliced
+26 menu bar
+	27 Bambu Studio
+	28 文件
+	29 编辑
+	30 视图
+	31 Window
+	32 帮助
+
+The focused UI element is 0 标准窗口 myMicrobyte_v02_A1_black_PLA_sliced, Secondary Actions: Raise

@@ -1,0 +1,43 @@
+{
+  "schema": "myMicrobyte.assembly.v1",
+  "model": "v0.3",
+  "savedAt": "2026-10-16T09:20:13.434Z",
+  "units": "mm",
+  "coordinates": "Original CAD world axes: X long side, Y short side, Z thickness. Translation only; no CAD rebuild or collision check.",
+  "state": {
+    "mode": "free",
+    "step": 8,
+    "progress": 100,
+    "explode": 35,
+    "selected": "battery",
+    "transparent": false,
+    "labels": true,
+    "view": "iso",
+    "press": 0,
+    "slide": 0,
+    "hidden": [],
+    "offsets": {
+      "battery": [
+        0.5,
+        0,
+        0
+      ]
+    },
+    "notes": {
+      "battery": "验证记录：电池沿 X 偏移 0.5 mm"
+    },
+    "checked": []
+  },
+  "adjustments": [
+    {
+      "part": "battery",
+      "name": "503550 电池",
+      "translationMm": [
+        0.5,
+        0,
+        0
+      ],
+      "note": "验证记录：电池沿 X 偏移 0.5 mm"
+    }
+  ]
+}

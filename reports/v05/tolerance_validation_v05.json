@@ -1,0 +1,97 @@
+{
+  "revision": "0.5",
+  "scenarios": [
+    {
+      "part": "LCD_ToleranceEnvelope",
+      "xy_offset_mm": 0.2,
+      "z_growth_mm": 0.2,
+      "min_clearance_mm": 0.2792893218813448
+    },
+    {
+      "part": "Ref_UP",
+      "xy_offset_mm": 0.2,
+      "z_growth_mm": 0.4,
+      "min_clearance_mm": 0.4989469138940006
+    },
+    {
+      "part": "Ref_DOWN",
+      "xy_offset_mm": 0.2,
+      "z_growth_mm": 0.4,
+      "min_clearance_mm": 0.49903048006100015
+    },
+    {
+      "part": "Ref_LEFT",
+      "xy_offset_mm": 0.2,
+      "z_growth_mm": 0.4,
+      "min_clearance_mm": 0.49885166370300027
+    },
+    {
+      "part": "Ref_RIGHT",
+      "xy_offset_mm": 0.2,
+      "z_growth_mm": 0.4,
+      "min_clearance_mm": 0.4991262382520034
+    },
+    {
+      "part": "Ref_START",
+      "xy_offset_mm": 0.2,
+      "z_growth_mm": 0.4,
+      "min_clearance_mm": 0.4990320040639986
+    },
+    {
+      "part": "Ref_SELECT",
+      "xy_offset_mm": 0.2,
+      "z_growth_mm": 0.4,
+      "min_clearance_mm": 0.4991264922529979
+    },
+    {
+      "part": "Ref_MENU",
+      "xy_offset_mm": 0.2,
+      "z_growth_mm": 0.4,
+      "min_clearance_mm": 0.4990320040639986
+    },
+    {
+      "part": "Ref_A",
+      "xy_offset_mm": 0.2,
+      "z_growth_mm": 0.4,
+      "min_clearance_mm": 0.38491341002299606
+    },
+    {
+      "part": "Ref_B",
+      "xy_offset_mm": 0.2,
+      "z_growth_mm": 0.4,
+      "min_clearance_mm": 0.4990281940560024
+    },
+    {
+      "part": "support_stack",
+      "pocket_mm": 2.15,
+      "board_scenario_mm": 1.8,
+      "insert_proud_scenario_mm": 0.15,
+      "remaining_mm": 0.19999999999999987
+    },
+    {
+      "part": "M2x5_engagement",
+      "minimum_nominal_mm": 1.75
+    },
+    {
+      "part": "battery_to_Ref_U1",
+      "min_clearance_mm": 0.6799991801009888
+    },
+    {
+      "part": "battery_to_USB_Envelope",
+      "min_clearance_mm": 0.40000000000000036
+    },
+    {
+      "part": "battery_to_SPEAKER_ConnectorEnvelope",
+      "min_clearance_mm": 1.0329999999999977
+    },
+    {
+      "part": "battery_to_SPEAKER_PlugEnvelope",
+      "min_clearance_mm": 1.8329999999999984
+    }
+  ],
+  "failures": [],
+  "limitations": [
+    "Checks use conservative dimensions and source STEP. Solder blobs, warped parts, rough support removal and actual switch electrical stroke still need trial fitting.",
+    "The PCB is supported from the rear with a free upper clearance. If the assembled board rattles, use local thin nonconductive pads on the four supports; never pad against LCD or battery."
+  ]
+}

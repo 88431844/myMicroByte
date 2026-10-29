@@ -1,0 +1,64 @@
+{
+  "status": "printer_accepted_preparing",
+  "file": "/Users/luckmiracle/Documents/ChatGPT/myMicroBye外壳设计/printing/A1_black_PLA_v10/myMicrobyte_v10_black.gcode.3mf",
+  "sha256": "b9b10ac3e725dfac8bc7c1ada66ea48c330a5f6039e4379a27c6007ab229b7aa",
+  "printer": "Bambu Lab A1",
+  "count": 3,
+  "names": [
+    "FrontShell_print.stl",
+    "RearShell_print.stl",
+    "PowerSlider_print.stl"
+  ],
+  "estimated_seconds": 5805,
+  "estimated_grams": 23.18,
+  "bed_bbox_xy": [
+    74.47859000000001,
+    77.12904,
+    179.20284,
+    181.75667
+  ],
+  "layer_height": "0.16",
+  "filaments": [
+    {
+      "id": "1",
+      "tray_info_idx": "GFL99",
+      "type": "PLA",
+      "color": "#171717",
+      "used_m": "7.77",
+      "used_g": "23.18",
+      "group_id": "0",
+      "nozzle_diameter": "0.40",
+      "volume_type": "Standard",
+      "used_for_object": "true",
+      "used_for_support": "true",
+      "total_load_time": "25.00",
+      "total_unload_time": "0.00"
+    }
+  ],
+  "all_object_tool_indices": {
+    "FrontShell_print.stl": [
+      0
+    ],
+    "RearShell_print.stl": [
+      0
+    ],
+    "PowerSlider_print.stl": [
+      0
+    ]
+  },
+  "job_sent": true,
+  "ams_mapping": {
+    "black_PLA": "A4"
+  },
+  "camera_bed_empty": true,
+  "sent_at": "2026-10-19T01:13:33.471443+08:00",
+  "updated_at": "2026-10-19T01:17:20.752035+08:00",
+  "printer_job": "myMicrobyte_v10_black",
+  "printer_stage": "动态流量校准",
+  "printer_progress_percent": 1,
+  "printer_layer": "0/105",
+  "estimated_completion_local": "2026-10-19 02:52 Asia/Shanghai",
+  "first_layer_verified": false,
+  "startup_screenshot": "reports/v10/A1_v10_started.png",
+  "printer_accepted": true
+}

@@ -1,0 +1,103 @@
+{
+  "revision": "0.2",
+  "units": "mm",
+  "fit_scope": "Retained STEP geometry, supplied LCD/speaker dimensions, conservative connector envelopes. Invalid STEP bindings, actual plug mouldings and battery wires remain unverified.",
+  "battery_recommended_finished_envelope_mm": [
+    56,
+    36,
+    6
+  ],
+  "battery_frame_clear_mm": [
+    57,
+    37
+  ],
+  "speaker_nominal_mm": [
+    15,
+    10,
+    3.5
+  ],
+  "lcd_nominal_stack_mm": 2.0,
+  "lcd_checked_stack_mm": 2.2,
+  "parts": [
+    {
+      "name": "RearShell_v02",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 15628.655787747284
+    },
+    {
+      "name": "FrontShell_v02",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 9283.092060146324
+    },
+    {
+      "name": "Cap_UP",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217564
+    },
+    {
+      "name": "Cap_DOWN",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217564
+    },
+    {
+      "name": "Cap_LEFT",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217566
+    },
+    {
+      "name": "Cap_RIGHT",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217564
+    },
+    {
+      "name": "Cap_START",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217566
+    },
+    {
+      "name": "Cap_SELECT",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217564
+    },
+    {
+      "name": "Cap_MENU",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217566
+    },
+    {
+      "name": "Cap_A",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217566
+    },
+    {
+      "name": "Cap_B",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217566
+    }
+  ],
+  "collisions": [],
+  "minimum_clearances_mm": {
+    "battery_to_ESP32": 3.379999180100988,
+    "battery_to_USB": 3.0999999999999996,
+    "battery_to_speaker_connector": 1.1999999999999993,
+    "battery_to_speaker_plug": 1.1999999999999993,
+    "battery_frame_to_speaker_frame": 0.7000000000000028,
+    "glass_to_window_tunnel": 0.40000000000000213,
+    "speaker_to_BAT_connector": 2.9000000000000004
+  },
+  "cap_sweep_mm": 0.8,
+  "battery_thickness_upper_bound_at_this_footprint_mm": 6.5,
+  "speaker_wire_route_estimate_mm": 41.573925701507875,
+  "speaker_wire_route_scope": "Plan-view estimate plus 3 mm end allowance; 50±3 mm wire must be checked physically for plug/crimp and bends."
+}

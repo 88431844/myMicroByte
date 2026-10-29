@@ -1,0 +1,110 @@
+{
+  "revision": "0.5",
+  "units": "mm",
+  "shell_size_mm": [
+    85,
+    45,
+    14.4
+  ],
+  "board_rear_z_mm": 9.0,
+  "board_thickness_CAD_mm": 1.60005,
+  "board_pocket_mm": 2.15,
+  "seam_gap_mm": 0.1,
+  "rear_depth_reduction_mm": 4.0,
+  "battery_nominal_placeholder_mm": [
+    50,
+    28,
+    3
+  ],
+  "battery_checked_finished_envelope_mm": [
+    51,
+    29,
+    3.3
+  ],
+  "battery_frame_clear_mm": [
+    52,
+    30
+  ],
+  "lcd_window_mm": [
+    29.72,
+    29.72
+  ],
+  "lcd_active_mm": [
+    27.72,
+    27.72
+  ],
+  "lcd_glass_recess_mm": 1.7999500000000008,
+  "button_nominal_protrusion_mm": 1.6000499999999995,
+  "button_face_z_mm": 14.0,
+  "lcd_locator_height_mm": 0.75,
+  "slider_mechanical_travel_mm": 3.6,
+  "slider_socket_play_mm": 0.65,
+  "minimum_insert_blind_roof_mm": 0.6899999999999995,
+  "tf_throat_mm": [
+    14.2,
+    3.8
+  ],
+  "usb_throat_mm": [
+    10.4,
+    4.6
+  ],
+  "exterior_edge_round_mm": [
+    1.8,
+    1.8
+  ],
+  "front_run_hole": false,
+  "parts": [
+    {
+      "name": "RearShell_v05",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 9958.132483154337
+    },
+    {
+      "name": "FrontShell_v05",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4398.047768990117
+    },
+    {
+      "name": "PowerSlider_v05",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 67.93655629675871
+    }
+  ],
+  "collisions": [],
+  "clearances_mm": {
+    "battery_ESP32": 0.6799991801009888,
+    "battery_USB": 0.40000000000000036,
+    "battery_speaker_plug": 1.8329999999999984,
+    "speaker_battery_connector": 1.3520000000000003,
+    "glass_front": 0.4999500000000001
+  },
+  "assumptions": [
+    "Battery model not chosen; prioritize thin rear. Select finished pack within checked envelope including protection and wrap.",
+    "Connector and plug depth remains conservative 5.5 mm, not physically measured.",
+    "MSK slider mechanical travel3.6 mm; socket play about0.65 mm for the supplied1.3 mm actuator, leaving up to2.95 mm actuator motion. Electrical end positions still require physical trial. Guide play is not a measured printer calibration.",
+    "Speaker tab shape is a conservative allowance from image; cable bending and plug strain relief require physical trial.",
+    "Board pocket2.15 mm is a non-clamping trial clearance; actual solder, warp and proud inserts are not in the source STEP. Do not force the joint with screws.",
+    "TF brow retains at least0.35 mm above checked card path; a small part of the lower PCB edge remains visible to preserve insertion clearance.",
+    "M2×2×3 insert interference with 2.8 mm pilot is intentional. Heat insertion fit requires trial."
+  ],
+  "slider_retention_mm": {
+    "flange_height": 3.8,
+    "outer_slot_height": 3.450000000000001,
+    "minimum_vertical_capture": 0.34999999999999876
+  },
+  "slider_installation": "vertical +Z to seated position; front removed; open socket captures actuator",
+  "switch_front_clearances_mm": {
+    "UP": 0.6989469138939999,
+    "DOWN": 0.6990304800610012,
+    "LEFT": 0.6988516637030031,
+    "RIGHT": 0.6991262382520027,
+    "START": 0.6990320040639979,
+    "SELECT": 0.6991264922529972,
+    "MENU": 0.6990320040639979,
+    "A": 0.5849134100229989,
+    "B": 0.6990281940560017
+  }
+}

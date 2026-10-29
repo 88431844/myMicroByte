@@ -1,0 +1,28 @@
+{
+  "revision": "0.6",
+  "cad": "FreeCAD native geometry and boolean construction tree",
+  "solid_and_export_checks": "passed: four solids and four closed STL meshes",
+  "layout_and_installation_collisions": [],
+  "additional_tolerance_scenarios": "passed",
+  "ui_checks": {
+    "model_load": "53 objects, 11 groups; no console errors",
+    "acoustic_exploded_view": "visually checked with five layers",
+    "whole_exploded_and_assembled": "visually checked",
+    "color_presets": [
+      "black",
+      "gb",
+      "cream",
+      "mint",
+      "orange"
+    ],
+    "custom_lid_color": "input updates and custom scheme verified",
+    "state_after_reload": "colors and assembly view retained",
+    "chamber_lid_animation": "reached 100 percent",
+    "slider_shortcut": "opens step 8 of 11"
+  },
+  "sound_gain": "not measured; no guarantee of louder output",
+  "printing": "not sliced or sent; user review first",
+  "preview_url": "http://127.0.0.1:8769/",
+  "native_sha256": "e5ee7e791acf4470b33e973af84cf2da63427928b918e58d53a94f6439910bfe",
+  "preview_sha256": "314a1ad0b3a660e81ba962794295c353c9b8307c74a34dc1c37bc97b20072dcc"
+}

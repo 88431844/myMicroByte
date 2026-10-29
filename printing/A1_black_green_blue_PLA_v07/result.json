@@ -1,0 +1,184 @@
+{
+    "error_string": "Success.",
+    "export_time": 531,
+    "layer_height": 0.1599999964237213,
+    "plate_index": 0,
+    "prepare_time": 256,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 148.76405334472656,
+                "Bridge": 56.49066162109375,
+                "Custom": 34.82243347167969,
+                "Flush": 4834.92529296875,
+                "Gap infill": 6.858863830566406,
+                "Inner wall": 1431.1351318359375,
+                "Internal solid infill": 598.7650756835938,
+                "Outer wall": 1484.9317626953125,
+                "Overhang wall": 98.85543060302734,
+                "Prime tower": 785.55517578125,
+                "Support": 103.42292022705078,
+                "Support interface": 128.095947265625,
+                "Support transition": 7.48832368850708,
+                "Top surface": 217.3345489501953,
+                "Travel": 1245.2811279296875,
+                "Undefined": 1229.7269287109375
+            },
+            "filament_change_times": 55,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 18.674789428710938,
+                    "total_used_g": 25.318788528442383
+                },
+                {
+                    "filament_id": "GFL99",
+                    "id": 2,
+                    "main_used_g": 0.5243728160858154,
+                    "total_used_g": 9.111122131347656
+                },
+                {
+                    "filament_id": "GFL99",
+                    "id": 3,
+                    "main_used_g": 0.1599198579788208,
+                    "total_used_g": 7.140683174133301
+                }
+            ],
+            "generate_support_material_time": 136,
+            "id": 1,
+            "infill_time": 154,
+            "layer_filament_change": 0,
+            "main_predication": 5527.23486328125,
+            "make_perimeters_time": 271,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 44.999996185302734,
+                        "height": 5.150000095367432,
+                        "width": 85.0,
+                        "x": 98.09999084472656,
+                        "y": 141.95001220703125,
+                        "z": 0.0
+                    },
+                    "id": 182,
+                    "name": "FrontShell_print.stl",
+                    "triangle_count": 21068
+                },
+                {
+                    "bbox": {
+                        "depth": 44.999996185302734,
+                        "height": 10.949999809265137,
+                        "width": 85.0,
+                        "x": 98.09999084472656,
+                        "y": 84.95001220703125,
+                        "z": 0.0
+                    },
+                    "id": 171,
+                    "name": "RearShell_print.stl",
+                    "triangle_count": 18452
+                },
+                {
+                    "bbox": {
+                        "depth": 19.699996948242188,
+                        "height": 1.7000000476837158,
+                        "width": 13.200000762939453,
+                        "x": 72.90000915527344,
+                        "y": 132.4825439453125,
+                        "z": 0.0
+                    },
+                    "id": 193,
+                    "name": "AcousticLid_print.stl",
+                    "triangle_count": 556
+                },
+                {
+                    "bbox": {
+                        "depth": 6.799993991851807,
+                        "height": 4.599999904632568,
+                        "width": 3.900000810623169,
+                        "x": 82.19998931884766,
+                        "y": 164.18255615234375,
+                        "z": 0.0
+                    },
+                    "id": 204,
+                    "name": "PowerSlider_black_1.stl",
+                    "triangle_count": 34468
+                },
+                {
+                    "bbox": {
+                        "depth": 6.799999237060547,
+                        "height": 4.599999904632568,
+                        "width": 3.899998426437378,
+                        "x": 82.19998168945313,
+                        "y": 113.68254089355469,
+                        "z": 0.0
+                    },
+                    "id": 215,
+                    "name": "PowerSlider_black_2.stl",
+                    "triangle_count": 34468
+                },
+                {
+                    "bbox": {
+                        "depth": 3.8999969959259033,
+                        "height": 4.599999904632568,
+                        "width": 6.8000030517578125,
+                        "x": 142.59681701660156,
+                        "y": 69.05000305175781,
+                        "z": 0.0
+                    },
+                    "id": 226,
+                    "name": "PowerSlider_green_1.stl",
+                    "triangle_count": 34468
+                },
+                {
+                    "bbox": {
+                        "depth": 3.9000022411346436,
+                        "height": 4.599999904632568,
+                        "width": 6.800000190734863,
+                        "x": 161.39682006835938,
+                        "y": 69.04998779296875,
+                        "z": 0.0
+                    },
+                    "id": 237,
+                    "name": "PowerSlider_green_2.stl",
+                    "triangle_count": 34468
+                },
+                {
+                    "bbox": {
+                        "depth": 3.9000022411346436,
+                        "height": 4.599999904632568,
+                        "width": 6.799998760223389,
+                        "x": 123.79682159423828,
+                        "y": 69.04998779296875,
+                        "z": 0.0
+                    },
+                    "id": 248,
+                    "name": "PowerSlider_blue_1.stl",
+                    "triangle_count": 34468
+                },
+                {
+                    "bbox": {
+                        "depth": 3.900006055831909,
+                        "height": 4.599999904632568,
+                        "width": 6.800000190734863,
+                        "x": 79.29998016357422,
+                        "y": 182.9825439453125,
+                        "z": 0.0
+                    },
+                    "id": 259,
+                    "name": "PowerSlider_blue_2.stl",
+                    "triangle_count": 34468
+                }
+            ],
+            "sliced_time": 1680,
+            "sliced_time_with_cache": 1047,
+            "total_predication": 11166.9521484375,
+            "triangle_count": 246884,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 20.0,
+    "wall_loops": 4
+}

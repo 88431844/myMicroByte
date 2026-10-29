@@ -1,0 +1,453 @@
+Importing project files......
+						(0 %)							(1 %)							(2 %)							(3 %)							(4 %)							(5 %)							(6 %)							(7 %)							(8 %)							(9 %)							(10 %)							(11 %)							(12 %)							(13 %)							(14 %)							(15 %)							(16 %)							(17 %)							(18 %)							(19 %)							(20 %)							(21 %)							(22 %)							(23 %)							(24 %)							(25 %)							(26 %)							(27 %)							(28 %)							(29 %)							(30 %)							(31 %)							(32 %)							(33 %)							(34 %)							(35 %)							(36 %)							(37 %)							(38 %)							(39 %)							(40 %)							(41 %)							(42 %)							(43 %)							(44 %)							(45 %)							(46 %)							(47 %)							(48 %)							(49 %)							(50 %)							(51 %)							(52 %)							(53 %)							(54 %)							(55 %)							(56 %)							(57 %)							(58 %)							(59 %)							(60 %)							(61 %)							(62 %)							(63 %)							(64 %)							(65 %)							(66 %)							(67 %)							(68 %)							(69 %)							(70 %)							(71 %)							(72 %)							(73 %)							(74 %)							(75 %)							(76 %)							(77 %)							(78 %)							(79 %)							(80 %)							(81 %)							(82 %)							(83 %)							(84 %)							(85 %)							(86 %)							(87 %)							(88 %)							(89 %)							(90 %)							(91 %)							(92 %)							(93 %)							(94 %)							(95 %)							(96 %)							(97 %)							(98 %)							(99 %)							(100 %)									Postprocessing......
+						(100 %)									Ref_Board Board [-39.987, -19.987, 9.0, 39.987, 19.987, 10.6]
+Ref_U9 U9 [25.395, 10.226, 8.189, 26.157, 10.988, 8.951]
+Ref_A A [31.171, -2.47, 10.6, 37.4, 4.38, 15.79]
+Ref_B B [22.903, -6.027, 10.6, 28.904, 0.572, 15.6]
+Ref_DOWN DOWN [-32.007, -7.761, 10.6, -25.408, -1.76, 15.6]
+Ref_LEFT LEFT [-37.169, -2.344, 10.6, -31.168, 4.255, 15.6]
+Ref_MENU MENU [20.998, 11.499, 10.6, 26.999, 18.098, 15.6]
+Ref_RIGHT RIGHT [-26.119, -2.471, 10.6, -20.118, 4.128, 15.6]
+Ref_SELECT SELECT [-26.246, -18.473, 10.6, -20.245, -11.874, 15.6]
+Ref_START START [20.998, -18.473, 10.6, 26.999, -11.874, 15.6]
+Ref_UP UP [-32.007, 3.543, 10.6, -25.408, 9.544, 15.6]
+Ref_CARD1 CARD1 [-3.224, 4.661, 6.849, 12.926, 19.861, 9.5]
+Ref_C1 C1 [17.125, 6.813, 7.7, 18.425, 8.813, 9.0]
+Ref_C2 C2 [-19.612, -17.698, 7.7, -18.312, -15.698, 9.0]
+Ref_C3 C3 [-22.75, 15.193, 7.7, -21.45, 17.193, 9.0]
+Ref_C4 C4 [-25.378, 15.173, 7.7, -24.078, 17.173, 9.0]
+Ref_C5 C5 [-33.783, 16.688, 7.7, -31.783, 17.988, 9.0]
+Ref_C6 C6 [-33.783, 11.482, 7.7, -31.783, 12.782, 9.0]
+Ref_C7 C7 [-33.783, 14.149, 7.7, -31.783, 15.449, 9.0]
+Ref_C8 C8 [15.163, -3.626, 7.7, 16.463, -1.626, 9.0]
+Ref_C9 C9 [6.203, -16.809, 7.7, 7.503, -14.809, 9.0]
+Ref_C10 C10 [30.364, -0.076, 7.7, 32.364, 1.224, 9.0]
+Ref_C11 C11 [30.364, -2.616, 7.7, 32.364, -1.316, 9.0]
+Ref_C12 C12 [25.126, 15.322, 7.7, 26.426, 17.322, 9.0]
+Ref_C13 C13 [32.111, 15.322, 7.7, 33.411, 17.322, 9.0]
+Ref_RN1 RN1 [16.301, 11.204, 8.5, 19.502, 12.804, 9.0]
+Ref_RN2 RN2 [21.259, -3.646, 8.5, 24.46, -2.046, 9.0]
+Ref_Q1 Q1 [-16.899, -18.148, 7.9, -14.099, -15.248, 9.0]
+Ref_Q4 Q4 [-1.963, -0.572, 7.9, 0.937, 2.228, 9.0]
+Ref_Q5 Q5 [-6.993, -3.035, 7.9, -4.193, -0.135, 9.0]
+Ref_SW3 SW3 [35.462, -9.633, 7.309, 41.112, -1.157, 9.5]
+Ref_LDO1 LDO1 [29.858, -6.718, 7.75, 32.87, -3.818, 9.014]
+Ref_U4 U4 [21.202, -11.307, 8.14, 25.204, -7.305, 9.0]
+Ref_U1 U1 [-40.087, -10.585, 5.68, -8.687, 7.415, 9.0]
+Ref_U17 U17 [5.955, -10.275, 7.499, 11.955, -0.375, 9.0]
+LCD_Assumed_5mm LCD 31.52×33.72×1.9 / 下方约1.0 mm胶层 [-15.65, -18.287, 11.6, 15.87, 15.433, 13.5]
+USB_Envelope USB 保守占位（绑定模型异常） [-4.7, -21.2, 5.4, 4.7, -14.0, 9.0]
+LCD_AdhesiveEnvelope 约1 mm胶层占位；实际涂胶形状未知 [-15.14, -17.777, 10.6, 15.36, 14.923, 11.6]
+Battery_Assumed 3 mm 电池选型占位 / 50×28×3 [-29.0, -17.9, 1.7, 21.0, 10.1, 4.7]
+Speaker_1510 1510 喇叭 / 15×10×3.5·自带胶暂按0.2 mm [25.4, -9.0, 2.0, 35.4, 6.0, 5.5]
+Speaker_Adhesive 喇叭自带环形双面胶 / 暂按0.2 mm [25.4, -9.0, 1.8, 35.4, 6.0, 2.0]
+BAT_ConnectorEnvelope BAT_ConnectorEnvelope（保守包络） [31.628, 7.952, 3.5, 39.228, 12.452, 9.0]
+BAT_PlugEnvelope BAT_PlugEnvelope（保守包络） [32.428, 12.452, 3.5, 38.428, 15.452, 9.0]
+SPEAKER_ConnectorEnvelope SPEAKER_ConnectorEnvelope（保守包络） [-12.439, 11.633, 3.5, -7.939, 19.233, 9.0]
+SPEAKER_PlugEnvelope SPEAKER_PlugEnvelope（保守包络） [-7.939, 12.433, 3.5, -4.939, 18.433, 9.0]
+LCD_ToleranceEnvelope LCD 正公差与胶层安装包络 [-15.75, -18.387, 10.6, 15.97, 15.533, 14.0]
+Battery_ToleranceEnvelope 成品电池检查包络 51×29×3.3 [-29.5, -18.4, 1.7, 21.5, 10.6, 5.0]
+Speaker_ToleranceEnvelope 喇叭最大包络 / 含胶厚增加0.2 mm [25.3, -9.1, 2.0, 35.5, 6.1, 6.0]
+Speaker_TabEnvelope 喇叭端部凸耳包络 [28.9, -11.5, 2.0, 31.9, -9.0, 3.0]
+Hardware_Insert1 M2×2×3 热熔螺母 [35.96, 15.96, 11.15, 38.96, 18.96, 13.15]
+Hardware_Screw1 M2×5 螺丝 [35.46, 15.46, 7.1, 39.46, 19.46, 12.9]
+Hardware_Insert2 M2×2×3 热熔螺母001 [35.96, -18.96, 11.15, 38.96, -15.96, 13.15]
+Hardware_Screw2 M2×5 螺丝001 [35.46, -19.46, 7.1, 39.46, -15.46, 12.9]
+Hardware_Insert3 M2×2×3 热熔螺母002 [-38.96, 15.96, 11.15, -35.96, 18.96, 13.15]
+Hardware_Screw3 M2×5 螺丝002 [-39.46, 15.46, 7.1, -35.46, 19.46, 12.9]
+Hardware_Insert4 M2×2×3 热熔螺母003 [-38.96, -18.96, 11.15, -35.96, -15.96, 13.15]
+Hardware_Screw4 M2×5 螺丝003 [-39.46, -19.46, 7.1, -35.46, -15.46, 12.9]
+rear features [('Battery_Assumed', '3 mm 电池选型占位 / 50×28×3'), ('Battery_ToleranceEnvelope', '成品电池检查包络 51×29×3.3'), ('BatteryFrameOuter', 'BatteryFrameOuter'), ('BatteryFrameInner', 'BatteryFrameInner'), ('BatteryFrame', 'BatteryFrame'), ('BatteryCableRelief', 'BatteryCableRelief'), ('BatteryCableExit', 'BatteryCableExit'), ('BatteryPlugPostRelief', 'BatteryPlugPostRelief')]
+existing 0.0
+larger_target 0.0
+length_edge 0.0
+width_edge 0.0
+303050_nominal 0.0
+303055_nominal 0.0
+thicker_pack 0.0
+merchant_measured 0.0
+{
+  "frame_intersections": [],
+  "frame_inner_mm": [
+    57,
+    32
+  ],
+  "rear_valid": true,
+  "rear_solids": 1,
+  "cases": [
+    {
+      "name": "existing",
+      "pack_mm": [
+        51,
+        29,
+        3.3
+      ],
+      "min_corner": [
+        -29.5,
+        -18.4,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.4,
+          "USB_Envelope"
+        ],
+        [
+          0.68,
+          "Ref_U1"
+        ],
+        [
+          1.033,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          1.833,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          1.849,
+          "Ref_CARD1"
+        ],
+        [
+          2.499,
+          "Ref_U17"
+        ],
+        [
+          2.7,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "larger_target",
+      "pack_mm": [
+        56,
+        31,
+        3.3
+      ],
+      "min_corner": [
+        -33.5,
+        -19.8,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.4,
+          "USB_Envelope"
+        ],
+        [
+          0.433,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.68,
+          "Ref_U1"
+        ],
+        [
+          1.233,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          1.849,
+          "Ref_CARD1"
+        ],
+        [
+          2.499,
+          "Ref_U17"
+        ],
+        [
+          2.7,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "length_edge",
+      "pack_mm": [
+        57,
+        30,
+        3.3
+      ],
+      "min_corner": [
+        -34,
+        -19,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.4,
+          "USB_Envelope"
+        ],
+        [
+          0.633,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.68,
+          "Ref_U1"
+        ],
+        [
+          1.433,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          1.849,
+          "Ref_CARD1"
+        ],
+        [
+          2.3,
+          "Speaker_ToleranceEnvelope"
+        ],
+        [
+          2.4,
+          "Speaker_1510"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "width_edge",
+      "pack_mm": [
+        56,
+        32,
+        3.3
+      ],
+      "min_corner": [
+        -33.5,
+        -20.3,
+        1.7
+      ],
+      "reference_intersections": [
+        [
+          "SPEAKER_ConnectorEnvelope",
+          0.45225000000000115
+        ]
+      ],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.0,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.4,
+          "USB_Envelope"
+        ],
+        [
+          0.68,
+          "Ref_U1"
+        ],
+        [
+          0.733,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          1.849,
+          "Ref_CARD1"
+        ],
+        [
+          2.499,
+          "Ref_U17"
+        ],
+        [
+          2.7,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "303050_nominal",
+      "pack_mm": [
+        50,
+        30,
+        3
+      ],
+      "min_corner": [
+        -30,
+        -19,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.633,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.7,
+          "USB_Envelope"
+        ],
+        [
+          0.98,
+          "Ref_U1"
+        ],
+        [
+          1.433,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          2.149,
+          "Ref_CARD1"
+        ],
+        [
+          2.799,
+          "Ref_U17"
+        ],
+        [
+          3.0,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "303055_nominal",
+      "pack_mm": [
+        55,
+        30,
+        3
+      ],
+      "min_corner": [
+        -33,
+        -19,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.633,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.7,
+          "USB_Envelope"
+        ],
+        [
+          0.98,
+          "Ref_U1"
+        ],
+        [
+          1.433,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          2.149,
+          "Ref_CARD1"
+        ],
+        [
+          2.799,
+          "Ref_U17"
+        ],
+        [
+          3.0,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "thicker_pack",
+      "pack_mm": [
+        56,
+        31,
+        3.5
+      ],
+      "min_corner": [
+        -33.5,
+        -19.8,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.2,
+          "USB_Envelope"
+        ],
+        [
+          0.433,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.48,
+          "Ref_U1"
+        ],
+        [
+          1.233,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          1.649,
+          "Ref_CARD1"
+        ],
+        [
+          2.299,
+          "Ref_U17"
+        ],
+        [
+          2.5,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    },
+    {
+      "name": "merchant_measured",
+      "pack_mm": [
+        47.36,
+        30.61,
+        2.97
+      ],
+      "min_corner": [
+        -30,
+        -19.6,
+        1.7
+      ],
+      "reference_intersections": [],
+      "rear_intersection_mm3": 0.0,
+      "nearest": [
+        [
+          0.623,
+          "SPEAKER_ConnectorEnvelope"
+        ],
+        [
+          0.73,
+          "USB_Envelope"
+        ],
+        [
+          1.01,
+          "Ref_U1"
+        ],
+        [
+          1.423,
+          "SPEAKER_PlugEnvelope"
+        ],
+        [
+          2.179,
+          "Ref_CARD1"
+        ],
+        [
+          2.829,
+          "Ref_U17"
+        ],
+        [
+          3.03,
+          "Ref_C1"
+        ]
+      ],
+      "distance_method": "conservative_axis_aligned_bounds"
+    }
+  ],
+  "not_applied_to_printing_job": true
+}

@@ -1,0 +1,64 @@
+{
+  "objects": [
+    {
+      "identify_id": "1779",
+      "name": "RearExpanded_1.stl",
+      "skipped": "false"
+    },
+    {
+      "identify_id": "1790",
+      "name": "RearExpanded_2.stl",
+      "skipped": "false"
+    }
+  ],
+  "metadata": {
+    "index": "1",
+    "extruder_type": "0",
+    "nozzle_volume_type": "0",
+    "printer_model_id": "N2S",
+    "nozzle_diameters": "0.4",
+    "timelapse_type": "0",
+    "prediction": "5883",
+    "weight": "25.35",
+    "pause_count": "0",
+    "first_layer_time": "378.719604",
+    "outside": "false",
+    "support_used": "true",
+    "label_object_enabled": "true",
+    "support_material_on_wipe_tower": "false",
+    "enable_filament_dynamic_map": "false",
+    "has_filament_switcher": "false",
+    "filament_maps": "1",
+    "limit_filament_maps": "0"
+  },
+  "filaments": [
+    {
+      "id": "1",
+      "tray_info_idx": "GFL99",
+      "type": "PLA",
+      "color": "#2457C5",
+      "used_m": "8.50",
+      "used_g": "25.35",
+      "group_id": "0",
+      "nozzle_diameter": "0.40",
+      "volume_type": "Standard",
+      "used_for_object": "true",
+      "used_for_support": "true",
+      "total_load_time": "25.00",
+      "total_unload_time": "0.00"
+    }
+  ],
+  "bounds": [
+    86.43439000000001,
+    77.12904,
+    170.57067,
+    178.87099
+  ],
+  "settings": {
+    "layer_height": "0.16",
+    "wall_loops": "4",
+    "sparse_infill_density": "20%",
+    "support_on_build_plate_only": "1"
+  },
+  "sha256": "7e8e445069f2fb296b6f2dac970b6a339ab176466f45a0dda807d3c61551e6dc"
+}

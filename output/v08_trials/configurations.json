@@ -1,0 +1,84 @@
+{
+  "F1": {
+    "kind": "front",
+    "style": "flat",
+    "face_z": 14.2,
+    "bezel_z": 14.2,
+    "hole": 6.6,
+    "hole_A": 6.8,
+    "button_exposure": 1.4,
+    "glass_recess": 0.7,
+    "variable": "baseline"
+  },
+  "F2": {
+    "kind": "front",
+    "style": "flat",
+    "face_z": 13.9,
+    "bezel_z": 13.9,
+    "hole": 6.6,
+    "hole_A": 6.8,
+    "button_exposure": 1.7,
+    "glass_recess": 0.4,
+    "variable": "front surface -0.3 mm"
+  },
+  "F3": {
+    "kind": "front",
+    "style": "raised",
+    "face_z": 14.2,
+    "bezel_z": 15.4,
+    "hole": 6.6,
+    "hole_A": 6.8,
+    "button_exposure": 1.4,
+    "glass_recess": 1.9,
+    "variable": "screen surround +1.2 mm"
+  },
+  "F4": {
+    "kind": "front",
+    "style": "flat",
+    "face_z": 14.2,
+    "bezel_z": 14.2,
+    "hole": 6.4,
+    "hole_A": 6.6,
+    "button_exposure": 1.4,
+    "glass_recess": 0.7,
+    "variable": "button holes -0.2 mm"
+  },
+  "R1": {
+    "kind": "rear",
+    "guide_width": 1.7,
+    "total_guide_clearance": 0.4,
+    "variable": "baseline"
+  },
+  "R2": {
+    "kind": "rear",
+    "guide_width": 1.55,
+    "total_guide_clearance": 0.25,
+    "variable": "guide width -0.15 mm"
+  },
+  "S1": {
+    "kind": "slider",
+    "socket": 1.65,
+    "dots": 1,
+    "variable": "baseline"
+  },
+  "S2": {
+    "kind": "slider",
+    "socket": 1.5,
+    "dots": 2,
+    "variable": "socket -0.15 mm"
+  },
+  "S3": {
+    "kind": "slider",
+    "socket": 1.85,
+    "dots": 3,
+    "variable": "socket +0.20 mm"
+  },
+  "L1": {
+    "kind": "lid",
+    "variable": "identical open frame"
+  },
+  "L2": {
+    "kind": "lid",
+    "variable": "identical spare open frame"
+  }
+}

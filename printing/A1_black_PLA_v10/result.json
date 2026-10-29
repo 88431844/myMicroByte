@@ -1,0 +1,92 @@
+{
+    "error_string": "Success.",
+    "export_time": 565,
+    "layer_height": 0.1599999964237213,
+    "plate_index": 0,
+    "prepare_time": 103,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 122.78667449951172,
+                "Bridge": 81.08779907226563,
+                "Custom": 34.8524055480957,
+                "Gap infill": 4.889336585998535,
+                "Inner wall": 1408.0728759765625,
+                "Internal solid infill": 608.491943359375,
+                "Outer wall": 1300.3304443359375,
+                "Overhang wall": 250.41915893554688,
+                "Support": 346.09393310546875,
+                "Support interface": 333.3304138183594,
+                "Support transition": 107.63951110839844,
+                "Top surface": 198.45535278320313,
+                "Travel": 474.51776123046875,
+                "Undefined": 458.8013000488281
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 18.930662155151367,
+                    "total_used_g": 23.200830459594727
+                }
+            ],
+            "generate_support_material_time": 154,
+            "id": 1,
+            "infill_time": 126,
+            "layer_filament_change": 0,
+            "main_predication": 5236.0595703125,
+            "make_perimeters_time": 232,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 44.999996185302734,
+                        "height": 6.150000095367432,
+                        "width": 85.55000305175781,
+                        "x": 93.0144271850586,
+                        "y": 134.00001525878906,
+                        "z": 0.0
+                    },
+                    "id": 57,
+                    "name": "FrontShell_print.stl",
+                    "triangle_count": 30472
+                },
+                {
+                    "bbox": {
+                        "depth": 45.000003814697266,
+                        "height": 10.949999809265137,
+                        "width": 85.55000305175781,
+                        "x": 93.0144271850586,
+                        "y": 77.00000762939453,
+                        "z": 0.0
+                    },
+                    "id": 68,
+                    "name": "RearShell_print.stl",
+                    "triangle_count": 19346
+                },
+                {
+                    "bbox": {
+                        "depth": 14.000000953674316,
+                        "height": 5.099999904632568,
+                        "width": 4.1999969482421875,
+                        "x": 77.43559265136719,
+                        "y": 121.01866912841797,
+                        "z": 0.0
+                    },
+                    "id": 79,
+                    "name": "PowerSlider_print.stl",
+                    "triangle_count": 44428
+                }
+            ],
+            "sliced_time": 1100,
+            "sliced_time_with_cache": 523,
+            "total_predication": 5255.1650390625,
+            "triangle_count": 94246,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 20.0,
+    "wall_loops": 4
+}

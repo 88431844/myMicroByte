@@ -1,0 +1,45 @@
+{
+  "native_reopen_recompute": "passed",
+  "print_parts": [
+    {
+      "part": "RearShell",
+      "solid": true,
+      "non_manifold": false,
+      "self_intersection": false,
+      "volume_relative_error": 6.939824364683292e-05,
+      "bounds_mm": [
+        85.0,
+        45.0,
+        10.949999809265137
+      ],
+      "sha256": "edb5673351d5cfc52d241344b9d07c06d4a133ba2530576cf08b0df885c9599b"
+    },
+    {
+      "part": "FrontShell",
+      "solid": true,
+      "non_manifold": false,
+      "self_intersection": false,
+      "volume_relative_error": 7.958419331757065e-05,
+      "bounds_mm": [
+        85.0,
+        45.0,
+        5.150000095367432
+      ],
+      "sha256": "6b151ef86420a654810101afa009da06e0e091623e70f2be09889afefba572e2"
+    },
+    {
+      "part": "PowerSlider",
+      "solid": true,
+      "non_manifold": false,
+      "self_intersection": false,
+      "volume_relative_error": 3.282658122901852e-05,
+      "bounds_mm": [
+        3.9000000953674316,
+        6.800000190734863,
+        4.599999904632568
+      ],
+      "sha256": "160fcf198326d34cc62178c9b8c86da6bbc8cb0ecd4cda9c8c78bd0b5a4026d9"
+    }
+  ],
+  "native_sha256": "b3512ecca44534db36e96da49f60271cb3ffcbab5280f8135fb95f1d327eacb0"
+}

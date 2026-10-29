@@ -1,0 +1,86 @@
+{
+  "revision": "0.8",
+  "units": "mm",
+  "parts": [
+    {
+      "name": "RearShell_v08",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 9990.150378326525
+    },
+    {
+      "name": "FrontShellFlat_v08",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4286.556727265799
+    },
+    {
+      "name": "FrontShellRaised_v08",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4648.509949841893
+    },
+    {
+      "name": "PowerSlider_v08",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 92.44855629675862
+    },
+    {
+      "name": "AcousticLid_v08",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 100.07612343763856
+    }
+  ],
+  "collisions": [],
+  "front_options": {
+    "A_raised": {
+      "button_surface_z": 14.200000000000001,
+      "bezel_surface_z": 15.4,
+      "glass_top_z": 13.50005,
+      "switch_top_z_nominal": 15.60005
+    },
+    "B_flat": {
+      "button_surface_z": 14.200000000000001,
+      "bezel_surface_z": 14.200000000000001,
+      "glass_top_z": 13.50005,
+      "switch_top_z_nominal": 15.60005
+    }
+  },
+  "button_holes_mm": {
+    "regular": 6.6,
+    "A_rotated": 6.8,
+    "dpad_centre": 5.7
+  },
+  "glass_opening_mm": [
+    32.72,
+    34.92
+  ],
+  "adhesive_assumed_mm": 1.0,
+  "glass_total_checked_height_above_pcb_mm": 3.4,
+  "desk_gap_mm": 0.9,
+  "slider_inner_flange_length_mm": 10.4,
+  "slider_inner_flange_old_mm": 6.8,
+  "slider_socket_width_mm": 1.65,
+  "slider_motion_mm": [
+    -0.55,
+    3.05
+  ],
+  "acoustic_lid": "large open window, optional removable frame",
+  "printing": "review only; do not send until user approves this revision",
+  "glass_clearances_mm": {
+    "FrontShellFlat_v08": 0.3000000000000007,
+    "FrontShellRaised_v08": 0.3000000000000007
+  },
+  "grille_open_area_mm2": 47.699196819828956,
+  "lid_open_area_mm2": 129.23732289614162,
+  "assumptions": [
+    "Glass 1.9 mm plus approximately 1.0 mm adhesive. User confirms ripples disappear with front removed. Full glass aperture removes vertical pressing lip; side clearance remains.",
+    "No quantified acoustic gain is claimed. Large vent relieves the small rear cavity; removable frame enables same-volume comparison.",
+    "Feet add 0.9 mm beyond back plane. Raised front and rear feet require a reviewed support/orientation strategy before printing.",
+    "Slider keeper tabs are geometric designs, not validated fatigue/force models. Nominal 0.3 mm outward flex during insertion; no glue.",
+    "6.6 mm holes use 6.0 mm switch assumption. Source A is rotated, so it uses 6.8 mm; actual tolerance needs trial."
+  ]
+}
+v0.8 exports complete

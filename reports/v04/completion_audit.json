@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-10-17T00:59:23.061088+08:00",
+  "file_hash_checks": {
+    "RearShell_print.stl": true,
+    "FrontShell_print.stl": true,
+    "PowerSlider_print.stl": true,
+    "native": true,
+    "3mf": true
+  },
+  "CAD_geometry_and_export": "passed; see fit and export validation",
+  "interactive_preview": "50 entities / 8 groups, assembled/rear/step controls verified in CUA; user explicitly approved preview",
+  "print_dispatch": "A1 current job name matches v0.4; A4 black PLA; physical plate empty before send; now printing 2/87",
+  "remaining": null,
+  "followup": "mymicrobyte-v0-4 PAUSED after completion",
+  "final_checked_at": "2026-10-17T01:41:40.386497+08:00",
+  "print_result": "Bambu Studio reports matching v0.4 job completed, 100%, 87/87; saved device screenshot",
+  "print_evidence": "reports/v04/A1_v04_completed.png",
+  "result": "Complete: native CAD, validated print exports, approved interactive preview, and the matching black-PLA A1 job completed."
+}

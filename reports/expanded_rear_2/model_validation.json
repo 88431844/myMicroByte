@@ -1,0 +1,21 @@
+{
+  "valid": true,
+  "solids": 1,
+  "frame_inner": [
+    57,
+    32
+  ],
+  "pack_max": [
+    56,
+    31,
+    3.3
+  ],
+  "mesh_volume_error": 6.741178566589552e-05,
+  "bounds": [
+    86.00315710160817,
+    46.6,
+    11.899999999999999
+  ],
+  "orientation": "rear exterior down, interior up",
+  "count": 2
+}

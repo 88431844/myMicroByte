@@ -1,0 +1,151 @@
+{
+  "units": "mm",
+  "status": "prototype; actual battery, LCD height, speaker and connector cable fit pending",
+  "retained_step_components": [
+    "Board",
+    "U9",
+    "A",
+    "B",
+    "DOWN",
+    "LEFT",
+    "MENU",
+    "RIGHT",
+    "SELECT",
+    "START",
+    "UP",
+    "CARD1",
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C8",
+    "C9",
+    "C10",
+    "C11",
+    "C12",
+    "C13",
+    "RN1",
+    "RN2",
+    "Q1",
+    "Q4",
+    "Q5",
+    "SW3",
+    "LDO1",
+    "U4",
+    "U1",
+    "U17"
+  ],
+  "excluded_abnormally_scaled_models": [
+    "BAT",
+    "SPEAKER",
+    "CHRG1",
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5",
+    "R6",
+    "R7",
+    "R8",
+    "R9",
+    "R11",
+    "R12",
+    "R13",
+    "U5",
+    "U7",
+    "RUN",
+    "U3",
+    "U6"
+  ],
+  "parts": [
+    {
+      "name": "RearShell",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 14885.779931181578
+    },
+    {
+      "name": "FrontShell",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 8379.712268146332
+    },
+    {
+      "name": "Cap_UP",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217564
+    },
+    {
+      "name": "Cap_DOWN",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217564
+    },
+    {
+      "name": "Cap_LEFT",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217566
+    },
+    {
+      "name": "Cap_RIGHT",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217564
+    },
+    {
+      "name": "Cap_START",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217566
+    },
+    {
+      "name": "Cap_SELECT",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217564
+    },
+    {
+      "name": "Cap_MENU",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217566
+    },
+    {
+      "name": "Cap_A",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217566
+    },
+    {
+      "name": "Cap_B",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 74.79268170217566
+    }
+  ],
+  "intersections": [],
+  "shell_overlap_mm3": 0.0,
+  "screen_shell_overlap_mm3": 0.0,
+  "battery_shell_overlap_mm3": 0.0,
+  "usb_shell_overlap_mm3": 0.0,
+  "cap_switch_overlap_mm3": 0.0,
+  "cap_shell_overlap_mm3": 0.0,
+  "battery_clearance": {
+    "assumed_battery_mm": [
+      50.0,
+      30.0,
+      6.0
+    ],
+    "lowest_overhead_reference": "USB 保守占位（绑定模型异常）",
+    "overhead_min_z_mm": 11.4,
+    "battery_top_z_mm": 9.0,
+    "reference_vertical_gap_mm": 2.4000000000000004,
+    "max_thickness_at_same_position_with_0_5mm_gap_mm": 7.9,
+    "scope": "Bounding-box conservative estimate for retained models and provisional envelopes; excludes wires, solder and invalid omitted models."
+  }
+}

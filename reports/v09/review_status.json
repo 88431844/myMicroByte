@@ -1,0 +1,28 @@
+{
+  "revision": "v0.9",
+  "updated_at": "2026-10-18T22:28:38.015995+08:00",
+  "status": "awaiting_user_model_review",
+  "print_sent": false,
+  "print_authorization": "User requested exploded-view review before printing this revision.",
+  "preview_url": "http://127.0.0.1:57304/",
+  "ui_checks": {
+    "loaded_real_meshes": 54,
+    "assembled_and_exploded": true,
+    "front_inside": true,
+    "keeper_insertion_0_and_100_percent": true,
+    "speaker_exploded": true,
+    "plain_rear": true,
+    "slider_end_then_reset_zero": true,
+    "stock_palette_then_all_black": true,
+    "export_png": true,
+    "browser_errors": [],
+    "browser_warnings": [
+      "Three.js legacy bundle deprecation only"
+    ]
+  },
+  "sha256": {
+    "output/v09/myMicrobyte_enclosure_v09.FCStd": "551a6d61f7c245e0387cb7f405cdec02acdf099b96b02f98bdd8071b890128f3",
+    "output/v09/myMicrobyte_enclosure_v09.step": "f02d4ea1e8e08499c084c3ceb03788528c169ee95dc867699b28384916086740",
+    "output/assembly-guide-v09/index.html": "5fbf954fc43c72d8d2de5795e6f7f16d1dd7e853980c07c22c2083629ce471c9"
+  }
+}

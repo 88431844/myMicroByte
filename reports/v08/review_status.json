@@ -1,0 +1,28 @@
+{
+  "revision": "0.8",
+  "status": "preview_ready_waiting_for_front_variant_review",
+  "printed": false,
+  "selected_front_by_user": null,
+  "preview_url": "http://127.0.0.1:62036/",
+  "solid_count": 5,
+  "fit_collisions": [],
+  "native_reopen_recompute": "passed",
+  "slider_install_failures": [],
+  "acoustic_motion_failures": [],
+  "browser_errors": [],
+  "browser_review": [
+    "A/B switch",
+    "assembled/exploded",
+    "height comparison",
+    "vented/no-lid",
+    "slider full travel",
+    "assembly instructions",
+    "desk sound path",
+    "PNG export"
+  ],
+  "physical_tests_pending": [
+    "black screen pressure and button test",
+    "slider retention and electric detents",
+    "equal-volume audio with/without open lid and hand/desk comparison"
+  ]
+}

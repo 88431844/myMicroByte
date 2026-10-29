@@ -1,0 +1,97 @@
+{
+  "revision": "0.4",
+  "units": "mm",
+  "shell_size_mm": [
+    85,
+    45,
+    14.9
+  ],
+  "board_rear_z_mm": 9.0,
+  "board_thickness_CAD_mm": 1.60005,
+  "board_pocket_mm": 1.75,
+  "seam_gap_mm": 0.1,
+  "rear_depth_reduction_mm": 4.0,
+  "battery_nominal_placeholder_mm": [
+    50,
+    25,
+    3
+  ],
+  "battery_checked_finished_envelope_mm": [
+    51,
+    26,
+    3.3
+  ],
+  "battery_frame_clear_mm": [
+    52,
+    27
+  ],
+  "lcd_window_mm": [
+    29.72,
+    29.72
+  ],
+  "lcd_active_mm": [
+    27.72,
+    27.72
+  ],
+  "lcd_glass_recess_mm": 2.299950000000001,
+  "button_nominal_protrusion_mm": 0.7000499999999992,
+  "tf_throat_mm": [
+    14.2,
+    3.8
+  ],
+  "usb_throat_mm": [
+    10.4,
+    4.6
+  ],
+  "exterior_edge_round_mm": [
+    1.8,
+    1.8
+  ],
+  "parts": [
+    {
+      "name": "RearShell_v04",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 10015.862044647209
+    },
+    {
+      "name": "FrontShell_v04",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6070.28683012369
+    },
+    {
+      "name": "PowerSlider_v04",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 69.36699999999996
+    }
+  ],
+  "collisions": [],
+  "clearances_mm": {
+    "battery_ESP32": 0.6799991801009888,
+    "battery_USB": 0.40000000000000036,
+    "battery_speaker_plug": 3.933,
+    "speaker_battery_connector": 1.3520000000000003,
+    "glass_front": 0.19995000000000296
+  },
+  "assumptions": [
+    "Battery model not chosen; prioritize thin rear. Select finished pack within checked envelope including protection and wrap.",
+    "Connector and plug depth remains conservative 5.5 mm, not physically measured.",
+    "Front RUN hole is aligned to rear LED; copper and FR4 may block light. No PCB drilling is proposed.",
+    "MSK switch carriage stroke2.3 mm and fork play accommodate up to1.8 mm actuator movement; physical electrical end positions need confirmation.",
+    "Speaker tab shape is a conservative allowance from image; cable bending and plug strain relief require physical trial.",
+    "M2×2×3 insert interference with 2.8 mm pilot is intentional. Heat insertion fit requires trial."
+  ],
+  "switch_front_clearances_mm": {
+    "UP": 0.19995000000000474,
+    "DOWN": 0.19995000000000474,
+    "LEFT": 0.1999500000000083,
+    "RIGHT": 0.19995000000000474,
+    "START": 0.19995000000000474,
+    "SELECT": 0.1999500000000083,
+    "MENU": 0.19995000000001006,
+    "A": 0.21688000000000152,
+    "B": 0.19995000000000474
+  }
+}

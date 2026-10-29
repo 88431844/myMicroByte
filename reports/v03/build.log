@@ -1,0 +1,126 @@
+{
+  "revision": "0.3",
+  "units": "mm",
+  "shell_size_mm": [
+    85,
+    45,
+    21.90005
+  ],
+  "old_shell_thickness_mm": 24.5,
+  "battery_envelope_mm": [
+    50,
+    35,
+    5
+  ],
+  "lcd_glass_recess_mm": 1.6000000000000014,
+  "button_protrusion_mm": 1.8000000000000007,
+  "screw": "M2x5 head D4 t0.8",
+  "insert": "M2 internal, L2, OD3, pitch0.4",
+  "insert_pilot_diameter_mm": 2.8,
+  "insert_engagement_mm": 1.9999500000000001,
+  "tf_throat_mm": [
+    11.6,
+    1.9
+  ],
+  "usb_throat_mm": [
+    10.4,
+    4.6
+  ],
+  "slider_socket_mm": [
+    1.8,
+    1.5
+  ],
+  "slider_travel_mm": 2.3,
+  "parts": [
+    {
+      "name": "RearShell_v03",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 13070.092152553198
+    },
+    {
+      "name": "FrontShell_v03",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 7006.976748060184
+    },
+    {
+      "name": "Button_UP",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 87.11736194765143
+    },
+    {
+      "name": "Button_DOWN",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 87.1173619476513
+    },
+    {
+      "name": "Button_LEFT",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 87.11736194765143
+    },
+    {
+      "name": "Button_RIGHT",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 87.11736194765143
+    },
+    {
+      "name": "Button_START",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 87.11736194765119
+    },
+    {
+      "name": "Button_SELECT",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 87.11736194765129
+    },
+    {
+      "name": "Button_MENU",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 87.11736194765145
+    },
+    {
+      "name": "Button_A",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 86.25736980828704
+    },
+    {
+      "name": "Button_B",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 87.11736194765137
+    },
+    {
+      "name": "PowerSlider_v03",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 69.36699999999999
+    }
+  ],
+  "collisions": [],
+  "clearances": {
+    "battery_ESP32": 2.7799991801009885,
+    "battery_USB": 2.5,
+    "battery_connector": 0.5999999999999996,
+    "battery_plug": 0.5999999999999996
+  },
+  "assumptions": [
+    "503550 chosen by user: nominal 50x35x5 mm. Seller finished dimensions including protection PCB and wrap are not supplied.",
+    "MSK12C02 actuator 1.3x1.1 and projection1.5 from user drawing. Exact stroke not dimensioned: 2.3 mm carriage travel minus 0.5 mm fork clearance accommodates up to1.8 mm actuator travel; verify both electrical end positions at trial fit.",
+    "Existing switch STEP body is kept as conservative clearance reference; deforming actuators excluded from press sweep.",
+    "Heat-insert ribs intentionally interfere with pilot hole; press temperature and pilot fit require a trial."
+  ],
+  "battery_frame_clear_mm": [
+    57,
+    37
+  ],
+  "button_continuous_travel_mm": 0.6
+}
