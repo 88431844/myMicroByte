@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>myMicrobyte · v0.8 装配工作台</title>
+  <style>/* INLINE_STYLE */</style>
+</head>
+<body>
+<main id="assembly-workbench">
+  <header class="masthead">
+    <div class="identity"><span class="device-mark" aria-hidden="true">＋</span><div><span class="eyebrow">myMicrobyte / v0.8</span><h1>装配工作台</h1></div></div>
+    <div class="header-tools"><span class="spec">85 × 45 <small>mm</small> · 两种前盖</span><button id="export">导出调整记录</button><button id="import-button" class="quiet">导入记录</button><input id="import-file" type="file" accept=".json,application/json" hidden></div>
+  </header>
+  <div class="workbench">
+    <section class="viewer" aria-label="三维装配视图">
+      <div class="view-toolbar">
+        <label class="inline-label">视角<select id="view"><option value="iso">整体斜视</option><option value="top">正面</option><option value="inside">前盖内侧</option><option value="bottom">后盖底面</option><option value="side">电源开关侧</option><option value="tf">TF 卡槽侧</option><option value="height">前盖高度侧视</option></select></label>
+        <button id="acoustic-view" class="primary">音腔爆炸图</button><button id="whole-view" class="quiet">整机爆炸图</button><button id="fit" class="quiet">居中</button><button id="rear-view" class="quiet">后盖内部</button><button id="slider-install" class="quiet">拨帽装入</button><button id="height-view" class="quiet">高度侧视</button><button id="desk-view" class="quiet">桌面声道</button><button id="slider-closeup" class="quiet">拨帽特写</button><button id="screenshot" class="quiet">保存视图</button>
+      </div>
+      <div id="stage">
+        <div class="view-label"><span class="live-dot"></span><span id="scene-caption">v0.8 原始装配</span></div>
+        <div id="canvas-host" role="img" aria-label="可旋转的掌机装配模型。可使用右侧零件列表选择零件。"></div>
+        <div id="labels" aria-hidden="true"></div>
+        <div id="loading" role="status">正在展开 3D 模型…</div>
+        <div class="view-bottom"><span>拖动旋转 · 滚轮缩放 · 右键平移</span><span class="axes">X 长边 / Y 短边 / Z 厚度</span></div>
+      </div>
+      <div class="display-tools"><label><input id="transparent" type="checkbox">外壳半透明</label><label><input id="labels-toggle" type="checkbox" checked>零件标注</label><span id="visible-count" class="muted"></span></div>
+      <div class="selection-strip" aria-live="polite"><span class="eyebrow">当前零件</span><strong id="selected-name">前盖</strong><span id="selected-size" class="mono"></span></div>
+      <div id="notice" role="status" class="notice">v0.8 · 按钮孔缩小、屏幕避压、加长防脱拨帽、通气音腔。先审阅模型，再决定打印。</div>
+    </section>
+    <aside class="controls" aria-label="装配和调整">
+      <section class="variant-panel" aria-label="前盖双方案对比">
+<div class="section-heading"><h2>前盖双方案</h2><span class="review-badge">待你审阅 · 未打印</span></div>
+<label class="field">当前方案<select id="front-variant"><option value="raised">A · 屏幕框凸起 1.2 mm</option><option value="flat">B · 屏幕框与按键区齐平</option></select></label>
+<p id="variant-note" class="part-description"></p>
+<table class="height-table"><thead><tr><th>比较位置</th><th>A 凸框</th><th>B 平面</th></tr></thead><tbody><tr><td>屏幕框高出按键区</td><td>1.2 mm</td><td>0 mm</td></tr><tr><td>按键露出按键区</td><td>约 1.4 mm</td><td>约 1.4 mm</td></tr><tr><td>玻璃低于屏幕框</td><td>约 1.9 mm</td><td>约 0.7 mm</td></tr></tbody></table>
+<p class="fine">玻璃不垫高；按约 1 mm 胶层计算。玻璃整圈让空，前盖不再覆盖压住玻璃边缘。A 键模型略高，实物高度仍有误差。</p>
+<label class="field">音腔盖比较<select id="lid-mode"><option value="vented">开窗盖 · 保留挂扣框</option><option value="off">无盖 · 对照试听</option></select></label>
+<p class="fine">大开窗释放后部空气；四处 0.9 mm 矮脚＋底部浅声道，减少平放遮挡。实际音量、杂音需用同一音源试听。</p>
+</section>
+<section class="color-panel" aria-label="外壳配色">
+        <div class="section-heading"><h2>外壳配色</h2><span class="muted">两种视图通用</span></div>
+        <label class="field">配色方案<select id="palette"><option value="silver_red">银黑红 · 推荐</option><option value="black_green">黑绿 · 无需换卷</option><option value="blue_green">蓝黑绿 · 无需换卷</option><option value="yellow_red">黄黑红 · 明亮</option><option value="red_yellow">红黑黄 · 复古</option><option value="green_blue">绿黑蓝 · 无需换卷</option><option value="white_gray">白灰黑 · 全 PETG</option><option value="gray_black">灰黑白 · 全 PETG</option><option value="clear_back">黑透白 · 全 PETG</option><option value="custom">库存内自由搭配</option></select></label><div class="color-grid"><label>前盖<select id="color-front" aria-label="前盖耗材"><option value="pla_silver">银色 PLA</option><option value="pla_black">黑色 PLA</option><option value="pla_red">红色 PLA</option><option value="pla_yellow">黄色 PLA</option><option value="pla_blue">蓝色 PLA</option><option value="pla_green">绿色 PLA</option><option value="petg_white">白色 PETG</option><option value="petg_gray">灰色 PETG</option><option value="petg_black">黑色 PETG</option><option value="petg_clear">透明 PETG</option></select></label><label>后盖<select id="color-rear" aria-label="后盖耗材"><option value="pla_silver">银色 PLA</option><option value="pla_black">黑色 PLA</option><option value="pla_red">红色 PLA</option><option value="pla_yellow">黄色 PLA</option><option value="pla_blue">蓝色 PLA</option><option value="pla_green">绿色 PLA</option><option value="petg_white">白色 PETG</option><option value="petg_gray">灰色 PETG</option><option value="petg_black">黑色 PETG</option><option value="petg_clear">透明 PETG</option></select></label><label>拨帽<select id="color-slider" aria-label="拨帽耗材"><option value="pla_silver">银色 PLA</option><option value="pla_black">黑色 PLA</option><option value="pla_red">红色 PLA</option><option value="pla_yellow">黄色 PLA</option><option value="pla_blue">蓝色 PLA</option><option value="pla_green">绿色 PLA</option><option value="petg_white">白色 PETG</option><option value="petg_gray">灰色 PETG</option><option value="petg_black">黑色 PETG</option><option value="petg_clear">透明 PETG</option></select></label><label>音腔盖<select id="color-lid" aria-label="音腔盖耗材"><option value="pla_silver">银色 PLA</option><option value="pla_black">黑色 PLA</option><option value="pla_red">红色 PLA</option><option value="pla_yellow">黄色 PLA</option><option value="pla_blue">蓝色 PLA</option><option value="pla_green">绿色 PLA</option><option value="petg_white">白色 PETG</option><option value="petg_gray">灰色 PETG</option><option value="petg_black">黑色 PETG</option><option value="petg_clear">透明 PETG</option></select></label></div><p id="stock-note" class="fine"></p><p class="fine">透明 PETG 按磨砂透光示意；照片与屏幕颜色不等同实物色差。静音开关保留原色。</p><details><summary>现有耗材与槽位</summary><ul class="inventory-list"><li>银色 PLA：备用 1 卷</li><li>黑色 PLA：当前槽 4</li><li>红色 PLA：备用 1 卷</li><li>黄色 PLA：备用 1 卷</li><li>蓝色 PLA：当前槽 1</li><li>绿色 PLA：当前槽 2</li><li>白色 PETG：2 卷</li><li>灰色 PETG：2 卷</li><li>黑色 PETG：2 卷</li><li>透明 PETG：3 卷；当前槽 3</li></ul></details>
+      </section>
+      <div class="mode-tabs" role="tablist" aria-label="操作模式"><button id="guide-tab" role="tab" aria-selected="false" aria-controls="guide-panel">按步骤装配</button><button id="free-tab" role="tab" aria-selected="true" aria-controls="free-panel">自由调整</button></div>
+      <section id="guide-panel" role="tabpanel" aria-labelledby="guide-tab" hidden>
+        <div class="section-heading"><h2>跟着模型装配</h2><span id="step-counter" class="mono"></span></div>
+        <label class="field">装配步骤<select id="step"></select></label>
+        <div id="step-dots" class="step-dots" aria-label="装配步骤进度"></div>
+        <h3 id="step-title"></h3><p id="step-description"></p><ul id="step-checks" class="check-list"></ul>
+        <label class="field range-field"><span><span id="progress-label">本步装入</span><output id="progress-value">0%</output></span><input id="step-progress" type="range" min="0" max="100" value="0" aria-label="本步装入程度"></label>
+        <div class="button-row"><button id="animate-step" class="primary grow">装入本步</button><button id="undo-step">拆出</button></div>
+        <label class="completion"><input id="step-done" type="checkbox">实物已完成本步检查</label>
+        <div class="button-row step-navigation"><button id="previous">← 上一步</button><button id="next" class="grow">下一步 →</button></div>
+        <p class="fine">步骤演示使用原始装配位置。自由调整中的偏移单独保留；动画表示装配方向，不模拟手部动作或热熔过程。</p>
+      </section>
+      <section id="free-panel" role="tabpanel" aria-labelledby="free-tab">
+        <div class="section-heading"><h2>查看装配关系</h2><button id="assemble" class="text-button">合拢模型</button></div>
+        <label class="field range-field"><span>分解程度 <output id="explode-value">35%</output></span><input id="explode" type="range" min="0" max="100" value="35" aria-label="分解程度"></label>
+        <div class="button-row"><button id="show-all">显示全部</button><button id="isolate">单独查看选中件</button></div>
+        <div class="divider"></div>
+        <label class="field">选中零件<select id="part"></select></label>
+        <p id="part-description" class="part-description"></p>
+        <div class="section-heading small"><h3>位置微调</h3><span class="muted">相对原始位置 · mm</span></div>
+        <div class="xyz"><label>X<input id="offset-x" type="number" step="0.1" min="-30" max="30" value="0" aria-label="X 偏移毫米"></label><label>Y<input id="offset-y" type="number" step="0.1" min="-30" max="30" value="0" aria-label="Y 偏移毫米"></label><label>Z<input id="offset-z" type="number" step="0.1" min="-30" max="30" value="0" aria-label="Z 偏移毫米"></label></div>
+        <div class="button-row"><button id="reset-part" class="quiet">还原此零件</button><span id="offset-status" class="muted">原始位置</span></div>
+        <label class="field">试装备注<textarea id="part-note" rows="2" maxlength="1000" placeholder="例如：TF 卡槽还需要向右放宽 0.3 mm…"></textarea></label>
+        <p class="fine">偏移用于表达调整意图，不会改动 CAD、开孔或打印尺寸，也不执行干涉检查。</p>
+        <details id="motion-details"><summary>电源拨帽行程</summary><label hidden class="field range-field"><span>九键下压 <output id="press-value">0.0 mm</output></span><input id="press" type="range" min="0" max="0.6" step="0.05" value="0" aria-label="按键下压毫米"></label><label class="field range-field"><span>电源拨帽 <output id="slide-value">0.0 mm</output></span><input id="slide" type="range" min="-0.55" max="3.05" step="0.05" value="0" aria-label="电源拨帽位移毫米"></label><p class="fine">机械活动范围 3.6 mm（相对图中位置 −0.55～+3.05 mm）。实际电气两档仍需实物确认。</p></details>
+        <details id="parts-details"><summary>零件显隐 <span id="parts-total"></span></summary><div id="part-list"></div></details>
+      </section>
+    </aside>
+  </div>
+  <footer><span>两种前盖择一 · 免胶开窗音腔 · 52 × 30 mm 电池框 · 本轮尚未打印</span><span id="save-state">调整记录保存在本机浏览器</span></footer>
+</main>
+<script id="geometry" type="application/octet-stream">INLINE_GEOMETRY</script>
+<script>/* INLINE_THREE */</script>
+<script>/* INLINE_ORBIT */
+/* INLINE_APP */</script>
+</body>
+</html>
